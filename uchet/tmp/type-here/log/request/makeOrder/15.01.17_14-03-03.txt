@@ -1,0 +1,209 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Общественное питание как особая подсистема торговой отрасли
+            [o_course] => 232
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 35-40 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Выполнение к.р. до указанного срока
+            [o_client_srok] => 1421701200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрГЭУ
+            [user] => new
+            [fio] => Штейле Татьяна Олеговна
+            [phone] => 
+            [mphone] => 89221693149
+            [email] => shteile@bk.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Kurs_Osnovy_torgovli_potr_tovarami.doc
+                    [md5] => 81d98fee4a4b8d130b344077d4400eb6
+                )
+
+            [1] => Array
+                (
+                    [fname] => Polozhenie_o_trebovaniakh_k_oformleniyu_2011.pdf
+                    [md5] => 6d3f8fa6c1695bd74b3a37fc15b8275c
+                )
+
+            [2] => Array
+                (
+                    [fname] => Spisok_rekomenduemoy_literatury.doc
+                    [md5] => f46f9c88c52a0e4d592902a29b7f62b4
+                )
+
+            [3] => Array
+                (
+                    [fname] => Spisok_saytov_statsbornikov_zhurnalov.doc
+                    [md5] => 8883c833408a0ff420057ac5205c12f4
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpqUut80
+            [files[1]] => @/tmp/phpSXf5ri
+            [files[2]] => @/tmp/phpo7WMLz
+            [files[3]] => @/tmp/phpQQTv5Q
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => shteile
+            [password] => 19bc4
+            [fio] => Штейле Татьяна Олеговна
+            [email] => shteile@bk.ru
+            [idu] => 198251
+            [ido] => 185658
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Общественное питание как особая подсистема торговой отрасли
+                            [o_course] => 232
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 35-40 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Выполнение к.р. до указанного срока
+                            [o_client_srok] => 1421701200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрГЭУ
+                            [user] => new
+                            [fio] => Штейле Татьяна Олеговна
+                            [phone] => 
+                            [mphone] => 89221693149
+                            [email] => shteile@bk.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Общественное питание как особая подсистема торговой отрасли
+    [o_course] => 232
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 35-40 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Выполнение к.р. до указанного срока
+    [o_client_srok] => 1421701200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрГЭУ
+    [user] => new
+    [fio] => Штейле Татьяна Олеговна
+    [phone] => 
+    [mphone] => 89221693149
+    [email] => shteile@bk.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Штейле Татьяна Олеговна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №185658 на тему: "Общественное питание как особая подсистема торговой отрасли".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: shteile</p>
+<p>Пароль: 19bc4</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => gillior
+            [a_pass] => 21196663g
+            [a_fio] => Кожевников Игорь олегович
+            [a_mphone] => 79222396937
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => gillior47@gmail.com
+            [a_icq] => 
+            [a_skype] => gillior777
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 15
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 204207
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

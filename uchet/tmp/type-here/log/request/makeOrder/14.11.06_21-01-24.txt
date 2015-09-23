@@ -1,0 +1,188 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Финансовая деятельность корпораций в рыночной экономике
+            [o_course] => 36
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 40-50
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Срочность
+            [o_client_srok] => 1415566800
+            [f_part] => 1
+            [f_comment] => Курсовую необходимо выполнить в соответствии с приложенным планом, также там указано что необходимо,чтоб было выполнено в работе!
+Ткже прилагается методичка!
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УРГЭУ
+            [user] => new
+            [fio] => Бякова Дарья Юрьевна
+            [phone] => 
+            [mphone] => 89178060593
+            [email] => madam.zabaydullina@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => план.docx
+                    [md5] => 189c590a1c412898a813aa70ca5e1069
+                )
+
+            [1] => Array
+                (
+                    [fname] => методичка курсовая.doc
+                    [md5] => 2426ea318b5e035de341efc23a1fca55
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php7rdQRK
+            [files[1]] => @/tmp/phpCD6Z7s
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => madam.zabaydullina
+            [password] => 20010
+            [fio] => Бякова Дарья Юрьевна
+            [email] => madam.zabaydullina@yandex.ru
+            [idu] => 183939
+            [ido] => 169569
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Финансовая деятельность корпораций в рыночной экономике
+                            [o_course] => 36
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 40-50
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Срочность
+                            [o_client_srok] => 1415566800
+                            [f_part] => 1
+                            [f_comment] => Курсовую необходимо выполнить в соответствии с приложенным планом, также там указано что необходимо,чтоб было выполнено в работе!
+Ткже прилагается методичка!
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УРГЭУ
+                            [user] => new
+                            [fio] => Бякова Дарья Юрьевна
+                            [phone] => 
+                            [mphone] => 89178060593
+                            [email] => madam.zabaydullina@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Финансовая деятельность корпораций в рыночной экономике
+    [o_course] => 36
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 40-50
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Срочность
+    [o_client_srok] => 1415566800
+    [f_part] => 1
+    [f_comment] => Курсовую необходимо выполнить в соответствии с приложенным планом, также там указано что необходимо,чтоб было выполнено в работе!
+Ткже прилагается методичка!
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УРГЭУ
+    [user] => new
+    [fio] => Бякова Дарья Юрьевна
+    [phone] => 
+    [mphone] => 89178060593
+    [email] => madam.zabaydullina@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Бякова Дарья Юрьевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №169569 на тему: "Финансовая деятельность корпораций в рыночной экономике".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: madam.zabaydullina</p>
+<p>Пароль: 20010</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

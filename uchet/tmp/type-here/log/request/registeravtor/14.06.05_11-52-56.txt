@@ -1,0 +1,65 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => r_anny_r
+            [a_pass] => 8227e
+            [a_fio] => Коробченко Анна Александровна
+            [a_mphone] => 60628909098
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => r_anny_r@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 16
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => r_anny_r
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

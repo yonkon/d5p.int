@@ -1,0 +1,65 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => stanislav.kondratenko
+            [a_pass] => c2e17
+            [a_fio] => Кондратенко Станислав Анатольевич
+            [a_mphone] => 9097487376
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => stanislav.kondratenko@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 195
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => stanislav.kondratenko
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

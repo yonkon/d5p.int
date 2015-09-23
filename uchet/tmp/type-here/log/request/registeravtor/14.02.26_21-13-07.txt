@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Shtatnova
+            [a_pass] => shtatnov16
+            [a_fio] => Штатнова Екатерина Валерьевна
+            [a_mphone] => 79630930008
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => katia1991@list.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 26
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 195
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 143337
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

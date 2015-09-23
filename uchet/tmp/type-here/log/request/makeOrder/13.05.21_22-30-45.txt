@@ -1,0 +1,94 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Решение задач
+            [o_course] => 25
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1369252800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ
+            [user] => new
+            [fio] => 5 с плюсом
+            [phone] => 
+            [mphone] => 
+            [email] => temnikov-misha@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Задачи.docx
+                    [md5] => 260006ce1892d0ee9479cfc9f7d852b3
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpY8xEWf
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => temnikov-misha@yandex.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,145 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 97427
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Эконометрика
+            [o_course] => 113
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Вариант 2
+            [o_client_srok] => 1403467200
+            [f_part] => 0
+            [f_comment] => Вариант 2
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Kontrolnaya_dlya_zaochnikov_2013.docx
+                    [md5] => a988c2cd5f63f5519ba811026632fbd3
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpNom1uR
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Гадыльшина Анна Евгеньевна
+            [email] => anjagadylshina@rambler.ru
+            [idu] => 97427
+            [ido] => 155949
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Эконометрика
+                            [o_course] => 113
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Вариант 2
+                            [o_client_srok] => 1403467200
+                            [f_part] => 0
+                            [f_comment] => Вариант 2
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Эконометрика
+    [o_course] => 113
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Вариант 2
+    [o_client_srok] => 1403467200
+    [f_part] => 0
+    [f_comment] => Вариант 2
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Гадыльшина Анна Евгеньевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №155949 на тему: "Эконометрика".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: anjagadylshina</p>
+<p>Пароль: 281ab</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

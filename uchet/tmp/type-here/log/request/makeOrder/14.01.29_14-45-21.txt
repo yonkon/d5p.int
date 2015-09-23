@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Рынок пластиковых карт в Российской Федерации и перспективы их развития
+            [o_course] => 23
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 75-80 страниц (вместе с литературой)
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1392148800
+            [f_part] => 0
+            [f_comment] => Заявление на утверждение дипломной работы
+            [o_precost] => 
+            [o_cc] => Москва
+            [country] => 
+            [city] => Москва
+            [o_vuz] => НОУ "ИНЭП" (Негосударственное образовательное учреждение высшего профессионального образования. Институт экономики и предпринимательства)
+            [user] => new
+            [fio] => Килеба Эдгар Фернандович
+            [phone] => 
+            [mphone] => 89068528017
+            [email] => edgar-kileb@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => тема  диплома.pdf
+                    [md5] => a58197238adeb03a4619b0eca1da321e
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpAj5Svu
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => edgarkileb
+            [password] => c1e3c
+            [fio] => Килеба Эдгар Фернандович
+            [email] => edgar-kileb@mail.ru
+            [idu] => 139310
+            [ido] => 125395
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 23
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1392148800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89068528017
+                            [email] => edgar-kileb@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Рынок пластиковых карт в Российской Федерации и перспективы их развития
+    [o_course] => 23
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 75-80 страниц (вместе с литературой)
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1392148800
+    [f_part] => 0
+    [f_comment] => Заявление на утверждение дипломной работы
+    [o_precost] => 
+    [o_cc] => Москва
+    [country] => 
+    [city] => Москва
+    [o_vuz] => НОУ "ИНЭП" (Негосударственное образовательное учреждение высшего профессионального образования. Институт экономики и предпринимательства)
+    [user] => new
+    [fio] => Килеба Эдгар Фернандович
+    [phone] => 
+    [mphone] => 89068528017
+    [email] => edgar-kileb@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Килеба Эдгар Фернандович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №125395 на тему: "Рынок пластиковых карт в Российской Федерации и перспективы их развития".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: edgarkileb</p>
+<p>Пароль: c1e3c</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

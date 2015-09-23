@@ -1,0 +1,185 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Управление структурой капитала предприятия
+            [o_course] => 84
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 85
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Необходимо сдать Введение, 1 и 2 главу до 6 апреля 2015 г.
+            [o_client_srok] => 1429650000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрГИ
+            [user] => new
+            [fio] => Шипова Анастасия
+            [phone] => 
+            [mphone] => +79506402660
+            [email] => anastazia@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Данные по предприятию (практика).rar
+                    [md5] => c94c8ddfc1887f7f30eaaa6aedf1a703
+                )
+
+            [1] => Array
+                (
+                    [fname] => Оформление диплома.rar
+                    [md5] => 4c4afe0c854dc5c81ab256a5b3ef0424
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpB6izQR
+            [files[1]] => @/tmp/phpAoKXp8
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => anastazia
+            [password] => efbb7
+            [fio] => Шипова Анастасия
+            [email] => anastazia@mail.ru
+            [idu] => 210812
+            [ido] => 201501
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Управление структурой капитала предприятия
+                            [o_course] => 84
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 85
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Необходимо сдать Введение, 1 и 2 главу до 6 апреля 2015 г.
+                            [o_client_srok] => 1429650000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрГИ
+                            [user] => new
+                            [fio] => Шипова Анастасия
+                            [phone] => 
+                            [mphone] => +79506402660
+                            [email] => anastazia@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Управление структурой капитала предприятия
+    [o_course] => 84
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 85
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Необходимо сдать Введение, 1 и 2 главу до 6 апреля 2015 г.
+    [o_client_srok] => 1429650000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрГИ
+    [user] => new
+    [fio] => Шипова Анастасия
+    [phone] => 
+    [mphone] => +79506402660
+    [email] => anastazia@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Шипова Анастасия!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №201501 на тему: "Управление структурой капитала предприятия".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: anastazia</p>
+<p>Пароль: efbb7</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

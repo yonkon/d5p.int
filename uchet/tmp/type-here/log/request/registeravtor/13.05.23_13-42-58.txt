@@ -1,0 +1,65 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => dilyusik1991@mail.ru
+            [a_pass] => 453816a
+            [a_fio] => Аслаева Диля Ханнановна
+            [a_mphone] => 89068512764
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => dilyusik1991@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 3
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 77
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => dilyusik1991@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

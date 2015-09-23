@@ -1,0 +1,76 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Кристина190688
+            [a_pass] => zzzzzz10
+            [a_fio] => Кравченко Кристина Владимировна
+            [a_mphone] => 79085850847
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => kravchenko_88@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 245
+                    [1] => 171
+                    [2] => 99
+                    [3] => 68
+                    [4] => 108
+                    [5] => 170
+                    [6] => 140
+                    [7] => 44
+                    [8] => 41
+                    [9] => 141
+                    [10] => 13
+                    [11] => 16
+                    [12] => 275
+                    [13] => 18
+                    [14] => 146
+                    [15] => 19
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 214512
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

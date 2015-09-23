@@ -1,0 +1,33 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteOptions inherit
+Options +FollowSymLinks
+
+# Block out any script trying to base64_encode crap to send via URL
+RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+# Block out any script that includes a <script> tag in URL
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+# Block out any script trying to set a PHP GLOBALS variable via URL
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+# Block out any script trying to modify a _REQUEST variable via URL
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+# Send all blocked request to homepage with 403 Forbidden error!
+RewriteRule ^(.*)$ index.php [F,L]
+
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) index.php?$1 [L,QSA]
+
+#RewriteCond %{HTTP_HOST} ^www.diplombel.by$ [NC]
+#RewriteRule ^(.*)$ http://diplombel.by/$1 [R=301,L]
+
+</IfModule>
+
+
+ErrorDocument 403 /index.php?p=403
+ErrorDocument 404 /index.php?p=404
+
+DirectoryIndex index.php
+AddDefaultCharset UTF-8

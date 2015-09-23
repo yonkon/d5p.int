@@ -1,0 +1,76 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => corwin
+            [a_pass] => dfvgbh1213
+            [a_fio] => Грушников Владислав
+            [a_mphone] => 79622571167
+            [a_phone] => 375291483042
+            [a_web] => 
+            [a_email] => corwin.volot@gmail.com
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 7
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 74
+                    [1] => 76
+                    [2] => 61
+                    [3] => 27
+                    [4] => 82
+                    [5] => 2
+                    [6] => 1
+                    [7] => 83
+                    [8] => 186
+                    [9] => 17
+                    [10] => 49
+                    [11] => 25
+                    [12] => 84
+                    [13] => 60
+                    [14] => 113
+                    [15] => 85
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 95022
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

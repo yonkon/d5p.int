@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Конструкции из дерева и пластмасс
+            [o_course] => 177
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1415998800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Выкса
+            [country] => 
+            [city] => Выкса
+            [o_vuz] => ННГАСУ
+            [user] => new
+            [fio] => Батов Алексей Владимирович
+            [phone] => 
+            [mphone] => 89159349926
+            [email] => cam2383@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => указания к выполнению курсовой работы.pdf
+                    [md5] => e4fdbcbbe244e4be463e3dd2c8ef0dac
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpbgu8Ol
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => cam2383
+            [password] => d3373
+            [fio] => Батов Алексей Владимирович
+            [email] => cam2383@yandex.ru
+            [idu] => 181803
+            [ido] => 167153
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Конструкции из дерева и пластмасс
+                            [o_course] => 177
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1415998800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Выкса
+                            [country] => 
+                            [city] => Выкса
+                            [o_vuz] => ННГАСУ
+                            [user] => new
+                            [fio] => Батов Алексей Владимирович
+                            [phone] => 
+                            [mphone] => 89159349926
+                            [email] => cam2383@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Конструкции из дерева и пластмасс
+    [o_course] => 177
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1415998800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Выкса
+    [country] => 
+    [city] => Выкса
+    [o_vuz] => ННГАСУ
+    [user] => new
+    [fio] => Батов Алексей Владимирович
+    [phone] => 
+    [mphone] => 89159349926
+    [email] => cam2383@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Батов Алексей Владимирович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №167153 на тему: "Конструкции из дерева и пластмасс".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: cam2383</p>
+<p>Пароль: d3373</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

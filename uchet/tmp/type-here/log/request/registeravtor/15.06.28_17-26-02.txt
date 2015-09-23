@@ -1,0 +1,64 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => shepel_nadyusha
+            [a_pass] => 4еа28
+            [a_fio] => Шепель Надежда Андреевна
+            [a_mphone] => 72898909093
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => shepel_nadyusha@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => shepel_nadyusha
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Региональная социальная политика в условиях кризиса
+            [o_course] => 195
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => примерно 30-40 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1421614800
+            [f_part] => 0
+            [f_comment] => требования к оформлению работы
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => РАНХиГС
+            [user] => new
+            [fio] => Рудых Ольга Ивановна
+            [phone] => 
+            [mphone] => 89320132089
+            [email] => olga893017@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => au_kursovay.doc
+                    [md5] => 1fe0557bca2c2db28be2055d5c97fcf5
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpxhDjU9
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => olga893017
+            [password] => c1a87
+            [fio] => Рудых Ольга Ивановна
+            [email] => olga893017@mail.ru
+            [idu] => 196401
+            [ido] => 183337
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Региональная социальная политика в условиях кризиса
+                            [o_course] => 195
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => примерно 30-40 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1421614800
+                            [f_part] => 0
+                            [f_comment] => требования к оформлению работы
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => РАНХиГС
+                            [user] => new
+                            [fio] => Рудых Ольга Ивановна
+                            [phone] => 
+                            [mphone] => 89320132089
+                            [email] => olga893017@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Региональная социальная политика в условиях кризиса
+    [o_course] => 195
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => примерно 30-40 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1421614800
+    [f_part] => 0
+    [f_comment] => требования к оформлению работы
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => РАНХиГС
+    [user] => new
+    [fio] => Рудых Ольга Ивановна
+    [phone] => 
+    [mphone] => 89320132089
+    [email] => olga893017@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Рудых Ольга Ивановна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №183337 на тему: "Региональная социальная политика в условиях кризиса".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: olga893017</p>
+<p>Пароль: c1a87</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

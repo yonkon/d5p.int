@@ -1,0 +1,45 @@
+Array
+(
+    [debug] => 
+    [act] => getNewsList
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 115778
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [idu] => 115778
+            [strong] => 117ce673f53c9d837f1159a0075f4e70
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Железнодорожный транспорт как монополия и рыночная власть.
+Подпункты: 1) Характеристика входных барьеров в отрасль 
+2) Ценовая дискриминация монополиста и ее степени
+3) Влияние антимонопольной власти на развитие ЖДТ
+            [o_course] => 84
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 45-55
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1430946000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => УрГупс
+            [user] => new
+            [fio] => Горбунов Даниил Алексеевич
+            [phone] => 
+            [mphone] => 89826729814
+            [email] => gorbunov_sambo95@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => ek_otr_7_var.wiz
+                    [md5] => d534fede4ce9270937e985e249de3324
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpTEtt0P
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => gorbunov_sambo95
+            [password] => e58d8
+            [fio] => Горбунов Даниил Алексеевич
+            [email] => gorbunov_sambo95@mail.ru
+            [idu] => 217495
+            [ido] => 209051
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Железнодорожный транспорт как монополия и рыночная власть.
+Подпункты: 1) Характеристика входных барьеров в отрасль 
+2) Ценовая дискриминация монополиста и ее степени
+3) Влияние антимонопольной власти на развитие ЖДТ
+                            [o_course] => 84
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 45-55
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1430946000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => УрГупс
+                            [user] => new
+                            [fio] => Горбунов Даниил Алексеевич
+                            [phone] => 
+                            [mphone] => 89826729814
+                            [email] => gorbunov_sambo95@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Железнодорожный транспорт как монополия и рыночная власть.
+Подпункты: 1) Характеристика входных барьеров в отрасль 
+2) Ценовая дискриминация монополиста и ее степени
+3) Влияние антимонопольной власти на развитие ЖДТ
+    [o_course] => 84
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 45-55
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1430946000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => УрГупс
+    [user] => new
+    [fio] => Горбунов Даниил Алексеевич
+    [phone] => 
+    [mphone] => 89826729814
+    [email] => gorbunov_sambo95@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Горбунов Даниил Алексеевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №209051 на тему: "Железнодорожный транспорт как монополия и рыночная власть.
+Подпункты: 1) Характеристика входных барьеров в отрасль 
+2) Ценовая дискриминация монополиста и ее степени
+3) Влияние антимонопольной власти на развитие ЖДТ".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: gorbunov_sambo95</p>
+<p>Пароль: e58d8</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Спроектировать привод цепного транспортера
+            [o_course] => 29
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1398801600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магинтогорск
+            [country] => 
+            [city] => Магинтогорск
+            [o_vuz] => 
+            [user] => new
+            [fio] => Михаил
+            [phone] => 
+            [mphone] => 89630971190
+            [email] => Mihail_razuvaev@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => курсовой.jpg
+                    [md5] => 1f1fe83a10fe7ae19c3e0eb525955d7f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpLqBsS0
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => Mihail_razuvaev
+            [password] => a8ef9
+            [fio] => Михаил
+            [email] => Mihail_razuvaev@mail.ru
+            [idu] => 149676
+            [ido] => 138445
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Спроектировать привод цепного транспортера
+                            [o_course] => 29
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1398801600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Магинтогорск
+                            [country] => 
+                            [city] => Магинтогорск
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => Михаил
+                            [phone] => 
+                            [mphone] => 89630971190
+                            [email] => Mihail_razuvaev@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Спроектировать привод цепного транспортера
+    [o_course] => 29
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1398801600
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Магинтогорск
+    [country] => 
+    [city] => Магинтогорск
+    [o_vuz] => 
+    [user] => new
+    [fio] => Михаил
+    [phone] => 
+    [mphone] => 89630971190
+    [email] => Mihail_razuvaev@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Михаил!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №138445 на тему: "Спроектировать привод цепного транспортера".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: Mihail_razuvaev</p>
+<p>Пароль: a8ef9</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

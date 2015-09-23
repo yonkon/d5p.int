@@ -1,0 +1,94 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Конспект
+            [o_course] => 108
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 30 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1399838400
+            [f_part] => 0
+            [f_comment] => Темы для конспекта
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ Им.Носова
+            [user] => new
+            [fio] => Хабибуллина Земфира Илькамовна
+            [phone] => 
+            [mphone] => 89514684774
+            [email] => zefir2017@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Ист2.jpg
+                    [md5] => 64213b656dff9d06c5676977b2e305fc
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpfLwlpG
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => zefir2017@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

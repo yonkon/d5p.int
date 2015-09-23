@@ -1,0 +1,74 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Чертеж автоматической коробки передач легкового автомобиля
+            [o_course] => 20
+            [o_type] => 30
+            [o_shcooltype] => 
+            [o_volume] => Формат А4 со спецификацией
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1416171600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Учалы
+            [country] => 
+            [city] => Учалы
+            [o_vuz] => МГТУ им. Носова Г.И.
+            [user] => new
+            [fio] => Карабатов Виталий Сергеевич
+            [phone] => 
+            [mphone] => 89613704528
+            [email] => vitalik.karabatov@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => vitalik.karabatov@yandex.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

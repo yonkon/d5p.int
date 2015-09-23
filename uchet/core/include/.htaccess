@@ -1,0 +1,3 @@
+<FilesMatch "securimage_show.php">
+Allow from all
+</FilesMatch>

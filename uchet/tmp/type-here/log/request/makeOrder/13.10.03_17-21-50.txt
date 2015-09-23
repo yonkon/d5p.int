@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => спроектировать главную понизительную подстанцию автомобильного завода.(вариант 33)
+            [o_course] => 86
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1385409600
+            [f_part] => 0
+            [f_comment] => на карандашные заметки внимание не обращайте
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => Магнитогорский Государственный Технический университет
+            [user] => new
+            [fio] => Самохвалова Инна
+            [phone] => 
+            [mphone] => 89097480392
+            [email] => samosval_0@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => РЎРєР°РЅРёСЂРѕРІР°С‚СЊ10010[1].BMP
+                    [md5] => 77b687b87310af7a1b886d988a932583
+                )
+
+            [1] => Array
+                (
+                    [fname] => РЎРєР°РЅРёСЂРѕРІР°С‚СЊ10011[1].BMP
+                    [md5] => 0be7b2315051bfd62b261a3428ddf8a8
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpImN9Bj
+            [files[1]] => @/tmp/phpreOh5o
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => samosval_0
+            [password] => 7170e
+            [fio] => Самохвалова Инна
+            [email] => samosval_0@mail.ru
+            [idu] => 115793
+            [ido] => 104421
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 86
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1385409600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89097480392
+                            [email] => samosval_0@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => спроектировать главную понизительную подстанцию автомобильного завода.(вариант 33)
+    [o_course] => 86
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1385409600
+    [f_part] => 0
+    [f_comment] => на карандашные заметки внимание не обращайте
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => Магнитогорский Государственный Технический университет
+    [user] => new
+    [fio] => Самохвалова Инна
+    [phone] => 
+    [mphone] => 89097480392
+    [email] => samosval_0@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Самохвалова Инна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №104421 на тему: "спроектировать главную понизительную подстанцию автомобильного завода.(вариант 33)".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: samosval_0</p>
+<p>Пароль: 7170e</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

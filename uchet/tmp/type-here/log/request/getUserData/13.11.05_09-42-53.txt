@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 106617
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Заболотских Татьяна
+            [phone] => 
+            [mphone] => 8-912-7789980
+            [email] => 25tatyana73@mail.ru
+            [icq] => 
+            [contact] => Челябинская область,город Южноуральск
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 
+            [country] => 
+            [city] => 
+            [speciality] => не работаю(на инвалидности), студентка ЧелГУ
+            [orders_before] => 
+            [time_to_call] => 
+            [payment_method] => по карточке сбербанка РФ
+            [university] => ЧелГУ
+            [examinations_time] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

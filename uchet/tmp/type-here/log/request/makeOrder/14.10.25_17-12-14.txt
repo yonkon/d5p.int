@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 181549
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => правоохранительные органы, контрольная работа
+            [o_course] => 117
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 14 шрифт TNR, интервал 1,5
+            [o_client_srok] => 1415131200
+            [f_part] => 0
+            [f_comment] => вариант 1
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрГЮУ
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => i2hgf7je82.pdf
+                    [md5] => 68e8cfec4c75be0e91ac1e200fda1b5e
+                )
+
+            [1] => Array
+                (
+                    [fname] => 69hfjab9f7.pdf
+                    [md5] => d0ca266fb45c511b3e78e43e9fdbc47e
+                )
+
+            [2] => Array
+                (
+                    [fname] => 40ebh9a4g9.pdf
+                    [md5] => a91e72b771928bc020a07825f512641e
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpWVHUFn
+            [files[1]] => @/tmp/php2LASSk
+            [files[2]] => @/tmp/php2qG75h
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Бабинцев Кирилл
+            [email] => setter_lunder@mail.ru
+            [idu] => 181549
+            [ido] => 166916
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => правоохранительные органы, контрольная работа
+                            [o_course] => 117
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 14 шрифт TNR, интервал 1,5
+                            [o_client_srok] => 1415131200
+                            [f_part] => 0
+                            [f_comment] => вариант 1
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрГЮУ
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => правоохранительные органы, контрольная работа
+    [o_course] => 117
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 14 шрифт TNR, интервал 1,5
+    [o_client_srok] => 1415131200
+    [f_part] => 0
+    [f_comment] => вариант 1
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрГЮУ
+    [refid] => 0
+)
+<p>Здравствуйте, Бабинцев Кирилл!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №166916 на тему: "правоохранительные органы, контрольная работа".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: setter_lunder</p>
+<p>Пароль: a0ba4</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,62 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Анастасия357
+            [a_pass] => qwertyZXC12332
+            [a_fio] => Волосникова Анастасия Андреевна
+            [a_mphone] => 79642483744
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => jet357@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 14
+                    [1] => 19
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 222503
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

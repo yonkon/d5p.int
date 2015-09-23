@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работу по управленческим решения
+            [o_course] => 4
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => Указан в начале файла
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1400961600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Москва
+            [country] => 
+            [city] => Москва
+            [o_vuz] => Финансовый университет
+            [user] => new
+            [fio] => Иванова Елена
+            [phone] => 
+            [mphone] => 8905722187
+            [email] => elenalioka@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => zadania_kontrolnoy_raboty.docx
+                    [md5] => 66f8fbb5176b0d59269f6aee3d9b6fcd
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpjpmR9U
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => elenalioka
+            [password] => 8b3e3
+            [fio] => Иванова Елена
+            [email] => elenalioka@mail.ru
+            [idu] => 159899
+            [ido] => 150806
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Контрольная работу по управленческим решения
+                            [o_course] => 4
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => Указан в начале файла
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1400961600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Москва
+                            [country] => 
+                            [city] => Москва
+                            [o_vuz] => Финансовый университет
+                            [user] => new
+                            [fio] => Иванова Елена
+                            [phone] => 
+                            [mphone] => 8905722187
+                            [email] => elenalioka@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Контрольная работу по управленческим решения
+    [o_course] => 4
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => Указан в начале файла
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1400961600
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Москва
+    [country] => 
+    [city] => Москва
+    [o_vuz] => Финансовый университет
+    [user] => new
+    [fio] => Иванова Елена
+    [phone] => 
+    [mphone] => 8905722187
+    [email] => elenalioka@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Иванова Елена!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №150806 на тему: "Контрольная работу по управленческим решения".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: elenalioka</p>
+<p>Пароль: 8b3e3</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

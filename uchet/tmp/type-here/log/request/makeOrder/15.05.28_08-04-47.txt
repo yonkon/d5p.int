@@ -1,0 +1,94 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Повышение эффективности сбытовой деятельности предприятия на примере ОАО "Оптика"
+            [o_course] => 25
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 30 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Требуется выполнить только третью главу дипломной работы по выводам второй главы, которая приложена в файле Требования к работе. Уважаемый автор, если за указанный срок Вы не сможете выполнить работу, то предложите свой срок.
+            [o_client_srok] => 1433278800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => УрГЭУ
+            [user] => new
+            [fio] => Черданцева Евгения Игоревна
+            [phone] => 
+            [mphone] => 9222267673
+            [email] => cherdantsevaei@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Trebovania_k_rabote.docx
+                    [md5] => 78f6de4bd883b922a0199e8411718178
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpgMSOkT
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => cherdantsevaei@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,169 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 224610
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Библиографическое описание
+            [o_course] => 120
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1435006800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => Челябинская Государственная Академия Культуры и Искусств
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => ЗАДАНИЯ.doc
+                    [md5] => 0390ee890ec273d4a10cc969a37315eb
+                )
+
+            [1] => Array
+                (
+                    [fname] => БЗ. БО 7.1.-2003.pdf
+                    [md5] => 005b08a3f83b06f0adbaab50d38d7599
+                )
+
+            [2] => Array
+                (
+                    [fname] => Сокращение слов 7.0.12-2011.pdf
+                    [md5] => 9601a7ec4be8121cf2ae598454e7ebac
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpdhb4u2
+            [files[1]] => @/tmp/phpkj8TsW
+            [files[2]] => @/tmp/phpVG27qQ
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Хмелевская Татьяна Алексеевна
+            [email] => khmelevskaya_tanya@mail.ru
+            [idu] => 224610
+            [ido] => 218785
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Библиографическое описание
+                            [o_course] => 120
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1435006800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => Челябинская Государственная Академия Культуры и Искусств
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Библиографическое описание
+    [o_course] => 120
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1435006800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => Челябинская Государственная Академия Культуры и Искусств
+    [refid] => 0
+)
+<p>Здравствуйте, Хмелевская Татьяна Алексеевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №218785 на тему: "Библиографическое описание".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: khmelevskaya_tanya</p>
+<p>Пароль: 1a4a5</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

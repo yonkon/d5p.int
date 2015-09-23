@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => yamka_1
+            [a_pass] => 19922008
+            [a_fio] => Ким Виктория Фредериковна
+            [a_mphone] => 79678676888
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => vimpex888@mail.ru
+            [a_icq] => 417145759
+            [a_skype] => yamka_1
+            [a_fromknow] => 7
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 25
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 99283
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

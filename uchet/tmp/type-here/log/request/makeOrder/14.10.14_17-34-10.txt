@@ -1,0 +1,58 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 132239
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Выбор схемы питающих распределительных сетей
+            [o_course] => 237
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1416168000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => doc02857320141014171242_001.jpg
+                    [md5] => a086e8ec8bad0b62367b825aa984c98c
+                )
+
+            [1] => Array
+                (
+                    [fname] => Дубина.doc
+                    [md5] => ee862849cbc7cfe51c322328ef9df865
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpr1NKIP
+            [files[1]] => @/tmp/phpCjMQOt
+        )
+
+)
+
+
+

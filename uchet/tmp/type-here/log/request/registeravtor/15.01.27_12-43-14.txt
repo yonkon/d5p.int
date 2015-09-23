@@ -1,0 +1,64 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => maryamdavletshina
+            [a_pass] => a41ca
+            [a_fio] => Давлетшина Марьям Хакимовна
+            [a_mphone] => 89222128002
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => maryamdavletshina@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 5
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => maryamdavletshina
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,219 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Макроэкономика
+            [o_course] => 82
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 15 задач
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => магнитогорск
+            [country] => 
+            [city] => магнитогорск
+            [o_vuz] => мгту
+            [user] => new
+            [fio] => короткевич ольга сергеевна
+            [phone] => 
+            [mphone] => 89028665042
+            [email] => korotkevich@mag.saturn.net
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => DSC_3799.jpg
+                    [md5] => c118a9be473becbe97cb47ad9af1df9e
+                )
+
+            [1] => Array
+                (
+                    [fname] => DSC_3800.jpg
+                    [md5] => fbed4f9ba44c73e71904ce464a61f793
+                )
+
+            [2] => Array
+                (
+                    [fname] => DSC_3798.jpg
+                    [md5] => 35c690c9990ba760d685d1f0d2811e59
+                )
+
+            [3] => Array
+                (
+                    [fname] => DSC_3797.jpg
+                    [md5] => 93f57b231fd3adbd62a990a558112288
+                )
+
+            [4] => Array
+                (
+                    [fname] => DSC_3796.jpg
+                    [md5] => 7e6de72ba557654da0467a3e83c7d8ee
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpMsDoOu
+            [files[1]] => @/tmp/phpFojxUW
+            [files[2]] => @/tmp/phpIDpi1o
+            [files[3]] => @/tmp/phpzurv8Q
+            [files[4]] => @/tmp/phpAKP5fj
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => korotkevich
+            [password] => 0bec0
+            [fio] => короткевич ольга сергеевна
+            [email] => korotkevich@mag.saturn.net
+            [idu] => 161996
+            [ido] => 153448
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Макроэкономика
+                            [o_course] => 82
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 15 задач
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => магнитогорск
+                            [country] => 
+                            [city] => магнитогорск
+                            [o_vuz] => мгту
+                            [user] => new
+                            [fio] => короткевич ольга сергеевна
+                            [phone] => 
+                            [mphone] => 89028665042
+                            [email] => korotkevich@mag.saturn.net
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Макроэкономика
+    [o_course] => 82
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 15 задач
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => магнитогорск
+    [country] => 
+    [city] => магнитогорск
+    [o_vuz] => мгту
+    [user] => new
+    [fio] => короткевич ольга сергеевна
+    [phone] => 
+    [mphone] => 89028665042
+    [email] => korotkevich@mag.saturn.net
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, короткевич ольга сергеевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №153448 на тему: "Макроэкономика".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: korotkevich</p>
+<p>Пароль: 0bec0</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

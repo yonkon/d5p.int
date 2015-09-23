@@ -1,0 +1,181 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 118119
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => курсовая и контрольные
+            [o_course] => 26
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1395259200
+            [f_part] => 0
+            [f_comment] => СКОЛЬКО ПРИМЕРНО БУДЕТ СТОИТЬ КАЖДАЯ РАБОТА?
+            [o_precost] => 
+            [o_cc] => МАГНИТОГОРСК
+            [country] => 
+            [city] => МАГНИТОГОРСК
+            [o_vuz] => ЧФ РАНХиГС
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Земельное право ЗАДАЧИ.docx
+                    [md5] => 73f5ed34d8e77607277f169b0b913fce
+                )
+
+            [1] => Array
+                (
+                    [fname] => МУНИЦИПАЛЬНОЕ ПРАВО темы курс работ.doc
+                    [md5] => 8dd4ea0224605bfebacfe968d1b50e9a
+                )
+
+            [2] => Array
+                (
+                    [fname] => Право социального обеспечения. Контрольная работа.docx
+                    [md5] => 23dc12adbd9377faeb49855cf4eb8bad
+                )
+
+            [3] => Array
+                (
+                    [fname] => Уголовное контр..doc
+                    [md5] => 57e4cae92605ba1ff6ae507a6cdbc56f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpQUY2UM
+            [files[1]] => @/tmp/phpXKRSt7
+            [files[2]] => @/tmp/phpCOSJ2r
+            [files[3]] => @/tmp/phpl0OBBM
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Хамматова Неля
+            [email] => nelya.hammatova@mail.ru
+            [idu] => 118119
+            [ido] => 133526
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => курсовая и контрольные
+                            [o_course] => 26
+                            [o_type] => 9
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1395259200
+                            [f_part] => 0
+                            [f_comment] => СКОЛЬКО ПРИМЕРНО БУДЕТ СТОИТЬ КАЖДАЯ РАБОТА?
+                            [o_precost] => 
+                            [o_cc] => МАГНИТОГОРСК
+                            [country] => 
+                            [city] => МАГНИТОГОРСК
+                            [o_vuz] => ЧФ РАНХиГС
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => курсовая и контрольные
+    [o_course] => 26
+    [o_type] => 9
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1395259200
+    [f_part] => 0
+    [f_comment] => СКОЛЬКО ПРИМЕРНО БУДЕТ СТОИТЬ КАЖДАЯ РАБОТА?
+    [o_precost] => 
+    [o_cc] => МАГНИТОГОРСК
+    [country] => 
+    [city] => МАГНИТОГОРСК
+    [o_vuz] => ЧФ РАНХиГС
+    [refid] => 0
+)
+<p>Здравствуйте, Хамматова Неля!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №133526 на тему: "курсовая и контрольные".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nelya.hammatova</p>
+<p>Пароль: 8c61a</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

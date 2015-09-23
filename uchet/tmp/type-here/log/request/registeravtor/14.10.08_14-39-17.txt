@@ -1,0 +1,89 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => antipov.s1@yandex.ru
+            [a_pass] => antipov.s1
+            [a_fio] => Сергей Сергеевич Антипов
+            [a_mphone] => 79230304420
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => antipov.s1@yandex.ru
+            [a_icq] => 648-545-996
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 114
+                    [1] => 58
+                    [2] => 29
+                    [3] => 35
+                    [4] => 27
+                    [5] => 107
+                    [6] => 82
+                    [7] => 210
+                    [8] => 1
+                    [9] => 215
+                    [10] => 28
+                    [11] => 83
+                    [12] => 63
+                    [13] => 51
+                    [14] => 192
+                    [15] => 183
+                    [16] => 212
+                    [17] => 45
+                    [18] => 115
+                    [19] => 248
+                    [20] => 79
+                    [21] => 30
+                    [22] => 89
+                    [23] => 95
+                    [24] => 147
+                    [25] => 113
+                    [26] => 237
+                    [27] => 87
+                    [28] => 117
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 178190
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

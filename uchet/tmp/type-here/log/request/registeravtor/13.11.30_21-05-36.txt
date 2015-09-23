@@ -1,0 +1,71 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Nusha2213
+            [a_pass] => 16021963
+            [a_fio] => Жукова Анна Ивановна
+            [a_mphone] => 9381059326
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => vlganna@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                    [1] => 76
+                    [2] => 77
+                    [3] => 181
+                    [4] => 82
+                    [5] => 2
+                    [6] => 11
+                    [7] => 56
+                    [8] => 1
+                    [9] => 83
+                    [10] => 186
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 129332
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

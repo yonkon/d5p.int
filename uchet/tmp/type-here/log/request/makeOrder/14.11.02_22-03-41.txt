@@ -1,0 +1,116 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Лабораторные работы и курсовой проект
+            [o_course] => 86
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1415307600
+            [f_part] => 0
+            [f_comment] => мой вариант 10
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => мгту
+            [user] => new
+            [fio] => Останин Константин
+            [phone] => 
+            [mphone] => 89525229565
+            [email] => diagnost53196@gmail.com
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => для отправки.rar
+                    [md5] => bbddd1cd79cca6444dbc99b6674bc975
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php1fhwvR
+        )
+
+)
+
+
+
+Array
+(
+    [code] => 1
+    [errors] => Array
+        (
+            [26] => Array
+                (
+                )
+
+        )
+
+    [debug_info] => Array
+        (
+            [$_SERVER] => Array
+                (
+                    [HTTP_HOST] => www2.sverka1.ru
+                    [HTTP_X_FORWARDED_FOR] => 5.101.157.32
+                    [HTTP_X_FORWARDED_PROTO] => http
+                    [HTTP_X_REAL_IP] => 5.101.157.32
+                    [HTTP_CONNECTION] => close
+                    [HTTP_USER_AGENT] => Opera 10.00
+                    [HTTP_ACCEPT] => */*
+                    [CONTENT_LENGTH] => 369441410
+                    [CONTENT_TYPE] => multipart/form-data; boundary=----------------------------6f3a7bad9e3d
+                    [PATH] => /usr/local/bin:/usr/bin:/bin
+                    [SERVER_SIGNATURE] => <address>Apache/2.2.22 (Debian) Server at www2.sverka1.ru Port 80</address>
+
+                    [SERVER_SOFTWARE] => Apache/2.2.22 (Debian)
+                    [SERVER_NAME] => www2.sverka1.ru
+                    [SERVER_ADDR] => 5.79.86.236
+                    [SERVER_PORT] => 80
+                    [REMOTE_ADDR] => 5.101.157.32
+                    [DOCUMENT_ROOT] => /var/www/saite/data/www/sverka1
+                    [SERVER_ADMIN] => webmaster@sverka1.ru
+                    [SCRIPT_FILENAME] => /var/www/saite/data/www/sverka1/server.uchet.php
+                    [REMOTE_PORT] => 46018
+                    [GATEWAY_INTERFACE] => CGI/1.1
+                    [SERVER_PROTOCOL] => HTTP/1.0
+                    [REQUEST_METHOD] => POST
+                    [QUERY_STRING] => 
+                    [REQUEST_URI] => /server.uchet.php
+                    [SCRIPT_NAME] => /server.uchet.php
+                    [PHP_SELF] => /server.uchet.php
+                    [REQUEST_TIME] => 1414955057
+                )
+
+            [$_REQUEST] => Array
+                (
+                )
+
+        )
+
+    [textOut] => wrong version!
+)
+
+
+

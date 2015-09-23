@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => использование сценарного планирования в процессе на макро и микроуровнях
+            [o_course] => 1
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 35
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1415563200
+            [f_part] => 1
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => екатеринбург
+            [country] => 
+            [city] => екатеринбург
+            [o_vuz] => тюмгу
+            [user] => new
+            [fio] => лапина юлия павловна
+            [phone] => 
+            [mphone] => 89623237833
+            [email] => yulya_200790@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Стратегический менеджмент (1)темы курсовой.doc
+                    [md5] => 168c075573be2b72dde503bdadbbfa73
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php6v18NX
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => yulya_200790
+            [password] => 618bb
+            [fio] => лапина юлия павловна
+            [email] => yulya_200790@mail.ru
+            [idu] => 179465
+            [ido] => 165001
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => использование сценарного планирования в процессе на макро и микроуровнях
+                            [o_course] => 1
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 35
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1415563200
+                            [f_part] => 1
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => екатеринбург
+                            [country] => 
+                            [city] => екатеринбург
+                            [o_vuz] => тюмгу
+                            [user] => new
+                            [fio] => лапина юлия павловна
+                            [phone] => 
+                            [mphone] => 89623237833
+                            [email] => yulya_200790@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => использование сценарного планирования в процессе на макро и микроуровнях
+    [o_course] => 1
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 35
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1415563200
+    [f_part] => 1
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => екатеринбург
+    [country] => 
+    [city] => екатеринбург
+    [o_vuz] => тюмгу
+    [user] => new
+    [fio] => лапина юлия павловна
+    [phone] => 
+    [mphone] => 89623237833
+    [email] => yulya_200790@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, лапина юлия павловна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №165001 на тему: "использование сценарного планирования в процессе на макро и микроуровнях".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: yulya_200790</p>
+<p>Пароль: 618bb</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

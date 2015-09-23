@@ -1,0 +1,221 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Курсовая
+            [o_course] => 69
+            [o_type] => 32
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1418245200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Укатеринбург
+            [country] => 
+            [city] => Укатеринбург
+            [o_vuz] => УГГУ
+            [user] => new
+            [fio] => Минлиева Людмила Викторовна
+            [phone] => 
+            [mphone] => 89632735591
+            [email] => lminlieva@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => приложения.docx
+                    [md5] => 74d17ab3ebde351a6dbd2a0262c295bb
+                )
+
+            [1] => Array
+                (
+                    [fname] => мой вариант 006.jpg
+                    [md5] => f4da777282210f209dd97c41ffa1212f
+                )
+
+            [2] => Array
+                (
+                    [fname] => ВЫНОС ПРОЕКТОВ ПЛАНИРОВКИ В НАТУРУ.docx
+                    [md5] => 48e6d2bac636e43b990ebd961a1803e6
+                )
+
+            [3] => Array
+                (
+                    [fname] => карта для курсового проекта по прикладной геодезии 2 вариант.JPG
+                    [md5] => 7947b817d2784e96d922d156f904c5d9
+                )
+
+            [4] => Array
+                (
+                    [fname] => Текст методички.docx
+                    [md5] => b816427ee0af717e60fb031b326488a4
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phppqnhKV
+            [files[1]] => @/tmp/phppzCDxw
+            [files[2]] => @/tmp/php3eynl7
+            [files[3]] => @/tmp/php1WrRaI
+            [files[4]] => @/tmp/php3gne1i
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => lminlieva
+            [password] => 334f8
+            [fio] => Минлиева Людмила Викторовна
+            [email] => lminlieva@mail.ru
+            [idu] => 191802
+            [ido] => 178384
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Курсовая
+                            [o_course] => 69
+                            [o_type] => 32
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1418245200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Укатеринбург
+                            [country] => 
+                            [city] => Укатеринбург
+                            [o_vuz] => УГГУ
+                            [user] => new
+                            [fio] => Минлиева Людмила Викторовна
+                            [phone] => 
+                            [mphone] => 89632735591
+                            [email] => lminlieva@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Курсовая
+    [o_course] => 69
+    [o_type] => 32
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1418245200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Укатеринбург
+    [country] => 
+    [city] => Укатеринбург
+    [o_vuz] => УГГУ
+    [user] => new
+    [fio] => Минлиева Людмила Викторовна
+    [phone] => 
+    [mphone] => 89632735591
+    [email] => lminlieva@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Минлиева Людмила Викторовна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №178384 на тему: "Курсовая".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: lminlieva</p>
+<p>Пароль: 334f8</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

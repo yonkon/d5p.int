@@ -1,0 +1,189 @@
+{$conf.base_url}* {margin:0;padding:0;}
+html, body{height:100%;padding:0px;margin:0px;}
+body{font-family:Arial, Helvetica, sans-serif; font-size:12px;background-color:#ffffff;color:#000000;text-decoration:none;}
+/*ul,ol,li{margin-left:20px;}*/
+img{border:0px; outline:none;}
+#result{padding-left:5px;padding-right:5px;};
+a, a img, img{outline:none;}
+a:link,a:visited,a:active, .aslink {text-decoration: none;color: #13658b;}
+a:hover, .aslink:hover {text-decoration: underline; color: #cc0000;}
+ul,ol{padding-left:20px;}
+div#Header{position:fixed;top:0px;left:0px;height:97px;z-index:100;/*border-bottom:solid 1px #132c00;*/width:100%;text-align:left; margin-bottom:3px;/*background:#bbd37e;*/ background:url(img/hdbg.png) left bottom repeat-x;}
+div#Menu{z-index:1000; height:26px; clear:both; padding-left:20px; padding-right:20px; background:url(img/hdbg.png) left top repeat-x #ffffff; border-bottom:solid 1px #132c00; padding-top:3px;}
+div#PageTitle{text-align:left;padding-left:10px;clear:both; height:26px; background:#efefef;}
+div#aptitle{height:27px;}
+div#mainContentAdmin{padding-top:100px;}
+div#ARC{display:none;float:right;background:#ffffff;border:solid 1px #132c00; border-top:none; width:400px; margin-top:-27px;}
+div#ActionRes{padding-left:20px;padding-right:20px;padding-bottom:4px;border-top:solid 1px #132c00; overflow:auto;}
+div#ART{text-align:center; padding-bottom:2px; background:#FFFF99;}
+
+h1{font-size:22px;color:#000000;font-weight:normal;}
+h2{font-size:18px;color:#000000;font-weight:normal;}
+h3{font-size:14px;color:#000000;font-weight:solid;}
+h4{font-size:12px;color:#000000;font-weight:solid;}
+
+.red{ color:#FF0000;}
+.req{ color:#F60; }
+
+input, select, textarea, checkbox, radio{font-size:9pt; background:#f3fadd;border:solid 1px #344d08;}
+input:hover, select:hover, textarea:hover, checkbox:hover, radio:hover{font-size:9pt; background:#ffffff;border:solid 1px #344d08;}
+input[type="submit"],input[type="button"],input[type~="submit"],input[type~="button"]{font-size:9pt; background:#e7e7e7; color:#900000; border:solid 1px #900000; cursor:pointer; padding:1px;}
+input[type="submit"]:hover,input[type="button"]:hover,input[type~="submit"]:hover,input[type~="button"]:hover{font-size:9pt; background:#900000; color:#e7e7e7; border:solid 1px #900000; cursor:pointer; padding:1px;}
+/*
+table.selrow{empty-cells:show;}
+table.selrow td{border-bottom:solid 1px #bbd37e; padding:2px; vertical-align:top; empty-cells:show;}
+table.selrow th{border-bottom:solid 1px #bbd37e; padding:2px;text-align:left;font-weight:bold; empty-cells:show;background-color:#344d08; color:#ffffff;}
+table.selrow tr {background-color:#ffffff;}
+table.selrow tr.high {background-color:#bbd37e;}
+table.selrow tr:hover {background-color:#dfecbf;}
+*/
+table.selrow{empty-cells:show; border-left:solid 1px #cccccc; border-top:solid 1px #cccccc;}
+table.selrow td{border-bottom:solid 1px #cccccc; border-right:solid 1px #cccccc; padding:2px; vertical-align:top; empty-cells:show;}
+table.selrow th{border-bottom:solid 1px #cccccc; border-right:solid 1px #cccccc; padding:2px;text-align:center;font-weight:bold; empty-cells:show;background-color:#e7e7e7; color:#000000; font-size:11px;}
+table.selrow tr {background-color:#ffffff;}
+table.selrow tr.high {background-color:#bbd37e;}
+table.selrow tr:hover {background-color:#dfecbf;}
+
+table.selrow1{empty-cells:show;}
+table.selrow1 td{border-bottom:solid 1px #cccccc; padding:2px; vertical-align:top; empty-cells:show;}
+table.selrow1 th{border-bottom:solid 1px #cccccc; padding:2px;text-align:right;font-weight:bold; empty-cells:show;background-color:#dfecbf; color:#000000;}
+table.selrow1 tr {background-color:#ffffff;}
+table.selrow1 tr:hover {background-color:#dfecbf;}
+
+.block{border:solid 1px #344d08; padding:5px; background:#eef3e2;}
+.blockf{border:solid 1px #344d08; padding:2px; margin:2px;}
+
+input.datetextbox{
+	cursor:pointer;
+	background:url(img/calendar.gif) right center no-repeat #f3fadd;
+	border:solid 1px #4093ba;
+}
+
+fieldset{padding:5px; border:solid 1px #cccccc; background:#eeeeee;}
+legend{font-weight:bold; font-size:16px; color:#000000;}
+/* стили дл€ форматировани€ номеров разбивки на страницы */
+.navigation{}
+.navigation a:link,.navigation a:visited,.navigation a:active{border:solid 1px #6388be;color:#ffffff;padding-left:2px;padding-right:2px;background:#6388be;}
+.navigation a:hover{color:#6388be;background:#ffffff;}
+.navigation .current{font-weight:bold;border:solid 1px #6388be;color:#6388be;padding-left:2px;padding-right:2px;}
+
+.tbg0{background:#acc669;}
+.tbg1{background:#cbdd9e;}
+.tbg2{background:#e5f0c8;}
+.tbg3{background:#f1f8e1;}
+.tbg4{background:#f7faf0;}
+.tbg5{background:#ffffff;}
+
+
+/* calendar styles */
+table.cld{empty-cells:show;border-left:solid 1px #cccccc;border-right:solid 1px #cccccc;border-top:solid 1px #cccccc;}
+table.cld td{border-bottom:solid 1px #cccccc; padding:2px; vertical-align:top; empty-cells:show;}
+table.cld th{border-bottom:solid 1px #cccccc; padding:2px;text-align:center;font-weight:bold; empty-cells:show;background:#d7e7fb; color:#666666; font-size:9px;}
+table.cld tr {background-color:#ffffff;}
+
+a.hid:link, a.hid:visited, a.hid:active{border:solid 1px #ffffff;color:#cccccc;padding-left:2px;padding-right:2px;background:#ffffff; outline:none;}
+a.hid:hover{color:#cccccc;background:#ffffff;}
+a.cur:link, a.cur:visited, a.cur:active{border:solid 1px #ffffff;color:#6388be;padding-left:2px;padding-right:2px;background:#ffffff; outline:none;}
+a.cur:hover{color:#ffffff; background:#6388be;}
+
+a.seld:link, a.seld:visited, a.seld:active{border:solid 1px #ffffff;color:#ffffff;padding-left:2px;padding-right:2px;background:#6388be; outline:none;}
+a.seld:hover{color:#ffffff; background:#6388be;}
+.oldtime{
+	background-color:#E4E4E4;	
+}
+
+/* ***************** */
+/* **** OUTLOOK **** */
+/* ***************** */
+div#OFolder{height:524px; overflow:auto; border:solid 1px #6699FF;}
+#OFolderTd{padding-top:5px; padding-right:5px; border-right:solid 1px #6699ff;}
+div#OFolder a:link, div#OFolder a:visited, div#OFolder a:active{
+	display:block; 
+	border:solid 1px #ffffff; 
+	padding:2px;
+	outline:none;}
+div#OFolder a:hover{border:solid 1px #6699FF; text-decoration:none;}
+div#OMailList{border-bottom:solid 1px #6699FF; height:530px;}
+div#OMailPageList{height:30px;}
+div#OMailListSimple{height:500px; overflow-y: scroll;}
+div#OMessageArea{height:260px;}
+div#OPanel1 td, div#OPanel2 td{padding-left:5px; padding-right:5px; text-align:center;}
+div#OPanel1 a:link, div#OPanel1 a:visited, div#OPanel1 a:active, div#OPanel2 a:link, div#OPanel2 a:visited, div#OPanel2 a:active {
+	display:block; 
+	border:solid 1px #ffffff; 
+	padding:2px;
+	outline:none;}
+div#OPanel2 a:hover, div#OPanel2 a:hover{background:#6699FF; text-decoration:none;}
+div#OPanel1, div#OPanel2{background:url(outlook/cp_bg.gif) left top repeat-x;}
+
+.Orow1{}
+.OrowB{font-weight:bold;}
+.Omainbody{background:#ffffff;}
+.Omainsel{background:#6699ff; color:#ffffff;}
+.Omainhighsel{background:#FF6633; color:#ffffff;}
+.Omainhigh{background:#e3efff;}
+
+div#OMSGBlock, div#WFMsg{color:red;}
+div#WFM{height:20px; color:red;}
+
+table.Mtab{empty-cells:show;}
+table.Mtab td{border-bottom:solid 1px #cccccc; padding:1px; vertical-align:top; empty-cells:show;}
+table.Mtab th{border-bottom:solid 1px #cccccc; padding:1px;text-align:left;font-weight:bold; empty-cells:show;background:#6388be; color:#ffffff; cursor:pointer;}
+.mailerror{border:dashed 1px red; color:red; padding:3px;}
+.mailok{border:dashed 1px green; color:green; padding:3px;}
+
+
+.authbody{
+	background:#CCC;
+}
+#authconteiner{
+	text-align:center;
+	height:100%;
+	vertical-align:middle;
+}
+#authcontent{
+	text-align:center;
+	vertical-align:middle;
+	padding-top:10%;
+}
+
+/* —тили дл€ оформлени€ блоков */
+.BlockHeader{
+	background-image:url(img/titlebg.gif);
+	background-position: left top;
+	background-repeat: repeat-x;
+	height:20px;
+}
+.BlockHeader img{
+	text-align:left;
+	vertical-align:middle;
+	cursor:pointer;
+}
+.BlockHeader span{
+	font-weight:bold;
+	color:#cc0000;
+}
+
+.OuterBlock{
+	height:20px; 
+	overflow:hidden;
+	margin-top:4px;
+	border:solid 1px #000000; /*#ffd798;*/
+}
+.InnerBlock{
+	overflow:hidden;
+	padding:4px;
+	margin-bottom:4px;
+	border:solid 1px #000000; /*#ffd798;*/
+	border-top:none; /*#ffd798;*/
+}
+
+
+/* Dictionary menu table */
+.dicttab td{
+	border-left:solid 1px #666666;
+	border-right:solid 1px #666666;
+	border-collapse:collapse;
+	padding-right:4px;
+	padding-left:4px;
+}

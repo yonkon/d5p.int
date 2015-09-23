@@ -1,0 +1,148 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 105789
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Финансы организаций
+            [o_course] => 36
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1409515200
+            [f_part] => 0
+            [f_comment] => Решить задания № 4.3; № 4.5; № 4.9.
+Во всех заданиях выполнять либо 1 вариант, либо вариант А.
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ им. Г.И. Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Контрольная работа 02.jpg
+                    [md5] => f7cb52e4e37bc8d1b04b45d59beda3c8
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpuxcHew
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Юлия Вячеславовна Добренькая
+            [email] => yuliya-17041994@yandex.ru
+            [idu] => 105789
+            [ido] => 156316
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Финансы организаций
+                            [o_course] => 36
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1409515200
+                            [f_part] => 0
+                            [f_comment] => Решить задания № 4.3; № 4.5; № 4.9.
+Во всех заданиях выполнять либо 1 вариант, либо вариант А.
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => МГТУ им. Г.И. Носова
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Финансы организаций
+    [o_course] => 36
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1409515200
+    [f_part] => 0
+    [f_comment] => Решить задания № 4.3; № 4.5; № 4.9.
+Во всех заданиях выполнять либо 1 вариант, либо вариант А.
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => МГТУ им. Г.И. Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Юлия Вячеславовна Добренькая!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №156316 на тему: "Финансы организаций".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: yuliya-17041994</p>
+<p>Пароль: 725b1</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

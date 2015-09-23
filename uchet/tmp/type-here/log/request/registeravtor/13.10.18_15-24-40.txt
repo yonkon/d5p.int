@@ -1,0 +1,79 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => snek_09@mail.ru
+            [a_pass] => 4449ru
+            [a_fio] => Ихсанова Гульшат Жумабековна
+            [a_mphone] => 79124711415
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => snek_09@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => Челябинская обл. Гор.Магнитогорск
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 73
+                    [1] => 32
+                    [2] => 68
+                    [3] => 108
+                    [4] => 140
+                    [5] => 120
+                    [6] => 56
+                    [7] => 145
+                    [8] => 13
+                    [9] => 14
+                    [10] => 129
+                    [11] => 19
+                    [12] => 194
+                    [13] => 59
+                    [14] => 179
+                    [15] => 47
+                    [16] => 22
+                    [17] => 78
+                    [18] => 72
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 118443
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,68 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => vassea
+            [a_pass] => bazillio
+            [a_fio] => Vassea
+            [a_mphone] => 37379389792
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => vassea@yandex.ru
+            [a_icq] => 437895525
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 114
+                    [1] => 27
+                    [2] => 107
+                    [3] => 11
+                    [4] => 89
+                    [5] => 166
+                    [6] => 165
+                    [7] => 24
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 115010
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

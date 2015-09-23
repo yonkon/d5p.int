@@ -1,0 +1,157 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 115554
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа состоит из 5 вопросов,и 2 задач
+            [o_course] => 55
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => выполнить все требования по методички БЖД
+            [o_client_srok] => 1381694400
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Исянгулово
+            [country] => 
+            [city] => Исянгулово
+            [o_vuz] => МГТУ им.Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => метода  _БЖД_1004_1007_1804.doc
+                    [md5] => 31d4d449aedc7c2532c94c629b77479e
+                )
+
+            [1] => Array
+                (
+                    [fname] => мои задания по БЖД.rtf
+                    [md5] => ec512072795c0524a22e57a0a4e88d4d
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpBQZ1DY
+            [files[1]] => @/tmp/phphwTuPW
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => исмагилова гульсясяк ирековна
+            [email] => devushkaziza@rambler.ru
+            [idu] => 115554
+            [ido] => 104178
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 55
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1381694400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Контрольная работа состоит из 5 вопросов,и 2 задач
+    [o_course] => 55
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => выполнить все требования по методички БЖД
+    [o_client_srok] => 1381694400
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Исянгулово
+    [country] => 
+    [city] => Исянгулово
+    [o_vuz] => МГТУ им.Носова
+    [refid] => 0
+)
+<p>Здравствуйте, исмагилова гульсясяк ирековна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №104178 на тему: "Контрольная работа состоит из 5 вопросов,и 2 задач".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: devushkaziza</p>
+<p>Пароль: b0108</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

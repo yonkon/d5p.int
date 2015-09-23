@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => 1ApBrISBn1
+            [a_pass] => 140369
+            [a_fio] => Волков Андрей Сергеевич
+            [a_mphone] => 89053210199
+            [a_phone] => 8452781149
+            [a_web] => 
+            [a_email] => volkov-krim@yandex.ru
+            [a_icq] => 
+            [a_skype] => ApBrISBn
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 57
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 101773
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

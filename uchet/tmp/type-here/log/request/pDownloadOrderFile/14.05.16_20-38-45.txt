@@ -1,0 +1,49 @@
+Array
+(
+    [debug] => 
+    [act] => pDownloadOrderFile
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 107187
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [idf] => 224648
+            [ido] => 99999
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [18] => Array
+                (
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

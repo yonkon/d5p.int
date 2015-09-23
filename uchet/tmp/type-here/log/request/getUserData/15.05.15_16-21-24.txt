@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 217853
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Батенёва Юлия Олеговна
+            [phone] => 
+            [mphone] => 79226171336
+            [email] => julia0julia@yandex.ru
+            [icq] => 
+            [contact] => 
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 20.10.1995
+            [country] => Россия
+            [city] => Екатеринбург
+            [speciality] => 
+            [orders_before] => 
+            [time_to_call] => Любое
+            [payment_method] => Безналичный
+            [university] => РГППУ
+            [examinations_time] => Array
+                (
+                    [0] => 22.05.2015
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

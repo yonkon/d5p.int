@@ -1,0 +1,64 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => aleks231289
+            [a_pass] => 8770a
+            [a_fio] => Ильина Татьяна Сергеевна
+            [a_mphone] => 79514814010
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => aleks231289@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => aleks231289
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

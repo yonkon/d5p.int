@@ -1,0 +1,157 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 128468
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Конспект
+            [o_course] => 108
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 30 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1400097600
+            [f_part] => 0
+            [f_comment] => Темы конспекта
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ Им.Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Ист.jpg
+                    [md5] => 95ea4d72957fb9b3369c82e827873461
+                )
+
+            [1] => Array
+                (
+                    [fname] => Ист2.jpg
+                    [md5] => 64213b656dff9d06c5676977b2e305fc
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpUTH1Bs
+            [files[1]] => @/tmp/phpmcb3jR
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Хабибуллина Земфира
+            [email] => zefir2017@mail.ru
+            [idu] => 128468
+            [ido] => 147658
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Конспект
+                            [o_course] => 108
+                            [o_type] => 9
+                            [o_shcooltype] => 
+                            [o_volume] => 30 листов
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1400097600
+                            [f_part] => 0
+                            [f_comment] => Темы конспекта
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => МГТУ Им.Носова
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Конспект
+    [o_course] => 108
+    [o_type] => 9
+    [o_shcooltype] => 
+    [o_volume] => 30 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1400097600
+    [f_part] => 0
+    [f_comment] => Темы конспекта
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ Им.Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Хабибуллина Земфира!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №147658 на тему: "Конспект".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: zimfira</p>
+<p>Пароль: 73b0d</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

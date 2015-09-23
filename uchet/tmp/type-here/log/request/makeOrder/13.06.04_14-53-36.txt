@@ -1,0 +1,165 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => реконструкция механизма передвижения коксовыталкивателя
+            [o_course] => 28
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 60-70 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1370548800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => магнитогорск
+            [country] => 
+            [city] => магнитогорск
+            [o_vuz] => МГТУ им Г.И.Носова, МПК
+            [user] => new
+            [fio] => александр сергеевич
+            [phone] => 
+            [mphone] => 79090971774
+            [email] => al.dworniczyn@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => одержание на диплом.docx
+                    [md5] => f010772638da2b6a4b11dd5742f436d3
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php7c1fjc
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => al.dworniczyn
+            [password] => d5afc
+            [fio] => александр сергеевич
+            [email] => al.dworniczyn@yandex.ru
+            [idu] => 98402
+            [ido] => 95810
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 28
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1370548800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 79090971774
+                            [email] => al.dworniczyn@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => реконструкция механизма передвижения коксовыталкивателя
+    [o_course] => 28
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 60-70 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1370548800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => магнитогорск
+    [country] => 
+    [city] => магнитогорск
+    [o_vuz] => МГТУ им Г.И.Носова, МПК
+    [user] => new
+    [fio] => александр сергеевич
+    [phone] => 
+    [mphone] => 79090971774
+    [email] => al.dworniczyn@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, александр сергеевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №95810 на тему: "реконструкция механизма передвижения коксовыталкивателя".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: al.dworniczyn</p>
+<p>Пароль: d5afc</p><p>С уважением, администрация сайта www.diplom5plus.ru</p>
+)
+
+
+

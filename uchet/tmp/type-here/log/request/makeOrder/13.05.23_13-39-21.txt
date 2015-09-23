@@ -1,0 +1,74 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Выбор моделей и разработка конструкции женского пальто одного технологического потока молодая группа (по заданному ассортименту,полу и типу фигур).
+            [o_course] => 77
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 20 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => + на формате А3 чертежи самого изделия
+            [o_client_srok] => 1369598400
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => Магу
+            [user] => new
+            [fio] => Аслаева Диля Ханнановна
+            [phone] => 
+            [mphone] => 
+            [email] => dilyusik1991@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => dilyusik1991@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

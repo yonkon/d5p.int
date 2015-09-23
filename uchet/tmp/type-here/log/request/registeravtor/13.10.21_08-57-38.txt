@@ -1,0 +1,62 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Lidya
+            [a_pass] => 131190
+            [a_fio] => Гагарина Лидия Павловна
+            [a_mphone] => 9823112845
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => megapyssy@inbox.ru
+            [a_icq] => 128742038
+            [a_skype] => 
+            [a_fromknow] => 5
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 27
+                    [1] => 107
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 118816
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

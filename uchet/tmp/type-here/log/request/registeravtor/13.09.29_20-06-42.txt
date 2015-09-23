@@ -1,0 +1,95 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => novomiep
+            [a_pass] => 364688
+            [a_fio] => Зубарев Андрей Анатольевич
+            [a_mphone] => 79225324691
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => novomiep@yandex.ru
+            [a_icq] => 449105745
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 161
+                    [1] => 74
+                    [2] => 55
+                    [3] => 76
+                    [4] => 58
+                    [5] => 137
+                    [6] => 181
+                    [7] => 149
+                    [8] => 170
+                    [9] => 57
+                    [10] => 44
+                    [11] => 1
+                    [12] => 90
+                    [13] => 83
+                    [14] => 186
+                    [15] => 63
+                    [16] => 132
+                    [17] => 144
+                    [18] => 14
+                    [19] => 129
+                    [20] => 109
+                    [21] => 16
+                    [22] => 103
+                    [23] => 104
+                    [24] => 59
+                    [25] => 40
+                    [26] => 64
+                    [27] => 25
+                    [28] => 84
+                    [29] => 60
+                    [30] => 113
+                    [31] => 85
+                    [32] => 72
+                    [33] => 117
+                    [34] => 26
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 115008
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

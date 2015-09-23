@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => см. в файле
+            [o_course] => 59
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 30-35
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => В какой срок можете сделать? Какая точная стоимость?
+            [o_client_srok] => 1418418000
+            [f_part] => 0
+            [f_comment] => Курсовая на любую тему.
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрГИ
+            [user] => new
+            [fio] => Елена Андреевна
+            [phone] => 
+            [mphone] => 79530090093
+            [email] => elena.sv87@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Темы курсовой.doc
+                    [md5] => 5ffdeb0a9aa6bb1a753f6a341250c84f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpdogTK3
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => elena.sv87
+            [password] => a78b8
+            [fio] => Елена Андреевна
+            [email] => elena.sv87@yandex.ru
+            [idu] => 191961
+            [ido] => 178598
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => см. в файле
+                            [o_course] => 59
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 30-35
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => В какой срок можете сделать? Какая точная стоимость?
+                            [o_client_srok] => 1418418000
+                            [f_part] => 0
+                            [f_comment] => Курсовая на любую тему.
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрГИ
+                            [user] => new
+                            [fio] => Елена Андреевна
+                            [phone] => 
+                            [mphone] => 79530090093
+                            [email] => elena.sv87@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => см. в файле
+    [o_course] => 59
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 30-35
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => В какой срок можете сделать? Какая точная стоимость?
+    [o_client_srok] => 1418418000
+    [f_part] => 0
+    [f_comment] => Курсовая на любую тему.
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрГИ
+    [user] => new
+    [fio] => Елена Андреевна
+    [phone] => 
+    [mphone] => 79530090093
+    [email] => elena.sv87@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Елена Андреевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №178598 на тему: "см. в файле".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: elena.sv87</p>
+<p>Пароль: a78b8</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

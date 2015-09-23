@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => visokiy190mail.ru
+            [a_pass] => 89512495851
+            [a_fio] => Иванов Алексей Петрович
+            [a_mphone] => 79048059085
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => visokiy190@mail.ru
+            [a_icq] => 620463351
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => город Магнитогорск, улица Советская
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 116316
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,51 @@
+Array
+(
+    [debug] => 
+    [act] => authorizeRemoteUser
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [type] => create
+            [login] => mehw12
+            [pass] => bbae1
+            [long] => yes
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [10] => Array
+                (
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

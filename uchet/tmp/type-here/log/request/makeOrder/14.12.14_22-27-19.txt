@@ -1,0 +1,153 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Репортаж в современной журналистике на примере журнала Русский Репортер
+            [o_course] => 99
+            [o_type] => 3
+            [o_shcooltype] => 
+            [o_volume] => 10-15 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1419368400
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => УРФУ
+            [user] => new
+            [fio] => Байкалова Екатерина Евгеньвна
+            [phone] => 
+            [mphone] => 89826526504
+            [email] => ekaterina-baikalova94@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => ekaterinabaikalova94
+            [password] => ced20
+            [fio] => Байкалова Екатерина Евгеньвна
+            [email] => ekaterina-baikalova94@mail.ru
+            [idu] => 192914
+            [ido] => 179668
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Репортаж в современной журналистике на примере журнала Русский Репортер
+                            [o_course] => 99
+                            [o_type] => 3
+                            [o_shcooltype] => 
+                            [o_volume] => 10-15 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1419368400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => УРФУ
+                            [user] => new
+                            [fio] => Байкалова Екатерина Евгеньвна
+                            [phone] => 
+                            [mphone] => 89826526504
+                            [email] => ekaterina-baikalova94@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Репортаж в современной журналистике на примере журнала Русский Репортер
+    [o_course] => 99
+    [o_type] => 3
+    [o_shcooltype] => 
+    [o_volume] => 10-15 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1419368400
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => УРФУ
+    [user] => new
+    [fio] => Байкалова Екатерина Евгеньвна
+    [phone] => 
+    [mphone] => 89826526504
+    [email] => ekaterina-baikalova94@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Байкалова Екатерина Евгеньвна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №179668 на тему: "Репортаж в современной журналистике на примере журнала Русский Репортер".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: ekaterinabaikalova94</p>
+<p>Пароль: ced20</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

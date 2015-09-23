@@ -1,0 +1,72 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => iri1151
+            [a_pass] => 000000
+            [a_fio] => Андреева Ирина Владимировна
+            [a_mphone] => 79178261110
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => iri1151@mail.ru
+            [a_icq] => 497-071-032
+            [a_skype] => a57771
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                    [1] => 8
+                    [2] => 81
+                    [3] => 11
+                    [4] => 183
+                    [5] => 45
+                    [6] => 23
+                    [7] => 191
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => iri1151
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

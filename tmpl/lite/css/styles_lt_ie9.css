@@ -1,0 +1,23 @@
+.text_area{
+	position: relative;
+	z-index: 0;
+}
+#form_feedback{
+	position: relative;
+	z-index: 0;	
+}
+.subscribe{
+	position: relative;
+	z-index: 0;		
+}
+.compozition .container{
+	position: relative;
+	z-index: 0;			
+}
+.main_navigation .current a{
+	-pie-background: linear-gradient(#ff1414 0%,#ba0707 100%);
+}
+.item_order_form{
+	position: relative;
+	z-index: 0;		
+}

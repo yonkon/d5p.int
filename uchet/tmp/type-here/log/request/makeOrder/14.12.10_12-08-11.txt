@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Базы данных
+            [o_course] => 27
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1417726800
+            [f_part] => 1
+            [f_comment] => Нужно сделать эту базу данных.
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => РГППУ
+            [user] => new
+            [fio] => Городилов Никита Вадимович
+            [phone] => 
+            [mphone] => 
+            [email] => nekitsnake@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => bazyWord_1.docx
+                    [md5] => 9fa1efd4b0a51a1d6e367dde0aa12629
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpZJwY4j
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => nekitsnake
+            [password] => a96a8
+            [fio] => Городилов Никита Вадимович
+            [email] => nekitsnake@yandex.ru
+            [idu] => 191927
+            [ido] => 178551
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Базы данных
+                            [o_course] => 27
+                            [o_type] => 9
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1417726800
+                            [f_part] => 1
+                            [f_comment] => Нужно сделать эту базу данных.
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => РГППУ
+                            [user] => new
+                            [fio] => Городилов Никита Вадимович
+                            [phone] => 
+                            [mphone] => 
+                            [email] => nekitsnake@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Базы данных
+    [o_course] => 27
+    [o_type] => 9
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1417726800
+    [f_part] => 1
+    [f_comment] => Нужно сделать эту базу данных.
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => РГППУ
+    [user] => new
+    [fio] => Городилов Никита Вадимович
+    [phone] => 
+    [mphone] => 
+    [email] => nekitsnake@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Городилов Никита Вадимович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №178551 на тему: "Базы данных".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nekitsnake</p>
+<p>Пароль: a96a8</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

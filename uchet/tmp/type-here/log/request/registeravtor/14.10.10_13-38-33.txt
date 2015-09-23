@@ -1,0 +1,68 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Alinaalina
+            [a_pass] => a4410a0199424a
+            [a_fio] => Гилметдинова Алина Рамилевна
+            [a_mphone] => 79193586069
+            [a_phone] => 73519235120
+            [a_web] => 
+            [a_email] => alina-gilmetdinova@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 5
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 29
+                    [1] => 215
+                    [2] => 197
+                    [3] => 249
+                    [4] => 212
+                    [5] => 115
+                    [6] => 95
+                    [7] => 148
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 178669
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

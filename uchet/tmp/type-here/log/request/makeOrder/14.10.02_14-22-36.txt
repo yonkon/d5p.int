@@ -1,0 +1,151 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Геополитика Ирана, Турции и других мусульманских государств
+            [o_course] => 14
+            [o_type] => 3
+            [o_shcooltype] => 
+            [o_volume] => 15-20
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1414699200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрГУПС
+            [user] => new
+            [fio] => Тенюшова Ксения Вячеславовн
+            [phone] => 
+            [mphone] => 89126271695
+            [email] => tenksusha@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => tenksusha
+            [password] => c9367
+            [fio] => Тенюшова Ксения Вячеславовн
+            [email] => tenksusha@mail.ru
+            [idu] => 177233
+            [ido] => 162815
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Геополитика Ирана, Турции и других мусульманских государств
+                            [o_course] => 14
+                            [o_type] => 3
+                            [o_shcooltype] => 
+                            [o_volume] => 15-20
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1414699200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрГУПС
+                            [user] => new
+                            [fio] => Тенюшова Ксения Вячеславовн
+                            [phone] => 
+                            [mphone] => 89126271695
+                            [email] => tenksusha@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Геополитика Ирана, Турции и других мусульманских государств
+    [o_course] => 14
+    [o_type] => 3
+    [o_shcooltype] => 
+    [o_volume] => 15-20
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1414699200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрГУПС
+    [user] => new
+    [fio] => Тенюшова Ксения Вячеславовн
+    [phone] => 
+    [mphone] => 89126271695
+    [email] => tenksusha@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Тенюшова Ксения Вячеславовн!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №162815 на тему: "Геополитика Ирана, Турции и других мусульманских государств".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: tenksusha</p>
+<p>Пароль: c9367</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

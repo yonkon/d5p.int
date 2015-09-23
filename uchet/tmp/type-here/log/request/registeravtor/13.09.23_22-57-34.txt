@@ -1,0 +1,75 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Учитель
+            [a_pass] => 0123654
+            [a_fio] => Гиляжева Гульсина Зайнитдиновна
+            [a_mphone] => 79049742646
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => um_gulya@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 26
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 99
+                    [1] => 68
+                    [2] => 139
+                    [3] => 140
+                    [4] => 120
+                    [5] => 44
+                    [6] => 41
+                    [7] => 141
+                    [8] => 1
+                    [9] => 112
+                    [10] => 18
+                    [11] => 121
+                    [12] => 47
+                    [13] => 21
+                    [14] => 22
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 113779
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,65 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => annaya
+            [a_pass] => 26062009anna
+            [a_fio] => Петрова Анна Владимировна
+            [a_mphone] => 8923-030-44-17
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => ptrv8@yandex.ru
+            [a_icq] => 680-738-830
+            [a_skype] => 
+            [a_fromknow] => 7
+            [a_contact] => г. Новокузнецк, ул. Кирова 103-56
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 115
+                    [1] => 248
+                    [2] => 30
+                    [3] => 20
+                    [4] => 147
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 179115
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

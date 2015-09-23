@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Экономическая оценка инвестиций
+            [o_course] => 6
+            [o_type] => 32
+            [o_shcooltype] => 
+            [o_volume] => 22-25
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1433970000
+            [f_part] => 0
+            [f_comment] => Задание и методичка
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => Уральский федеральный университет
+            [user] => new
+            [fio] => Долгополова Наталия Витальевна
+            [phone] => 
+            [mphone] => 89221943464
+            [email] => tataxer@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Задание.jpg
+                    [md5] => 7d5aadeaee7b1717e410e149d69502c3
+                )
+
+            [1] => Array
+                (
+                    [fname] => ЭОИ.zip
+                    [md5] => 64bc22c988245136f2ace2127e18dca8
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpy6TeR9
+            [files[1]] => @/tmp/phpwtV6vz
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => tataxer
+            [password] => 7ed66
+            [fio] => Долгополова Наталия Витальевна
+            [email] => tataxer@yandex.ru
+            [idu] => 224561
+            [ido] => 218722
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Экономическая оценка инвестиций
+                            [o_course] => 6
+                            [o_type] => 32
+                            [o_shcooltype] => 
+                            [o_volume] => 22-25
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1433970000
+                            [f_part] => 0
+                            [f_comment] => Задание и методичка
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => Уральский федеральный университет
+                            [user] => new
+                            [fio] => Долгополова Наталия Витальевна
+                            [phone] => 
+                            [mphone] => 89221943464
+                            [email] => tataxer@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Экономическая оценка инвестиций
+    [o_course] => 6
+    [o_type] => 32
+    [o_shcooltype] => 
+    [o_volume] => 22-25
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1433970000
+    [f_part] => 0
+    [f_comment] => Задание и методичка
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => Уральский федеральный университет
+    [user] => new
+    [fio] => Долгополова Наталия Витальевна
+    [phone] => 
+    [mphone] => 89221943464
+    [email] => tataxer@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Долгополова Наталия Витальевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №218722 на тему: "Экономическая оценка инвестиций".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: tataxer</p>
+<p>Пароль: 7ed66</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

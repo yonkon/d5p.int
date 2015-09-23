@@ -1,0 +1,219 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 185993
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Налоговая система России: современное состояние, проблемы дальнейшего развития.
+            [o_course] => 36
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1427749200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => ургэу синх
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 9866_2._Metodicheskie_ukazaniya_po_napisaniyu_kursovyh_rabot.pdf
+                    [md5] => ca80c6d803e1d55e0645a730fbc99364
+                )
+
+            [1] => Array
+                (
+                    [fname] => 9867_3._Tematika_kursovyh_rabot.doc
+                    [md5] => 6eb9a479328460d968cd3f5ca8c99aa8
+                )
+
+            [2] => Array
+                (
+                    [fname] => 9869_Uchvebnik-pod_red._Romanovskogo_M.V..pdf
+                    [md5] => 6ed2db21b57e2560de51468bb81b34e6
+                )
+
+            [3] => Array
+                (
+                    [fname] => 10923_1._Uchebno-metodicheskii_kompleks.doc
+                    [md5] => 7537044062e391d42be4741ce51e087f
+                )
+
+            [4] => Array
+                (
+                    [fname] => 10924_Konspekt_lekcii-Boitush.pdf
+                    [md5] => 820429deb3cd93dc70805164f9fb7e34
+                )
+
+            [5] => Array
+                (
+                    [fname] => 12066_Polozhenie_o_trebovaniyah_k_oformleniyu.pdf
+                    [md5] => 6d3f8fa6c1695bd74b3a37fc15b8275c
+                )
+
+            [6] => Array
+                (
+                    [fname] => 13770_Prezentaciya.pdf
+                    [md5] => ac531001385fc5db837a8044f2f239a0
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php7VDMVj
+            [files[1]] => @/tmp/phpetc7tQ
+            [files[2]] => @/tmp/phprV5s2m
+            [files[3]] => @/tmp/phpikWiDT
+            [files[4]] => @/tmp/phpdneqeq
+            [files[5]] => @/tmp/phpcez7PW
+            [files[6]] => @/tmp/phpPNPUrt
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Власова Надежда Андреевна
+            [email] => nadyushka_vlasov@mail.ru
+            [idu] => 185993
+            [ido] => 198514
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Налоговая система России: современное состояние, проблемы дальнейшего развития.
+                            [o_course] => 36
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1427749200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => ургэу синх
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Налоговая система России: современное состояние, проблемы дальнейшего развития.
+    [o_course] => 36
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1427749200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => ургэу синх
+    [refid] => 0
+)
+<p>Здравствуйте, Власова Надежда Андреевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №198514 на тему: "Налоговая система России: современное состояние, проблемы дальнейшего развития.".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nadyushka_vlasov</p>
+<p>Пароль: 849ea</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа по философии для студентов ускоренной формы обучения
+            [o_course] => 22
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 10-20 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1382040000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+            [user] => new
+            [fio] => Иванов Алексей Петрович
+            [phone] => 
+            [mphone] => 79048059085
+            [email] => ivanov.electro@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Заочники задание философия (Весна 2013).7z
+                    [md5] => 9f0b2fe251da561a44081c8c8f2b7f2b
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpvrKyAe
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => ivanov.electro
+            [password] => 9ca9a
+            [fio] => Иванов Алексей Петрович
+            [email] => ivanov.electro@yandex.ru
+            [idu] => 112807
+            [ido] => 102670
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 22
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1382040000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 79048059085
+                            [email] => ivanov.electro@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Контрольная работа по философии для студентов ускоренной формы обучения
+    [o_course] => 22
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 10-20 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1382040000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им. Носова
+    [user] => new
+    [fio] => Иванов Алексей Петрович
+    [phone] => 
+    [mphone] => 79048059085
+    [email] => ivanov.electro@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Иванов Алексей Петрович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №102670 на тему: "Контрольная работа по философии для студентов ускоренной формы обучения".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: ivanov.electro</p>
+<p>Пароль: 9ca9a</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

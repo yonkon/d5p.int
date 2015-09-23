@@ -1,0 +1,374 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 174714
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => философия
+            [o_course] => 22
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1444852800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ им Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 1.jpg
+                    [md5] => 28013314be92132e9802367e4c39ee88
+                )
+
+            [1] => Array
+                (
+                    [fname] => 2.jpg
+                    [md5] => b51a0c28d80e07e9edf2c09900f20e13
+                )
+
+            [2] => Array
+                (
+                    [fname] => 3.jpg
+                    [md5] => 811ef0efdc91cf933b5f5ff48470183d
+                )
+
+            [3] => Array
+                (
+                    [fname] => 4.jpg
+                    [md5] => 2f97678e1db881e0afbafedaed01af9b
+                )
+
+            [4] => Array
+                (
+                    [fname] => 5.jpg
+                    [md5] => 2db707783600e82f6f58f4a175179b3b
+                )
+
+            [5] => Array
+                (
+                    [fname] => 6.jpg
+                    [md5] => 751f476188eea59517dd243fd0140ea0
+                )
+
+            [6] => Array
+                (
+                    [fname] => 7.jpg
+                    [md5] => 9e54386a67fe058eb8e39a5caf515cf0
+                )
+
+            [7] => Array
+                (
+                    [fname] => 8.jpg
+                    [md5] => dbf14f8092a9cc73da56bdddf8884129
+                )
+
+            [8] => Array
+                (
+                    [fname] => 9.jpg
+                    [md5] => a1efb6a490d4127e39760c952bde4c20
+                )
+
+            [9] => Array
+                (
+                    [fname] => 10.jpg
+                    [md5] => 3bc8f5e3dd0c07c2f34e46502aa94fed
+                )
+
+            [10] => Array
+                (
+                    [fname] => 11.jpg
+                    [md5] => 810a25c79a946004d308ba6115b57631
+                )
+
+            [11] => Array
+                (
+                    [fname] => 12.jpg
+                    [md5] => 736922598e5f5cbbad21500deff2a323
+                )
+
+            [12] => Array
+                (
+                    [fname] => 13.jpg
+                    [md5] => f6dac082694cf9d40bbab8a62b2b47e2
+                )
+
+            [13] => Array
+                (
+                    [fname] => 14.jpg
+                    [md5] => cccc34af59eb35a46d5ffe844219b0fb
+                )
+
+            [14] => Array
+                (
+                    [fname] => 15.jpg
+                    [md5] => b05ec4647b83f4dd0a1bf3e3713bf545
+                )
+
+            [15] => Array
+                (
+                    [fname] => 16.jpg
+                    [md5] => 501530316fc4f76b60e24ef8622596da
+                )
+
+            [16] => Array
+                (
+                    [fname] => 17.jpg
+                    [md5] => 04e08395ad9af5edf18e81961499aec0
+                )
+
+            [17] => Array
+                (
+                    [fname] => 18.jpg
+                    [md5] => f28a1d4576d3d90cef81c072f8d06164
+                )
+
+            [18] => Array
+                (
+                    [fname] => Metod_zaoch.docx
+                    [md5] => 6f199ed793af58d018c713fbf03ef7bb
+                )
+
+            [19] => Array
+                (
+                    [fname] => Spetsifika_ch1.pdf
+                    [md5] => 89af595adb7e1933f8f4100f3dc0d537
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpRhLb9u
+            [files[1]] => @/tmp/phpF1HIdO
+            [files[2]] => @/tmp/phpH4Xni7
+            [files[3]] => @/tmp/phpvkzanq
+            [files[4]] => @/tmp/phpue03rJ
+            [files[5]] => @/tmp/phpLvb4w2
+            [files[6]] => @/tmp/phpotzbCl
+            [files[7]] => @/tmp/phppxCoHE
+            [files[8]] => @/tmp/php3eZHMX
+            [files[9]] => @/tmp/phpPxu8Rg
+            [files[10]] => @/tmp/phpM64EXz
+            [files[11]] => @/tmp/phpMZph3S
+            [files[12]] => @/tmp/phpB7zZ8b
+            [files[13]] => @/tmp/phpdy3Mev
+            [files[14]] => @/tmp/php18TFkO
+            [files[15]] => @/tmp/phpne6Eq7
+            [files[16]] => @/tmp/phpZsPJwq
+            [files[17]] => @/tmp/phpVBrTCJ
+            [files[18]] => @/tmp/phpcRs7I2
+            [files[19]] => @/tmp/php8TUmPl
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [smsreply] => 
+            [fio] => Мамлеев Артур Эмильевич
+            [email] => spanch_90@bk.ru
+            [idu] => 174714
+            [ido] => 161728
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => философия
+                            [o_course] => 22
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1444852800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => МГТУ им Носова
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [12] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [13] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [14] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [15] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [16] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [17] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [18] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [19] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => философия
+    [o_course] => 22
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1444852800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => МГТУ им Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Мамлеев Артур Эмильевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №161728 на тему: "философия".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: spanch_90</p>
+<p>Пароль: 27041990</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

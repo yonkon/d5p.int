@@ -1,0 +1,25 @@
+Array
+(
+    [debug] => 1
+    [act] => dicts
+    [password] => klwejrnvwerndsfehlpoqzx
+    [version] => 0.1
+    [data] => {"operation":"set","dict":{"orderFields":{"thema":{"enabled":true,"mandatory":true,"name":"o_thema"},"course":{"enabled":true,"mandatory":true,"name":"o_course"},"worktype":{"enabled":true,"mandatory":true,"name":"o_type"},"client_srok":{"enabled":true,"mandatory":true,"name":"o_client_srok"},"file_part":{"name":"f_part"},"file_arr":{"name":"ofile"},"file_comment":{"name":"f_comment"},"schooltype":{"enabled":true,"mandatory":false,"name":"o_shcooltype"},"country":{"enabled":true,"mandatory":false,"name":"o_cc1"},"city":{"enabled":true,"mandatory":false,"name":"o_cc2"},"vuz":{"enabled":true,"mandatory":false,"name":"o_vuz"},"volume":{"enabled":true,"mandatory":false,"name":"o_volume"},"gost":{"enabled":true,"mandatory":false,"name":"gost"},"font":{"enabled":true,"mandatory":false,"name":"o_font"},"interval":{"enabled":true,"mandatory":false,"name":"o_interval"},"listsource":{"enabled":true,"mandatory":false,"name":"o_listsource"},"addinfo":{"enabled":true,"mandatory":false,"name":"o_addinfo"},"precost":{"enabled":true,"mandatory":false,"name":"o_precost"},"fio":{"enabled":true,"mandatory":true,"name":"fio"},"email":{"enabled":true,"mandatory":true,"name":"email"},"mphone":{"enabled":true,"mandatory":false,"name":["mphone1","mphone2","mphone3"]},"sphone":{"enabled":true,"mandatory":false,"name":["sphone1","sphone2","sphone3"]},"icq":{"enabled":true,"mandatory":false,"name":"icq"},"contact":{"enabled":true,"mandatory":false,"name":"contact"},"fromknow":{"enabled":true,"mandatory":false,"name":"o_fromknow"},"captcha_code":{"enabled":false,"mandatory":true,"name":"captcha_code"}}}}
+)
+
+
+
+Array
+(
+    [data] => 
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 2
+    [textOut] => 
+)
+
+
+

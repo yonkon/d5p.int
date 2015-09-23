@@ -1,0 +1,77 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => ДОУ при работе с электронными документами
+            [o_course] => 54
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 25 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Курсовая должна состоять из 3-х частей:
+1. Теоретическая часть (раскрыть сущность);
+2. Исследовательская часть (проанализировать);
+3. Пути реализации (решение).
+            [o_client_srok] => 1424898000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => Мпк
+            [user] => new
+            [fio] => Борисова Светлана Евгеньевна
+            [phone] => 
+            [mphone] => 8-951-804-35-77
+            [email] => fedorov.antoxa@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => fedorov.antoxa@yandex.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

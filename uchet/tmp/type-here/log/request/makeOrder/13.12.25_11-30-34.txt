@@ -1,0 +1,160 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 112807
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа по дисциплине 
+«Метрология, стандартизация и сертификация»
+            [o_course] => 98
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 2 задачи
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Преподаватель придирчивый, делать надо все подробно, формулы с потолка падать не должны))).
+            [o_client_srok] => 1389211200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Метрология к_р 7 вариант.doc
+                    [md5] => 8e2584bb2a5c02aacd3f9ee7ec27f08b
+                )
+
+            [1] => Array
+                (
+                    [fname] => Решение типовых задач по метрологии_2012.doc
+                    [md5] => b11d80081507f30ce9a51dfb8489285d
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpvhKUIF
+            [files[1]] => @/tmp/phpF8p7l7
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Иванов Алексей Петрович
+            [email] => ivanov.electro@yandex.ru
+            [idu] => 112807
+            [ido] => 119650
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 98
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1389211200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Контрольная работа по дисциплине 
+«Метрология, стандартизация и сертификация»
+    [o_course] => 98
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 2 задачи
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Преподаватель придирчивый, делать надо все подробно, формулы с потолка падать не должны))).
+    [o_client_srok] => 1389211200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им. Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Иванов Алексей Петрович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №119650 на тему: "Контрольная работа по дисциплине 
+«Метрология, стандартизация и сертификация»".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: ivanov.electro</p>
+<p>Пароль: 7471f</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

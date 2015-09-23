@@ -1,0 +1,64 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Дмитрий ЕКБ
+            [a_pass] => 800Dima044
+            [a_fio] => Михайлов Дмитрий Васильевич
+            [a_mphone] => 79827006555
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => 5_s_plusom.ekb@mail.ru
+            [a_icq] => 550555505
+            [a_skype] => diplom5plus
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => Дмитрий ЕКБ
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

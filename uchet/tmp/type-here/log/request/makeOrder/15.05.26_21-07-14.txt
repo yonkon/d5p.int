@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Ответы на вопросы к экзамену
+            [o_course] => 198
+            [o_type] => 24
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1433106000
+            [f_part] => 1
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => магнитогорск
+            [country] => 
+            [city] => магнитогорск
+            [o_vuz] => МГТУ им. Носовп
+            [user] => new
+            [fio] => Мухаметгареева Айсылу Наилевна
+            [phone] => 
+            [mphone] => 89681168035
+            [email] => nailevna2015@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => T61I2OaJYzw.jpg
+                    [md5] => 94cfde441b154221ab619261f714ea60
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpc09b0x
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => nailevna2015
+            [password] => ad4a8
+            [fio] => Мухаметгареева Айсылу Наилевна
+            [email] => nailevna2015@mail.ru
+            [idu] => 223645
+            [ido] => 217498
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Ответы на вопросы к экзамену
+                            [o_course] => 198
+                            [o_type] => 24
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1433106000
+                            [f_part] => 1
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => магнитогорск
+                            [country] => 
+                            [city] => магнитогорск
+                            [o_vuz] => МГТУ им. Носовп
+                            [user] => new
+                            [fio] => Мухаметгареева Айсылу Наилевна
+                            [phone] => 
+                            [mphone] => 89681168035
+                            [email] => nailevna2015@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Ответы на вопросы к экзамену
+    [o_course] => 198
+    [o_type] => 24
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1433106000
+    [f_part] => 1
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => магнитогорск
+    [country] => 
+    [city] => магнитогорск
+    [o_vuz] => МГТУ им. Носовп
+    [user] => new
+    [fio] => Мухаметгареева Айсылу Наилевна
+    [phone] => 
+    [mphone] => 89681168035
+    [email] => nailevna2015@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Мухаметгареева Айсылу Наилевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №217498 на тему: "Ответы на вопросы к экзамену".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nailevna2015</p>
+<p>Пароль: ad4a8</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

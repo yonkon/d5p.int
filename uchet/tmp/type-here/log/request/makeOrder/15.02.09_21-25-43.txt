@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 185993
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Кассовые валютные операции
+            [o_course] => 185
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1424206800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => ургэу синх
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 9913_Uchebnoe_posobie_-_Moiseev_S.R..pdf
+                    [md5] => 8e4a306e743092d654806bd56c04b269
+                )
+
+            [1] => Array
+                (
+                    [fname] => 11020_Konspekt_lekcii.doc
+                    [md5] => bb8154ce5722ab07dbd3bec36418ec42
+                )
+
+            [2] => Array
+                (
+                    [fname] => 11022_Tematika_kontrolnyh_rabot.doc
+                    [md5] => b580277058869b6f696db7ed85facd35
+                )
+
+            [3] => Array
+                (
+                    [fname] => 13760_1._Rabochaya_programma.doc
+                    [md5] => 0efc55ad8bdfe46c9b2750299602cc6d
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpIlDRiH
+            [files[1]] => @/tmp/phpjVpWiW
+            [files[2]] => @/tmp/phpOJ25ib
+            [files[3]] => @/tmp/php56zhjq
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Власова Надежда Андреевна
+            [email] => nadyushka_vlasov@mail.ru
+            [idu] => 185993
+            [ido] => 189884
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Кассовые валютные операции
+                            [o_course] => 185
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1424206800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => ургэу синх
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Кассовые валютные операции
+    [o_course] => 185
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1424206800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => ургэу синх
+    [refid] => 0
+)
+<p>Здравствуйте, Власова Надежда Андреевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №189884 на тему: "Кассовые валютные операции".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nadyushka_vlasov</p>
+<p>Пароль: 849ea</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

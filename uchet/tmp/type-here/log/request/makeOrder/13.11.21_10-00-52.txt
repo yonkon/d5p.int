@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Разработка мероприятий по внедрению проектных решений в системе управления организацией
+            [o_course] => 54
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 30-40 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1387742400
+            [f_part] => 0
+            [f_comment] => тема 14. Под проектным решением необходимо создание архива в организации
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => Магнитогорский государственный университет
+            [user] => new
+            [fio] => Фёдорова Анастасия Юрьевна
+            [phone] => 
+            [mphone] => 89068720126
+            [email] => a-fedorowa91@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Bezymyanny7.tiff
+                    [md5] => faad7b385468c00043a28ae7165e2e91
+                )
+
+            [1] => Array
+                (
+                    [fname] => Bezymyanny8.tiff
+                    [md5] => 9a2a19e33164f9051a3e8022752dede0
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpg4Q0SU
+            [files[1]] => @/tmp/phpgFnJ5i
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => afedorowa91
+            [password] => cc1eb
+            [fio] => Фёдорова Анастасия Юрьевна
+            [email] => a-fedorowa91@yandex.ru
+            [idu] => 127061
+            [ido] => 112540
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 54
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1387742400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89068720126
+                            [email] => a-fedorowa91@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Разработка мероприятий по внедрению проектных решений в системе управления организацией
+    [o_course] => 54
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 30-40 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1387742400
+    [f_part] => 0
+    [f_comment] => тема 14. Под проектным решением необходимо создание архива в организации
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => Магнитогорский государственный университет
+    [user] => new
+    [fio] => Фёдорова Анастасия Юрьевна
+    [phone] => 
+    [mphone] => 89068720126
+    [email] => a-fedorowa91@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Фёдорова Анастасия Юрьевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №112540 на тему: "Разработка мероприятий по внедрению проектных решений в системе управления организацией".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: afedorowa91</p>
+<p>Пароль: cc1eb</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

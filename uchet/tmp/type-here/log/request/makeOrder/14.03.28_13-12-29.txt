@@ -1,0 +1,151 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Планирование карьеры персонала в Предприятии ( в ресторанном бизнесе)
+            [o_course] => 1
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 90 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Отправлять по частям..
+            [o_client_srok] => 1398628800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Москва
+            [country] => 
+            [city] => Москва
+            [o_vuz] => МосАП при Правительсве Москвы
+            [user] => new
+            [fio] => Хачатурян Донна
+            [phone] => 
+            [mphone] => 8-926-345-59-58
+            [email] => donn_a@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => donn_a
+            [password] => f7123
+            [fio] => Хачатурян Донна
+            [email] => donn_a@mail.ru
+            [idu] => 148386
+            [ido] => 136830
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Планирование карьеры персонала в Предприятии ( в ресторанном бизнесе)
+                            [o_course] => 1
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 90 листов
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Отправлять по частям..
+                            [o_client_srok] => 1398628800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Москва
+                            [country] => 
+                            [city] => Москва
+                            [o_vuz] => МосАП при Правительсве Москвы
+                            [user] => new
+                            [fio] => Хачатурян Донна
+                            [phone] => 
+                            [mphone] => 8-926-345-59-58
+                            [email] => donn_a@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Планирование карьеры персонала в Предприятии ( в ресторанном бизнесе)
+    [o_course] => 1
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 90 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Отправлять по частям..
+    [o_client_srok] => 1398628800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Москва
+    [country] => 
+    [city] => Москва
+    [o_vuz] => МосАП при Правительсве Москвы
+    [user] => new
+    [fio] => Хачатурян Донна
+    [phone] => 
+    [mphone] => 8-926-345-59-58
+    [email] => donn_a@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Хачатурян Донна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №136830 на тему: "Планирование карьеры персонала в Предприятии ( в ресторанном бизнесе)".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: donn_a</p>
+<p>Пароль: f7123</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

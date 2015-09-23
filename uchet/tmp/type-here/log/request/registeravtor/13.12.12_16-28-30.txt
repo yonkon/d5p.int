@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Юллия
+            [a_pass] => 15071990
+            [a_fio] => Паксюткина Юлия Сергеевна
+            [a_mphone] => 79043025028
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => kikisochka@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 16
+            [a_contact] => г.Магнитогорск
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 44
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 132032
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,190 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Управление оборотным капиталом
+            [o_course] => 110
+            [o_type] => 10
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1403035200
+            [f_part] => 1
+            [f_comment] => вариант №1
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => 
+            [user] => new
+            [fio] => Гадыльшина Анна Евгеньевна
+            [phone] => 
+            [mphone] => 89525299206
+            [email] => anjagadylshina@rambler.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Image0054.JPG
+                    [md5] => e1ef701f03f740f4f8066e23f36788d5
+                )
+
+            [1] => Array
+                (
+                    [fname] => Image0055.JPG
+                    [md5] => 91cec1fc2b397164bd9ecb42861add78
+                )
+
+            [2] => Array
+                (
+                    [fname] => Image0056.JPG
+                    [md5] => 6f9e7643ba2b5d24b61760605a07549a
+                )
+
+            [3] => Array
+                (
+                    [fname] => Image0057.JPG
+                    [md5] => b412e52af442a8ff004b2c98898c3f8d
+                )
+
+            [4] => Array
+                (
+                    [fname] => Image0058.JPG
+                    [md5] => 364b0df30d6b6468cbca1a84268839f8
+                )
+
+            [5] => Array
+                (
+                    [fname] => Image0059.JPG
+                    [md5] => 19e5fe7939f396bef27a53428038e12a
+                )
+
+            [6] => Array
+                (
+                    [fname] => Image0060.JPG
+                    [md5] => 91324077a566ff02a16f19e6478bf70a
+                )
+
+            [7] => Array
+                (
+                    [fname] => Image0061.JPG
+                    [md5] => 058abb3b454bb0cb46c205ca1940525e
+                )
+
+            [8] => Array
+                (
+                    [fname] => Image0062.JPG
+                    [md5] => 22ea8c966ec0971631605f8e4988d5ac
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpNTjV7D
+            [files[1]] => @/tmp/phpIrgbmD
+            [files[2]] => @/tmp/phprxH8AC
+            [files[3]] => @/tmp/phpCj5AQB
+            [files[4]] => @/tmp/phpjiZA6A
+            [files[5]] => @/tmp/phpaciXmA
+            [files[6]] => @/tmp/phphuJBDz
+            [files[7]] => @/tmp/phpahIBUy
+            [files[8]] => @/tmp/php7tY0by
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => anjagadylshina@rambler.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

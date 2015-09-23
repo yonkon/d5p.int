@@ -1,0 +1,83 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => sveta_kg
+            [a_pass] => s83528352s
+            [a_fio] => Кочкурова Светлана Геннадьевна
+            [a_mphone] => 79278492299
+            [a_phone] => 78352220749
+            [a_web] => 
+            [a_email] => sveta_kg@rambler.ru
+            [a_icq] => 218769893
+            [a_skype] => sveta_kg
+            [a_fromknow] => 28
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 74
+                    [1] => 8
+                    [2] => 81
+                    [3] => 137
+                    [4] => 181
+                    [5] => 27
+                    [6] => 107
+                    [7] => 125
+                    [8] => 53
+                    [9] => 82
+                    [10] => 11
+                    [11] => 83
+                    [12] => 187
+                    [13] => 188
+                    [14] => 45
+                    [15] => 3
+                    [16] => 36
+                    [17] => 23
+                    [18] => 191
+                    [19] => 25
+                    [20] => 84
+                    [21] => 60
+                    [22] => 113
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 115671
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,151 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Перспективы развития туризма в бурзянском районе
+            [o_course] => 47
+            [o_type] => 10
+            [o_shcooltype] => 
+            [o_volume] => 70 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1435179600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => мгту им. Носова
+            [user] => new
+            [fio] => Хакимов Рустем Радикович
+            [phone] => 
+            [mphone] => 9677424949
+            [email] => rustig10@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => rustig10
+            [password] => aa9cf
+            [fio] => Хакимов Рустем Радикович
+            [email] => rustig10@mail.ru
+            [idu] => 225596
+            [ido] => 220015
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Перспективы развития туризма в бурзянском районе
+                            [o_course] => 47
+                            [o_type] => 10
+                            [o_shcooltype] => 
+                            [o_volume] => 70 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1435179600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => мгту им. Носова
+                            [user] => new
+                            [fio] => Хакимов Рустем Радикович
+                            [phone] => 
+                            [mphone] => 9677424949
+                            [email] => rustig10@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Перспективы развития туризма в бурзянском районе
+    [o_course] => 47
+    [o_type] => 10
+    [o_shcooltype] => 
+    [o_volume] => 70 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1435179600
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => мгту им. Носова
+    [user] => new
+    [fio] => Хакимов Рустем Радикович
+    [phone] => 
+    [mphone] => 9677424949
+    [email] => rustig10@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Хакимов Рустем Радикович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №220015 на тему: "Перспективы развития туризма в бурзянском районе".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: rustig10</p>
+<p>Пароль: aa9cf</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

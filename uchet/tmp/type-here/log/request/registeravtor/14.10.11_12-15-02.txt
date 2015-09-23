@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Asya
+            [a_pass] => 120592
+            [a_fio] => Мовсесян Ася Рамилевна
+            [a_mphone] => 79049742539
+            [a_phone] => 3519
+            [a_web] => 
+            [a_email] => aska-mail12@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 5
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                    [1] => 9
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => Asya
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

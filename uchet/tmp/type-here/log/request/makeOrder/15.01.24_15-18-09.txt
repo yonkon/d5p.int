@@ -1,0 +1,154 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Антикризисное управление
+            [o_course] => 161
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1422738000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => ЮУрГУ
+            [user] => new
+            [fio] => Гадыльшина Анна Евгеньевна
+            [phone] => 
+            [mphone] => 89525299206
+            [email] => anjagadylshina@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => zadach_512.xls
+                    [md5] => 9c64c6f46d439cac743064a99033c954
+                )
+
+            [1] => Array
+                (
+                    [fname] => VPR_515_516.DOC
+                    [md5] => 3a20e2e6fa1a2d4402c20b5ec0c21876
+                )
+
+            [2] => Array
+                (
+                    [fname] => зад_конкурсн_масс.doc
+                    [md5] => 7c1532d3ecc9e1d638271d4ec6c6bec0
+                )
+
+            [3] => Array
+                (
+                    [fname] => zad_sm.xls
+                    [md5] => a34ea143212dbe742cecd4453500168e
+                )
+
+            [4] => Array
+                (
+                    [fname] => Варианты.doc
+                    [md5] => 93f88bcd8b80bf318dd39275fe62467a
+                )
+
+            [5] => Array
+                (
+                    [fname] => учебное пособие AY04.pdf
+                    [md5] => 3c8ff5265780dfde0aa7eb76c3d1acee
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php94z2XS
+            [files[1]] => @/tmp/phpHOR4nM
+            [files[2]] => @/tmp/phpdbB9NF
+            [files[3]] => @/tmp/phppH5fez
+            [files[4]] => @/tmp/phpFbxrEs
+            [files[5]] => @/tmp/phpzgFF4l
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => anjagadylshina@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

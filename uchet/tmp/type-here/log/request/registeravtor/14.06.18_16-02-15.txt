@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => 303303
+            [a_pass] => 303303
+            [a_fio] => Каунова Карина Юрьевна
+            [a_mphone] => 79208047903
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => kaunovak@rambler.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 10
+            [a_contact] => город Орел
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 165
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 164900
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

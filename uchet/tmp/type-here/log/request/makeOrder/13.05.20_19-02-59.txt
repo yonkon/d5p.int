@@ -1,0 +1,145 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Управление оборотными средствами
+            [o_course] => 1
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 70-80
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1369857600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МаГУ
+            [user] => new
+            [fio] => Фискунов ИВан
+            [phone] => 
+            [mphone] => 89049797555
+            [email] => temnikov-misha@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => temnikovmisha
+            [password] => defcd
+            [fio] => Фискунов ИВан
+            [email] => temnikov-misha@yandex.ru
+            [idu] => 95287
+            [ido] => 92962
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 1
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 70-80
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1369857600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89049797555
+                            [email] => temnikov-misha@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Управление оборотными средствами
+    [o_course] => 1
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 70-80
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1369857600
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МаГУ
+    [user] => new
+    [fio] => Фискунов ИВан
+    [phone] => 
+    [mphone] => 89049797555
+    [email] => temnikov-misha@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Фискунов ИВан!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №92962 на тему: "Управление оборотными средствами".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: temnikovmisha</p>
+<p>Пароль: defcd</p><p>С уважением, администрация сайта <a href="diplom5plus.ru">diplom5plus.ru</a></p>
+)
+
+
+

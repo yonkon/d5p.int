@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => biaias
+            [a_pass] => 25fe5
+            [a_fio] => Бикбаева Айнура  Асылхановна
+            [a_mphone] => 89080555681
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => ain3008@rambler.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 117
+                    [1] => 26
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => biaias
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

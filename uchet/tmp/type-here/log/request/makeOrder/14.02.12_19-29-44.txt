@@ -1,0 +1,195 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Ликвидность, платежеспособность и финансовая устойчивость предприятия и методы их оценки на примере
+            [o_course] => 84
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1396209600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Москва
+            [country] => 
+            [city] => Москва
+            [o_vuz] => ИНЭП
+            [user] => new
+            [fio] => Муромцева Юлия Владимировна
+            [phone] => 
+            [mphone] => 8-966-122-99-37
+            [email] => virga89@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Задание предд практ ФиК спец 13.docx
+                    [md5] => 5ec734477fb219e1b34677ff333f82d9
+                )
+
+            [1] => Array
+                (
+                    [fname] => Содержание Ликвидность, платежеспособность (1).docx
+                    [md5] => 636f8ba9f0b2498b12f58ee220f41e53
+                )
+
+            [2] => Array
+                (
+                    [fname] => УМК Оценка Недвижимости (ФиК)_60час.doc
+                    [md5] => 130a27759422c25111449d5806025454
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php5iUZsR
+            [files[1]] => @/tmp/phptsgDZO
+            [files[2]] => @/tmp/phppB8hwM
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => virga89
+            [password] => 761f2
+            [fio] => Муромцева Юлия Владимировна
+            [email] => virga89@mail.ru
+            [idu] => 141357
+            [ido] => 127621
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Ликвидность, платежеспособность и финансовая устойчивость предприятия и методы их оценки на примере
+                            [o_course] => 84
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1396209600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Москва
+                            [country] => 
+                            [city] => Москва
+                            [o_vuz] => ИНЭП
+                            [user] => new
+                            [fio] => Муромцева Юлия Владимировна
+                            [phone] => 
+                            [mphone] => 8-966-122-99-37
+                            [email] => virga89@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Ликвидность, платежеспособность и финансовая устойчивость предприятия и методы их оценки на примере
+    [o_course] => 84
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1396209600
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Москва
+    [country] => 
+    [city] => Москва
+    [o_vuz] => ИНЭП
+    [user] => new
+    [fio] => Муромцева Юлия Владимировна
+    [phone] => 
+    [mphone] => 8-966-122-99-37
+    [email] => virga89@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Муромцева Юлия Владимировна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №127621 на тему: "Ликвидность, платежеспособность и финансовая устойчивость предприятия и методы их оценки на примере".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: virga89</p>
+<p>Пароль: 761f2</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => yuliya231971
+            [a_pass] => eugen45n
+            [a_fio] => Кононенко Юлия Петровна
+            [a_mphone] => 79658779941
+            [a_phone] => 73812713980
+            [a_web] => 
+            [a_email] => yuliyalavrenteva1@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 28
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 131
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 102461
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

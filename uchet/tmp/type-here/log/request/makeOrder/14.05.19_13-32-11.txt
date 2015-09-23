@@ -1,0 +1,82 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Кинематика,статика,динамика
+            [o_course] => 115
+            [o_type] => 20
+            [o_shcooltype] => 
+            [o_volume] => 3 задачи
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1400788800
+            [f_part] => 0
+            [f_comment] => 1.в первом файле сделать задачу С4(исх. данные последний вариант,а рисунок предпоследний,так сказал препод,ну вы сами смотрите).
+2.во втором файле задачу К2,исх данные также послед вариант а рисунок предпоследний,рисунок точный к этой задаче находится в 3 файле.
+3.и в четвертом файле задача д6,исх данные берем также)
+            [o_precost] => 
+            [o_cc] => магнитогорск
+            [country] => 
+            [city] => магнитогорск
+            [o_vuz] => МГТУ им. Носова
+            [user] => new
+            [fio] => Худайгулова Ильвира Маратовна
+            [phone] => 
+            [mphone] => 89127759346
+            [email] => Kleopatra-aim@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Termehstatkinem.pdf
+                    [md5] => 9647434dff803fe01c7e5a4bbf8c0683
+                )
+
+            [1] => Array
+                (
+                    [fname] => 4_6economists_file_1005_2845_1657.pdf
+                    [md5] => 89dfbcd037e1fd9ad9b0ea00b1d4427f
+                )
+
+            [2] => Array
+                (
+                    [fname] => DSC_5102.jpg
+                    [md5] => cc18de71afdb6d09544987cc65d225a5
+                )
+
+            [3] => Array
+                (
+                    [fname] => termeh_targ_d6.doc
+                    [md5] => a598757d9820d754844dfbc277f1b2aa
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpszXtDQ
+            [files[1]] => @/tmp/phpvVfIsm
+            [files[2]] => @/tmp/phpk4nriS
+            [files[3]] => @/tmp/phpHcKH8n
+        )
+
+)
+
+
+

@@ -1,0 +1,119 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 106617
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Опёка и попечительство
+            [o_course] => 58
+            [o_type] => 3
+            [o_shcooltype] => 
+            [o_volume] => не больше 15 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => материал из учебников не больше 20%
+            [o_client_srok] => 
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => г.Южноуральск,Челябинской области
+            [country] => 
+            [city] => г.Южноуральск,Челябинской области
+            [o_vuz] => ЧелГУ
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Заболотских Татьяна
+            [email] => 25tatyana73@mail.ru
+            [idu] => 106617
+            [ido] => 98953
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 58
+                            [o_type] => 3
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Опёка и попечительство
+    [o_course] => 58
+    [o_type] => 3
+    [o_shcooltype] => 
+    [o_volume] => не больше 15 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => материал из учебников не больше 20%
+    [o_client_srok] => 
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => г.Южноуральск,Челябинской области
+    [country] => 
+    [city] => г.Южноуральск,Челябинской области
+    [o_vuz] => ЧелГУ
+    [refid] => 0
+)
+<p>Здравствуйте, Заболотских Татьяна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №98953 на тему: "Опёка и попечительство".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: 25tatyana73</p>
+<p>Пароль: 8f736</p><p>С уважением, администрация сайта www.diplom5plus.ru</p>
+)
+
+
+

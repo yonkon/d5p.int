@@ -1,0 +1,60 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => alinadavletshina
+            [a_pass] => a41ka
+            [a_fio] => Давлетшина Алина Данияровна
+            [a_mphone] => 89222128002
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => davletshinaa@list.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 5
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 199720
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

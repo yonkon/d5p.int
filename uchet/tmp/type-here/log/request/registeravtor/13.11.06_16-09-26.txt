@@ -1,0 +1,65 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => darya_karimova_1994
+            [a_pass] => a7765
+            [a_fio] => Каримова Дарья
+            [a_mphone] => 79517865799
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => darya_karimova_1994@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 5
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 89
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => darya_karimova_1994
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

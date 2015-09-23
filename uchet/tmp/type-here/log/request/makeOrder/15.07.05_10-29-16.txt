@@ -1,0 +1,165 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 226245
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа по математике за 1ый курс
+            [o_course] => 11
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 4контрольный работы
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1436734800
+            [f_part] => 0
+            [f_comment] => ТОЛЬКО 10 ВАРИАНТ
+            [o_precost] => 
+            [o_cc] => МАгнитогорск
+            [country] => 
+            [city] => МАгнитогорск
+            [o_vuz] => мгту
+            [user] => new
+            [fio] => Удачина Евгения
+            [phone] => 
+            [mphone] => 89634761180
+            [email] => udachina.555@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 1 001.bmp
+                    [md5] => 7900698989bf1356866db56f1df0c5e3
+                )
+
+            [1] => Array
+                (
+                    [fname] => 2 001.bmp
+                    [md5] => d973a6035d94d00aa6bf897037e478a0
+                )
+
+            [2] => Array
+                (
+                    [fname] => 3 001.bmp
+                    [md5] => a2f88778443f9d34124a8c52a1e8d03e
+                )
+
+            [3] => Array
+                (
+                    [fname] => 4 001.bmp
+                    [md5] => 68a0379bc6169b15b0d38a3f4d855379
+                )
+
+            [4] => Array
+                (
+                    [fname] => 5 001.bmp
+                    [md5] => bf3240f3289467f34c0fc814e02e6ff8
+                )
+
+            [5] => Array
+                (
+                    [fname] => 6 001.bmp
+                    [md5] => a5a77887596b0890d7021371becdd582
+                )
+
+            [6] => Array
+                (
+                    [fname] => 7 001.bmp
+                    [md5] => 0516c30958f97f8caa74e421e0d5cb02
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phptIy7mH
+            [files[1]] => @/tmp/phpnyRyro
+            [files[2]] => @/tmp/phpTVCMD5
+            [files[3]] => @/tmp/phpRNztYM
+            [files[4]] => @/tmp/phpXfLYqu
+            [files[5]] => @/tmp/phpRKJA1b
+            [files[6]] => @/tmp/php7Wg0KT
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [4] => Array
+                (
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

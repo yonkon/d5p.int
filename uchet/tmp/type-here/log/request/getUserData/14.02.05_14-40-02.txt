@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 105789
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Юлия Вячеславовна Добренькая
+            [phone] => 
+            [mphone] => 8-967-869-21-98
+            [email] => yuliya-17041994@yandex.ru
+            [icq] => 
+            [contact] => 
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 17.04.1994
+            [country] => Россия
+            [city] => Магнитогорск
+            [speciality] => Государственный служащий
+            [orders_before] => Всё заказываю только у Вас
+            [time_to_call] => В любое время
+            [payment_method] => Наличными
+            [university] => МГТУ им. Г.И. Носова
+            [examinations_time] => Array
+                (
+                    [0] => 26.05.2014
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

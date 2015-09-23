@@ -1,0 +1,65 @@
+.nlsmenu {
+    padding:1px 1px 1px 1px;
+    z-index:1000;   
+    font-family:Arial,Tahoma,verdana;
+    font-size:12px;
+}
+
+.nlsitemcontainer {height:20px;padding:1px;}
+.nlsiconcell {width:20px;}
+.nlssubmenucell{width:20px;}
+.nlsitem, .nlsitem:hover {
+	padding:1px 1px 1px 1px;
+    font-family:Arial,Tahoma,verdana;
+    font-size:14px;
+	font-weight:normal;
+	font-style:italic;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.nlsitemcontainerover {
+    height:20px;
+}
+.nlsiconcellover {width:20px;}
+.nlssubmenucellover {width:20px; }
+.nlsitemover {
+	padding:1px 1px 1px 1px;
+    font-family:Arial,Tahoma,verdana;
+    font-size:14px;
+	font-weight:normal;
+	font-style:italic;
+	text-decoration:underline;
+	font-weight:bold;	
+}
+
+.nlsitemdisable {
+	padding:1px 1px 1px 1px;
+    font-family:Arial,Tahoma,verdana;
+    font-size:14px;
+	font-weight:bold;
+    color:#999999;
+    padding:2px 5px 2px 5px;
+}
+
+.nlsseparatorcontainer {padding-left:8px; background:#F00;}
+.nlsseparator {
+    height:3px;
+    background-image:url(img/hseparator.gif);
+    background-position:center center;
+    background-repeat:repeat-x;
+}
+
+.mtopleft {height:0px; width:0px;}
+.mtopright {height:0px; width:0px;}
+.mbottomleft {width:0px; height:0px;}
+.mbottomright {width:0px; height:0px;}
+.mtop {height:0px;}
+.mbottom {height:0px;}
+.mleft {width:0px;}
+.mright {width:0px;}
+/*
+.horzshadow { -moz-opacity:0.4;background-repeat:no-repeat; background-image:url(img/hshadow.gif);filter:progid:DXImageTransform.Microsoft.Alpha( Opacity=40, FinishOpacity=0, Style=0, StartX=0,  FinishX=100, StartY=0, FinishY=100);}
+.vertshadow { -moz-opacity:0.4;background-repeat:no-repeat; background-image:url(img/vshadow.gif);filter:progid:DXImageTransform.Microsoft.Alpha( Opacity=40, FinishOpacity=0, Style=0, StartX=0,  FinishX=100, StartY=0, FinishY=100);}
+.cornshadow { -moz-opacity:0.4;background-repeat:no-repeat; background-image:url(img/cornershadow.gif);filter:progid:DXImageTransform.Microsoft.Alpha( Opacity=40, FinishOpacity=0, Style=0, StartX=0,  FinishX=100, StartY=0, FinishY=100);}
+*/

@@ -1,0 +1,64 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => KSY66
+            [a_pass] => 3df9b
+            [a_fio] => Гостевских Ксения Михайловна
+            [a_mphone] => 79041681594
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => kgostievskikh@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 3
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => KSY66
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

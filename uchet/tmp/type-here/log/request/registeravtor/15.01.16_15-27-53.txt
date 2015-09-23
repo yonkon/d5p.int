@@ -1,0 +1,92 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Vaindante
+            [a_pass] => Vain123()
+            [a_fio] => Григорьев Владислав Игоревич
+            [a_mphone] => 79517805990
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => diplom48@mail.ru
+            [a_icq] => 
+            [a_skype] => Vaindante
+            [a_fromknow] => 7
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 76
+                    [1] => 61
+                    [2] => 251
+                    [3] => 81
+                    [4] => 149
+                    [5] => 37
+                    [6] => 27
+                    [7] => 107
+                    [8] => 173
+                    [9] => 82
+                    [10] => 2
+                    [11] => 11
+                    [12] => 242
+                    [13] => 1
+                    [14] => 83
+                    [15] => 51
+                    [16] => 192
+                    [17] => 15
+                    [18] => 248
+                    [19] => 189
+                    [20] => 3
+                    [21] => 52
+                    [22] => 49
+                    [23] => 36
+                    [24] => 198
+                    [25] => 25
+                    [26] => 234
+                    [27] => 84
+                    [28] => 232
+                    [29] => 60
+                    [30] => 113
+                    [31] => 85
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 198158
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

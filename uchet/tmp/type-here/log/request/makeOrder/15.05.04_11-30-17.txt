@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => теория вероятности
+            [o_course] => 11
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 9 задач
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1431637200
+            [f_part] => 0
+            [f_comment] => 14 вариант
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => ЮуРГУ
+            [user] => new
+            [fio] => Коваленко Юлия Олеговна
+            [phone] => 
+            [mphone] => 89227214777
+            [email] => kuo60mgn@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Doc1.docx
+                    [md5] => 23b98461ecd356a54d0cd3cde73e4d9f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpFg4hPx
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => kuo60mgn
+            [password] => 367bb
+            [fio] => Коваленко Юлия Олеговна
+            [email] => kuo60mgn@mail.ru
+            [idu] => 218628
+            [ido] => 210594
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => теория вероятности
+                            [o_course] => 11
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 9 задач
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1431637200
+                            [f_part] => 0
+                            [f_comment] => 14 вариант
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => ЮуРГУ
+                            [user] => new
+                            [fio] => Коваленко Юлия Олеговна
+                            [phone] => 
+                            [mphone] => 89227214777
+                            [email] => kuo60mgn@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => теория вероятности
+    [o_course] => 11
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 9 задач
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1431637200
+    [f_part] => 0
+    [f_comment] => 14 вариант
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => ЮуРГУ
+    [user] => new
+    [fio] => Коваленко Юлия Олеговна
+    [phone] => 
+    [mphone] => 89227214777
+    [email] => kuo60mgn@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Коваленко Юлия Олеговна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №210594 на тему: "теория вероятности".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: kuo60mgn</p>
+<p>Пароль: 367bb</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,82 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => ganna-05031988g
+            [a_pass] => 05031988g
+            [a_fio] => Жульжанова Жанна
+            [a_mphone] => 9507248052
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => ganna-05031988g@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 71
+                    [1] => 195
+                    [2] => 202
+                    [3] => 58
+                    [4] => 171
+                    [5] => 99
+                    [6] => 35
+                    [7] => 217
+                    [8] => 170
+                    [9] => 230
+                    [10] => 188
+                    [11] => 187
+                    [12] => 129
+                    [13] => 16
+                    [14] => 70
+                    [15] => 146
+                    [16] => 19
+                    [17] => 50
+                    [18] => 40
+                    [19] => 64
+                    [20] => 117
+                    [21] => 26
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 177985
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Модернизация электрооборудования газовой котельной
+            [o_course] => 237
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 40 - 60
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1432501200
+            [f_part] => 0
+            [f_comment] => Мне нужна только часть дипломной работы, в файле более подробно что мне нужно.
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => Уральский Федеральный Университет
+            [user] => new
+            [fio] => Митрофанов Александр
+            [phone] => 
+            [mphone] => +79089035069
+            [email] => mitrofanovaleks16@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Задание на написание диплома..docx
+                    [md5] => 293d10bbd70c194d7f9ba7dd2cff3b62
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php3TjWhq
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => mitrofanovaleks16
+            [password] => b5fa1
+            [fio] => Митрофанов Александр
+            [email] => mitrofanovaleks16@yandex.ru
+            [idu] => 221806
+            [ido] => 214851
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Модернизация электрооборудования газовой котельной
+                            [o_course] => 237
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 40 - 60
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1432501200
+                            [f_part] => 0
+                            [f_comment] => Мне нужна только часть дипломной работы, в файле более подробно что мне нужно.
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => Уральский Федеральный Университет
+                            [user] => new
+                            [fio] => Митрофанов Александр
+                            [phone] => 
+                            [mphone] => +79089035069
+                            [email] => mitrofanovaleks16@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Модернизация электрооборудования газовой котельной
+    [o_course] => 237
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 40 - 60
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1432501200
+    [f_part] => 0
+    [f_comment] => Мне нужна только часть дипломной работы, в файле более подробно что мне нужно.
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => Уральский Федеральный Университет
+    [user] => new
+    [fio] => Митрофанов Александр
+    [phone] => 
+    [mphone] => +79089035069
+    [email] => mitrofanovaleks16@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Митрофанов Александр!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №214851 на тему: "Модернизация электрооборудования газовой котельной".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: mitrofanovaleks16</p>
+<p>Пароль: b5fa1</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,233 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Бухучет
+            [o_course] => 246
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 6 задач
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1417294800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => 
+            [user] => new
+            [fio] => Раздьяконова Татьяна Владимировна
+            [phone] => 
+            [mphone] => 89530040971
+            [email] => tanj92@bk.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => IMG_20141105_150830.jpg
+                    [md5] => 2a7d7ca1bd15e7e5f87416e09baa80ae
+                )
+
+            [1] => Array
+                (
+                    [fname] => IMG_20141105_150838.jpg
+                    [md5] => c892a37ecaa981f8f87ffd5d4040f3c0
+                )
+
+            [2] => Array
+                (
+                    [fname] => IMG_20141105_150848.jpg
+                    [md5] => 15779e1a4d2a0953beca3e0c1abe7247
+                )
+
+            [3] => Array
+                (
+                    [fname] => IMG_20141105_151123.jpg
+                    [md5] => bba83d2ee7e500dc05d1c4f91c8bbbc9
+                )
+
+            [4] => Array
+                (
+                    [fname] => IMG_20141105_151133.jpg
+                    [md5] => d2538c7c2ee3fb637406bba58d8bc627
+                )
+
+            [5] => Array
+                (
+                    [fname] => IMG_20141105_151201.jpg
+                    [md5] => 91f29ca614150e6af2b48c86adaefbce
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpjr0wOc
+            [files[1]] => @/tmp/phpUI9Vfg
+            [files[2]] => @/tmp/phpNKm0Hj
+            [files[3]] => @/tmp/php0gkGan
+            [files[4]] => @/tmp/php58WUDq
+            [files[5]] => @/tmp/php8ZQF7t
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => tanj92
+            [password] => 5c020
+            [fio] => Раздьяконова Татьяна Владимировна
+            [email] => tanj92@bk.ru
+            [idu] => 183829
+            [ido] => 169388
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Бухучет
+                            [o_course] => 246
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 6 задач
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1417294800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => Раздьяконова Татьяна Владимировна
+                            [phone] => 
+                            [mphone] => 89530040971
+                            [email] => tanj92@bk.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Бухучет
+    [o_course] => 246
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 6 задач
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1417294800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => 
+    [user] => new
+    [fio] => Раздьяконова Татьяна Владимировна
+    [phone] => 
+    [mphone] => 89530040971
+    [email] => tanj92@bk.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Раздьяконова Татьяна Владимировна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №169388 на тему: "Бухучет".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: tanj92</p>
+<p>Пароль: 5c020</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Модернизация системы учёта сырой продукции в ресторане Макдоналдс
+            [o_course] => 97
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 70 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => к 1 июня хотя бы сделать пол работы
+            [o_client_srok] => 1434315600
+            [f_part] => 0
+            [f_comment] => почти готовая 1 глава
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МаГУ
+            [user] => new
+            [fio] => Ybpjvjd
+            [phone] => 
+            [mphone] => 89615755503
+            [email] => shoma120691@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => практика.doc
+                    [md5] => 9d03e601798c590f641cfcbfc1ede97f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpmmpNqm
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => shoma120691
+            [password] => 32bc7
+            [fio] => Ybpjvjd
+            [email] => shoma120691@mail.ru
+            [idu] => 223662
+            [ido] => 217517
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Модернизация системы учёта сырой продукции в ресторане Макдоналдс
+                            [o_course] => 97
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 70 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => к 1 июня хотя бы сделать пол работы
+                            [o_client_srok] => 1434315600
+                            [f_part] => 0
+                            [f_comment] => почти готовая 1 глава
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => МаГУ
+                            [user] => new
+                            [fio] => Ybpjvjd
+                            [phone] => 
+                            [mphone] => 89615755503
+                            [email] => shoma120691@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Модернизация системы учёта сырой продукции в ресторане Макдоналдс
+    [o_course] => 97
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 70 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => к 1 июня хотя бы сделать пол работы
+    [o_client_srok] => 1434315600
+    [f_part] => 0
+    [f_comment] => почти готовая 1 глава
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МаГУ
+    [user] => new
+    [fio] => Ybpjvjd
+    [phone] => 
+    [mphone] => 89615755503
+    [email] => shoma120691@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Ybpjvjd!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №217517 на тему: "Модернизация системы учёта сырой продукции в ресторане Макдоналдс".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: shoma120691</p>
+<p>Пароль: 32bc7</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

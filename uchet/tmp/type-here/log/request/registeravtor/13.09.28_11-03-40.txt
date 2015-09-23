@@ -1,0 +1,68 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => 222+
+            [a_pass] => 222+222
+            [a_fio] => Харламов Александр Васильевич
+            [a_mphone] => 79615198437
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => chertegi@mail.ru
+            [a_icq] => 644792593
+            [a_skype] => 
+            [a_fromknow] => 28
+            [a_contact] => г. Крымск
+            [a_other_contact] => мессенждер
+            [a_special] => Array
+                (
+                    [0] => 29
+                    [1] => 91
+                    [2] => 28
+                    [3] => 116
+                    [4] => 17
+                    [5] => 31
+                    [6] => 115
+                    [7] => 148
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 114783
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

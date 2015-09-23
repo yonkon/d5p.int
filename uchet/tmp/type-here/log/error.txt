@@ -1,0 +1,4744 @@
+03.05.13 14:57:28
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 14:57:36
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 14:57:39
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 15:18:15
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:09:12
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:15:49
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:20:30
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:20:56
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:21:12
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:21:49
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 16:48:42
+	error by UError(2.1) Array
+(
+)
+
+03.05.13 17:30:08
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 12:04:24
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 12:05:42
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 12:05:55
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 13:41:29
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 13:44:57
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 13:46:41
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:03:54
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:04:53
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:08:36
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:08:40
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:21:10
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:25:13
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:25:47
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:25:51
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:27:33
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:27:47
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:27:59
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:28:06
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:28:07
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:40:05
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:42:13
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:44:17
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:48:36
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:48:40
+	error by UError(2.1) Array
+(
+)
+
+06.05.13 14:52:21
+	error by UError(2.1) Array
+(
+)
+
+14.05.13 16:16:54
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:14:53
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:20:53
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:21:16
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:21:23
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:22:32
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:22:36
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:22:54
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:22:58
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:23:13
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:48:28
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:48:39
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:49:54
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:49:58
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:50:22
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:50:23
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:50:25
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:54:47
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:56:12
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:59:12
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:59:19
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 11:59:21
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:00:48
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:02:58
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:02:59
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:03:01
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:03:24
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:04:59
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:03
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:04
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:25
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:39
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:39
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:43
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:05:52
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:05:52
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:06:18
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 12:06:18
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:32
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:32
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:34
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:39
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:45
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:49
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:18:59
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:19:15
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:19:16
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:19:26
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:19:31
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:19:31
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:31:05
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:31:05
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:31:29
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:31:29
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:32:00
+	error by UError(2.1) Array
+(
+)
+
+15.05.13 13:32:00
+	error by UError(2.1) Array
+(
+)
+
+04.06.13 18:49:14
+	error by UError(2.10) Array
+(
+)
+
+04.06.13 18:49:33
+	error by UError(2.10) Array
+(
+)
+
+04.06.13 18:49:39
+	error by UError(2.10) Array
+(
+)
+
+04.06.13 18:49:40
+	error by UError(2.10) Array
+(
+)
+
+04.06.13 18:49:40
+	error by UError(2.10) Array
+(
+)
+
+18.08.13 20:58:37
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+05.10.13 21:02:31
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:03:38
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:03:48
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:04:01
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:04:10
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:04:35
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:04:48
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:04:48
+	error by UError(2.4) Array
+(
+)
+
+05.10.13 21:04:49
+	error by UError(2.4) Array
+(
+)
+
+27.10.13 09:54:49
+	error by UError(2.18) Array
+(
+)
+
+27.10.13 09:55:33
+	error by UError(2.18) Array
+(
+)
+
+27.10.13 09:55:44
+	error by UError(2.18) Array
+(
+)
+
+27.10.13 09:57:29
+	error by UError(2.18) Array
+(
+)
+
+27.10.13 10:05:09
+	error by UError(2.18) Array
+(
+)
+
+28.10.13 16:13:50
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 17:22:52
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 17:23:16
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 18:43:00
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 19:15:39
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 19:15:49
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 20:07:44
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 20:08:07
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 20:34:41
+	error by UError(2.18) Array
+(
+)
+
+29.10.13 21:22:44
+	error by UError(2.18) Array
+(
+)
+
+31.10.13 12:10:20
+	error by UError(2.18) Array
+(
+)
+
+31.10.13 20:33:35
+	error by UError(2.18) Array
+(
+)
+
+31.10.13 20:33:48
+	error by UError(2.18) Array
+(
+)
+
+31.10.13 20:33:54
+	error by UError(2.18) Array
+(
+)
+
+01.11.13 22:01:48
+	error by UError(2.18) Array
+(
+)
+
+01.11.13 22:04:35
+	error by UError(2.18) Array
+(
+)
+
+01.11.13 22:04:58
+	error by UError(2.18) Array
+(
+)
+
+01.11.13 22:04:58
+	error by UError(2.18) Array
+(
+)
+
+06.11.13 12:45:23
+	error by UError(2.18) Array
+(
+)
+
+06.11.13 12:45:23
+	error by UError(2.18) Array
+(
+)
+
+06.11.13 14:36:54
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 18:20:58
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 18:21:08
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 22:09:14
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 22:09:29
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 22:10:45
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 22:12:37
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 22:28:49
+	error by UError(2.18) Array
+(
+)
+
+07.11.13 22:30:09
+	error by UError(2.18) Array
+(
+)
+
+11.11.13 09:55:11
+	error by UError(2.18) Array
+(
+)
+
+12.11.13 11:16:42
+	error by UError(2.18) Array
+(
+)
+
+12.11.13 11:16:50
+	error by UError(2.18) Array
+(
+)
+
+12.11.13 11:17:10
+	error by UError(2.18) Array
+(
+)
+
+14.11.13 17:56:06
+	error by UError(2.18) Array
+(
+)
+
+14.11.13 17:56:07
+	error by UError(2.18) Array
+(
+)
+
+14.11.13 17:56:20
+	error by UError(2.18) Array
+(
+)
+
+14.11.13 17:56:21
+	error by UError(2.18) Array
+(
+)
+
+14.11.13 17:56:29
+	error by UError(2.18) Array
+(
+)
+
+14.11.13 17:56:31
+	error by UError(2.18) Array
+(
+)
+
+27.11.13 12:10:45
+	error by UError(2.18) Array
+(
+)
+
+28.11.13 12:38:45
+	error by UError(2.18) Array
+(
+)
+
+28.11.13 12:39:37
+	error by UError(2.18) Array
+(
+)
+
+28.11.13 12:41:02
+	error by UError(2.18) Array
+(
+)
+
+12.12.13 13:52:53
+	error by UError(2.18) Array
+(
+)
+
+16.12.13 23:47:24
+	error by UError(2.18) Array
+(
+)
+
+08.01.14 12:02:15
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+08.01.14 12:02:15
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+08.01.14 12:02:15
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+08.01.14 12:02:15
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+09.01.14 14:08:36
+	error by UError(2.15) Array
+(
+    [ido] => 112816
+)
+
+09.01.14 14:08:54
+	error by UError(2.15) Array
+(
+    [ido] => 112816
+)
+
+09.01.14 14:09:17
+	error by UError(2.15) Array
+(
+    [ido] => 112816
+)
+
+09.01.14 16:27:05
+	error by UError(2.15) Array
+(
+    [ido] => 112816
+)
+
+09.01.14 16:28:50
+	error by UError(2.15) Array
+(
+    [ido] => 112816
+)
+
+09.01.14 16:29:10
+	error by UError(2.15) Array
+(
+    [ido] => 112816
+)
+
+12.01.14 16:53:41
+	error by UError(2.26) Array
+(
+)
+
+12.01.14 16:54:56
+	error by UError(2.26) Array
+(
+)
+
+25.01.14 13:22:48
+	error by UError(2.18) Array
+(
+)
+
+25.01.14 13:28:18
+	error by UError(2.18) Array
+(
+)
+
+25.01.14 21:32:42
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 13:38:08
+	error by UError(2.18) Array
+(
+)
+
+29.01.14 21:05:22
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 21:05:49
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 21:07:45
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 21:10:22
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 21:22:50
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 21:23:53
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 21:37:15
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 22:13:17
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:17:44
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:19:41
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:21:38
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 22:52:01
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 22:53:56
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:03:01
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:04:59
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:16:03
+	error by UError(3.1) Array
+(
+    [curl_error] => Empty reply from server
+    [curl_errno] => 52
+)
+
+29.01.14 23:16:03
+	error by UError(3.1) Array
+(
+    [curl_error] => Empty reply from server
+    [curl_errno] => 52
+)
+
+29.01.14 23:35:05
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+29.01.14 23:54:59
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+30.01.14 00:17:59
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+08.02.14 16:20:49
+	error by UError(2.4) Array
+(
+)
+
+17.02.14 07:32:41
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+17.02.14 07:32:56
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+17.02.14 07:33:29
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+17.02.14 07:33:45
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+17.02.14 07:34:36
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+17.02.14 07:35:20
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+17.02.14 07:35:55
+	error by UError(3.5) Array
+(
+    [curl_result] => <?php
+/**
+ * Серверная часть для связи с кабинетами клиента. Используется для кабинетов, начиная с версии 2.03
+ *
+ * @author alexby <mail.alex.by@gmail.com>
+ */
+
+/**
+* Shutdown функция. Выводит(отправляет на удалённый сервер) сформированные данные и/или ошибки
+*
+* @return null
+*/
+function shutdownFunction() {
+	global $logPath;
+	$ob_variable = ob_get_contents();
+	ob_end_clean();
+	
+	global $uchetServer;
+	
+	if(isset($uchetServer)) {//если не было ошибок Parse error в class.uchet
+		$answer['data'] = $uchetServer->res;
+		$answer['debugOut'] = (isset($uchetServer->debugOut)) ? $uchetServer->debugOut : null;
+		$answer['errors'] = (isset($uchetServer->error)) ? $uchetServer->error : Array();
+		$answer['code'] = (isset($uchetServer->code)) ? $uchetServer->code : 0;
+		foreach($uchetServer->files as $key => $value) {
+			$answer['received']['files'][$key]['recievedCode'] = $uchetServer->files[$key]['recievedCode'];
+		}
+	} else {
+		$answer['code'] = 1;
+		$answer['errors'] = Array('26' => Array());
+	}
+	$answer['textOut'] = $ob_variable;
+	
+	\Indie\Log::writeSeparate($logPath, $answer);
+	
+	/**
+	 * Костыль
+	 */
+	if (($uchetServer->act == 'makeOrder') && (isset($answer['data']['saved']))) {
+		$answer['data']['saved'] = encDataFull($answer['data']['saved'],'UTF8','CP1251');
+	}
+	$encodedCharsetAnwer = encDataFull($answer,'UTF8','CP1251');
+	$encodedAnswer = json_encode($encodedCharsetAnwer);
+	
+	$jLastError = json_last_error();
+	if($jLastError !== 0) {
+		\Indie\Error::newErrorMessage('9.1', Array('json error code' => $jLastError, 'encodedAnswer' => $encodedAnswer));
+	}
+	echo $encodedAnswer;
+}
+register_shutdown_function('shutdownFunction');
+
+include dirname(__FILE__).'/new/core/bootstrap.php';
+
+$reg1 = '/([a-zA-Z0-9-]+[\.]?)*/i'; 
+$reg2 = '/[a-zA-Z0-9-]/i';
+
+$fromSite = (preg_replace($reg1, '', $_REQUEST['from_site']) != '') ? 'unknown' : $_REQUEST['from_site'];
+$act = (preg_replace($reg2, '', $_REQUEST['act']) != '') ? 'unknown' : $_REQUEST['act'];
+$logPath = 'remoteAccess/'.$fromSite.'/'.$act;
+
+\Indie\Log::writeSeparate($logPath, $_SERVER);
+\Indie\Log::writeSeparate($logPath, $_REQUEST);
+
+// Проверяем на корректность версию протокола связи
+$ptn = "/^\d+(\.([\d\w]+))*$/";
+if(!preg_match($ptn, $_REQUEST['version'])) {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version!';
+	exit();	
+}
+
+$version = str_replace('.', '_', $_REQUEST['version']);
+$uchetFilePath = './new/core/uchet/'.$version.'.php';
+if(file_exists($uchetFilePath)) {
+	include_once($uchetFilePath);
+} else {
+	/**
+	 * @todo логировать как подозрение на атаку
+	 */
+	echo 'wrong version! file does not exists.';
+	exit();
+}
+
+require($_conf['disk_patch']."include/smarty/Smarty.class.php");
+$smarty = new Smarty();
+//$smarty -> debugging = true;
+$smarty->template_dir = $_conf['disk_patch'].$_conf['tpl_dir'];
+$smarty->compile_dir = $_conf['disk_patch']."tmp/templates_c";
+$smarty->cache_dir = $_conf['disk_patch']."tmp/cache";
+$smarty->config_dir = $_conf['disk_patch']."include/smarty/configs";
+$smarty->register_resource("db", array("db_get_template","db_get_timestamp","db_get_secure","db_get_trusted"));
+$smarty->register_resource("dbs", array("dbs_get_template","dbs_get_timestamp","dbs_get_secure","dbs_get_trusted"));
+
+$uchetServer = new Uchet();
+$uchetServer->remoteHost = $_REQUEST['from_site'];
+$uchetServer->password = $_REQUEST['password'];
+$uchetServer->act = $_REQUEST['act'];
+$uchetServer->protocol = 'curl';
+$uchetServer->owner_idu = (int)$_REQUEST['owner_idu'];
+$uchetServer->idu = (int)$_REQUEST['idu'];
+$uchetServer->strong = $_REQUEST['strong'];
+$uchetServer->debug = $_REQUEST['debug'];
+
+if(!$uchetServer->CheckHost()) {
+	$uchetServer->addError('1');
+} else {
+	//проверяем по белому списку вызываемый метод и запускаем нужный
+	$acts = Array('makeOrder', 'registeravtor', 'authorizeRemoteUser', 'getUserOrderList', 'getUserOrderInfo', 'getUserData', 'updateUserData', 'getNewsList', 'pDownloadOrderFile', 'pDownloadMailAttach', 'createEasypayByOrder', 'updateEasypayByOrder', 'loadDictionary', 'massUpdateEasypayByOrder', 'getEasypayOrderForCheck', 'recoverPassword', 'payment'); 
+	if(in_array($uchetServer->act, $acts)) {
+		$method = $uchetServer->act;
+	} else {
+		$uchetServer->addError('6', Array('act' => $uchetServer->act));
+	}
+	if(isset($method)) {
+		$uchetServer->files = getFiles();
+		$uchetServer->rData = encDataFull(json_decode($_REQUEST['data'],true),'CP1251','UTF8');
+		if($uchetServer->checkStrong()) {
+			$uchetServer->$method();
+		}
+	}		
+}
+
+/**
+* Перекодирования массива из одной кодировки в другую
+*
+* @param array of mixed $data данные для перекодировки
+* @param string $enTo в кодировку
+* @param string $enFrom из кодировки
+* @return array of mixed перекодированные данные
+*/
+function encDataFull($data, $enTo, $enFrom){
+	global $_conf;
+	if(is_array($data)){
+		while(list($k,$v) = each($data)){
+			$data[$k] = encDataFull($v, $enTo, $enFrom);
+		}
+	}
+	else $data = mb_convert_encoding($data, $enTo, $enFrom);
+	return $data;
+}
+
+/*
+* Проверяет и возвращает в понятном виде полученные файлы
+*
+* @return array of mixed массив с файлами TODO: формат возвращаемых данных
+*/
+function getFiles()
+{
+	$result = encDataFull(json_decode($_REQUEST['files_data'],true),'CP1251','UTF8');
+	if(count($result)) {
+		foreach($_FILES['files']['tmp_name'] as $key => $val) {
+			if($_FILES['files']['error'][$key] == 0) {
+				$result[$key]['fpath'] = $val;
+				$result[$key]['fmd5_recieve'] = md5_file($val);
+				if($result[$key]['fmd5_recieve'] == $result[$key]['md5']) {
+					$result[$key]['recievedCode'] = 0;
+				} else {
+					$result[$key]['recievedCode'] = 1;
+				}					
+			}
+			//!!!иначе ошибка загрузки		
+		}
+	}
+	return $result;
+}
+)
+
+01.04.14 16:09:45
+	error by UError(3.1) Array
+(
+    [curl_error] => Couldn't resolve host 'www2.sverka1.ru'
+    [curl_errno] => 6
+)
+
+01.04.14 16:09:45
+	error by UError(3.1) Array
+(
+    [curl_error] => Couldn't resolve host 'www2.sverka1.ru'
+    [curl_errno] => 6
+)
+
+03.04.14 13:45:15
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+03.04.14 13:55:03
+	error by UError(3.1) Array
+(
+    [curl_error] => Recv failure: Connection reset by peer
+    [curl_errno] => 56
+)
+
+05.05.14 01:28:48
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+05.05.14 01:30:39
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+14.05.14 16:11:01
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:03:46
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:03:47
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:04:10
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:05:09
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:05:09
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:05:10
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:05:11
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:06:09
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:06:10
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:06:10
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:06:10
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 06:06:11
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:10:06
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:13:18
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:13:18
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:13:18
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:17:27
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:21:49
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:25:04
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:25:18
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:26:01
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:31:26
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 07:32:57
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:06
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:08
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:08
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:08
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:08
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:08
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 08:53:08
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 09:25:18
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 09:25:18
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 13:09:12
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 14:29:16
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 14:41:43
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.05.14 14:42:43
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+16.05.14 20:38:15
+	error by UError(2.18) Array
+(
+)
+
+16.05.14 20:38:45
+	error by UError(2.18) Array
+(
+)
+
+16.05.14 20:43:26
+	error by UError(2.18) Array
+(
+)
+
+19.05.14 13:12:34
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 13:13:34
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 13:13:43
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 13:13:44
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 13:13:44
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 13:13:44
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 13:33:13
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 21:06:21
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 21:10:49
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.14 21:11:49
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+20.05.14 17:46:30
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+21.05.14 09:02:54
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+21.05.14 09:02:54
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+25.05.14 09:26:24
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 09:54:39
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 10:07:09
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 10:17:01
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 10:19:00
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 10:41:26
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 10:41:34
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 10:47:03
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:04:29
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:04:49
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:37:07
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:37:07
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:40:15
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:40:24
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:40:27
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:40:34
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:40:44
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:40:58
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:41:26
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:46:08
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:46:38
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:47:09
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:47:38
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:49:55
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:51:35
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:51:51
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:52:05
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:52:21
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:52:51
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:53:21
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:53:51
+	error by UError(3.1) Array
+(
+    [curl_error] => connect() timed out!
+    [curl_errno] => 28
+)
+
+25.05.14 11:54:40
+	error by UError(3.1) Array
+(
+    [curl_error] => couldn't connect to host
+    [curl_errno] => 7
+)
+
+01.06.14 11:02:26
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+01.06.14 11:03:26
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+04.06.14 21:51:09
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+04.06.14 21:51:22
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+14.10.14 17:34:10
+	error by UError(3.1) Array
+(
+    [curl_error] => couldn't connect to host
+    [curl_errno] => 7
+)
+
+14.10.14 17:36:02
+	error by UError(3.1) Array
+(
+    [curl_error] => couldn't connect to host
+    [curl_errno] => 7
+)
+
+18.10.14 03:32:22
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+31.10.14 00:05:11
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+02.11.14 22:04:18
+	error by UError(2.26) Array
+(
+)
+
+02.11.14 22:10:53
+	error by UError(2.26) Array
+(
+)
+
+02.11.14 22:15:03
+	error by UError(2.26) Array
+(
+)
+
+15.12.14 02:21:17
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.12.14 02:22:17
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+15.12.14 10:29:00
+	error by UError(2.4) Array
+(
+)
+
+15.12.14 10:29:38
+	error by UError(2.4) Array
+(
+)
+
+15.12.14 10:30:22
+	error by UError(2.4) Array
+(
+)
+
+15.12.14 10:30:52
+	error by UError(2.4) Array
+(
+)
+
+15.12.14 10:30:56
+	error by UError(2.4) Array
+(
+)
+
+15.12.14 10:31:31
+	error by UError(2.4) Array
+(
+)
+
+15.12.14 10:31:47
+	error by UError(2.4) Array
+(
+)
+
+22.01.15 14:27:43
+	error by UError(2.10) Array
+(
+)
+
+27.03.15 10:54:30
+	error by UError(2.4) Array
+(
+)
+
+27.03.15 10:54:33
+	error by UError(2.4) Array
+(
+)
+
+27.03.15 10:56:43
+	error by UError(2.4) Array
+(
+)
+
+27.03.15 10:56:45
+	error by UError(2.4) Array
+(
+)
+
+27.03.15 10:56:47
+	error by UError(2.4) Array
+(
+)
+
+27.03.15 10:56:48
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:08:36
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:08:45
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:08:49
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:08:52
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:09:04
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:09:18
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:10:51
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:10:51
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:10:52
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:11:00
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:11:54
+	error by UError(2.4) Array
+(
+)
+
+06.04.15 10:12:11
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:02:52
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:03:44
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:04:28
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:06:29
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:07:07
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:07:10
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:07:11
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:07:12
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:07:40
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:11:44
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:11:44
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:11:45
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 18:11:45
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 19:23:43
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 19:24:08
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 19:24:52
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 19:25:17
+	error by UError(2.4) Array
+(
+)
+
+08.05.15 19:25:46
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:54:30
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:54:37
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:54:58
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:55:43
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:56:38
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:59:27
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 19:59:44
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:02
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:04
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:05
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:05
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:25
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:43
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:44
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:00:44
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:03:01
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:21:34
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:21:34
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:35:41
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:35:46
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:35:46
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:35:47
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:39:16
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:39:17
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:39:17
+	error by UError(2.4) Array
+(
+)
+
+12.05.15 20:39:18
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:00:03
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:01:32
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:01:38
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:01:43
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:01:46
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:02:11
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:03:06
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:04:22
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:04:23
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:04:24
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:04:29
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:04:30
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:04:30
+	error by UError(2.4) Array
+(
+)
+
+13.05.15 15:39:41
+	error by UError(2.4) Array
+(
+)
+
+18.05.15 15:43:03
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+19.05.15 05:52:11
+	error by UError(2.4) Array
+(
+)
+
+19.05.15 05:53:24
+	error by UError(2.4) Array
+(
+)
+
+19.05.15 05:53:24
+	error by UError(2.4) Array
+(
+)
+
+19.05.15 05:55:46
+	error by UError(2.4) Array
+(
+)
+
+19.05.15 05:55:53
+	error by UError(2.4) Array
+(
+)
+
+19.05.15 05:56:03
+	error by UError(2.4) Array
+(
+)
+
+25.05.15 10:51:37
+	error by UError(2.4) Array
+(
+)
+
+25.05.15 10:51:37
+	error by UError(2.4) Array
+(
+)
+
+25.05.15 10:53:22
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:42:12
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:42:27
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:42:33
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:42:45
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:42:46
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:42:46
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:45:10
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:50:44
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:50:44
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:50:45
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:50:45
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:51:09
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:51:09
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:51:10
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:51:10
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:55:52
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:55:53
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:55:53
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:55:53
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:56:23
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:56:23
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:56:24
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 08:56:24
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:12:51
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:12:52
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:12:52
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:13:33
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:02
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:02
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:03
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:03
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:58
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:58
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:59
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:15:59
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:17:15
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:17:15
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:17:17
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:17:18
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:17:46
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:18:10
+	error by UError(2.4) Array
+(
+)
+
+03.06.15 09:26:05
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:47:32
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:47:39
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:47:40
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:47:40
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:53:25
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:56:06
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:56:06
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:56:07
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:56:07
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:58:43
+	error by UError(2.4) Array
+(
+)
+
+04.06.15 14:59:01
+	error by UError(2.4) Array
+(
+)
+
+23.06.15 08:32:39
+	error by UError(2.4) Array
+(
+)
+
+23.06.15 08:32:40
+	error by UError(2.4) Array
+(
+)
+
+23.06.15 08:32:43
+	error by UError(2.4) Array
+(
+)
+
+27.06.15 03:58:53
+	error by UError(3.5) Array
+(
+    [curl_result] => <html>
+<head><title>504 Gateway Time-out</title></head>
+<body bgcolor="white">
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx/1.2.1</center>
+</body>
+</html>
+
+)
+
+02.07.15 10:38:01
+	error by UError(2.10) Array
+(
+)
+
+02.07.15 10:38:25
+	error by UError(2.10) Array
+(
+)
+
+05.07.15 09:48:35
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:48:43
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:48:53
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:50:16
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:53:36
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:53:43
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:53:45
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:53:46
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:54:02
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:59:32
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:59:34
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 09:59:35
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:03:22
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:03:37
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:03:38
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:03:39
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:04:23
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:08:02
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:08:15
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:08:28
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:15:23
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:15:27
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:15:28
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:15:28
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:15:50
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:17:55
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:19:16
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:19:24
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:19:25
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:19:26
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:19:42
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:21:10
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:21:36
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:21:39
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:21:40
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:21:40
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:21:44
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:22:51
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:22:53
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:23:40
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:24:05
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:24:10
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:24:11
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:24:11
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:24:40
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:25:22
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:29:16
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:29:25
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:29:26
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 10:29:26
+	error by UError(2.4) Array
+(
+)
+
+05.07.15 15:25:51
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 08:57:50
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 08:58:05
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 08:59:36
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 08:59:50
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:00:19
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:00:22
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:00:23
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:00:36
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:00:54
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:01:05
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:01:41
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:02:41
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:02:58
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:03:20
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 09:03:27
+	error by UError(2.4) Array
+(
+)
+
+06.07.15 21:46:00
+	error by UError(2.4) Array
+(
+)
+
+08.07.15 20:54:00
+	error by UError(2.4) Array
+(
+)
+
+08.07.15 20:54:20
+	error by UError(2.4) Array
+(
+)
+
+23.08.15 20:04:46
+	error by UError(2.4) Array
+(
+)
+
+23.08.15 20:04:47
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:25:28
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:25:30
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:25:30
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:26:38
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:09
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:09
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:11
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:11
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:47
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:47
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:49
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:30:49
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:31:42
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:31:43
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:31:44
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:31:45
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:32:07
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:32:22
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:32:23
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:32:24
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:34:28
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:34:28
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:34:30
+	error by UError(2.4) Array
+(
+)
+
+07.09.15 18:34:31
+	error by UError(2.4) Array
+(
+)
+
+09.09.15 07:57:34
+	error by UError(2.4) Array
+(
+)
+
+09.09.15 07:57:34
+	error by UError(2.4) Array
+(
+)
+
+09.09.15 07:57:42
+	error by UError(2.4) Array
+(
+)
+
+09.09.15 07:58:23
+	error by UError(2.4) Array
+(
+)
+
+09.09.15 07:58:47
+	error by UError(2.4) Array
+(
+)
+
+09.09.15 07:59:11
+	error by UError(2.4) Array
+(
+)
+

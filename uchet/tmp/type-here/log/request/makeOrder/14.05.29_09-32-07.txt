@@ -1,0 +1,291 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => "Нормирование документационных процессов в аппарате управления в МУК "Кизильском организационно-методическом центре"
+            [o_course] => 54
+            [o_type] => 32
+            [o_shcooltype] => 
+            [o_volume] => 35-45
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => качество
+            [o_client_srok] => 1401739200
+            [f_part] => 0
+            [f_comment] => Прикрепила методические рекомендации по написанию курсовой
+            [o_precost] => 
+            [o_cc] => с.Кизильское
+            [country] => 
+            [city] => с.Кизильское
+            [o_vuz] => МГТУ им Носова ( ранее были МаГУ)
+            [user] => new
+            [fio] => Орлова Надежда Геннадьевна
+            [phone] => 
+            [mphone] => 89191245677
+            [email] => or.ng@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 4.tif
+                    [md5] => fb15c5c1d609f4ec72ac40b913fd03e0
+                )
+
+            [1] => Array
+                (
+                    [fname] => Безымянный1.tif
+                    [md5] => 2c46601b59e3c521b130ddf854023b43
+                )
+
+            [2] => Array
+                (
+                    [fname] => Безымянный2.tif
+                    [md5] => 96278b7799eda2fdd23e055ae90096cb
+                )
+
+            [3] => Array
+                (
+                    [fname] => Безымянный3.tif
+                    [md5] => b1be058a8c8861198678e258c60ff3ab
+                )
+
+            [4] => Array
+                (
+                    [fname] => Безымянный5.tif
+                    [md5] => fd1ab98d219d75f0572c81f560b3da45
+                )
+
+            [5] => Array
+                (
+                    [fname] => Безымянный6.tif
+                    [md5] => 0648af371999f99cad820c41f010fe04
+                )
+
+            [6] => Array
+                (
+                    [fname] => Безымянный7.tif
+                    [md5] => 4ee659c19a8fe1a3ef3e017e9d2ba786
+                )
+
+            [7] => Array
+                (
+                    [fname] => Безымянный8.tif
+                    [md5] => 6c74d227b98a88929b531b2c6338be67
+                )
+
+            [8] => Array
+                (
+                    [fname] => Безымянный9.tif
+                    [md5] => 0720b9f939c11f3095739df4de28d325
+                )
+
+            [9] => Array
+                (
+                    [fname] => Безымянный10.tif
+                    [md5] => e1eebb2b57cfeeea9fed4b2d3737df69
+                )
+
+            [10] => Array
+                (
+                    [fname] => Безымянный11.tif
+                    [md5] => f99982f78929d2d6d0b04724a8aaa26d
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpHd4t42
+            [files[1]] => @/tmp/phpVV59p3
+            [files[2]] => @/tmp/phpfdNVL3
+            [files[3]] => @/tmp/phprCpM73
+            [files[4]] => @/tmp/php1B1Ht4
+            [files[5]] => @/tmp/php9cZIP4
+            [files[6]] => @/tmp/phpdAiRb5
+            [files[7]] => @/tmp/php7TC3x5
+            [files[8]] => @/tmp/phpHB6jU5
+            [files[9]] => @/tmp/php7LREg6
+            [files[10]] => @/tmp/phpZqf3C6
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => or.ng
+            [password] => dd4d5
+            [fio] => Орлова Надежда Геннадьевна
+            [email] => or.ng@mail.ru
+            [idu] => 161994
+            [ido] => 153446
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => "Нормирование документационных процессов в аппарате управления в МУК "Кизильском организационно-методическом центре"
+                            [o_course] => 54
+                            [o_type] => 32
+                            [o_shcooltype] => 
+                            [o_volume] => 35-45
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => качество
+                            [o_client_srok] => 1401739200
+                            [f_part] => 0
+                            [f_comment] => Прикрепила методические рекомендации по написанию курсовой
+                            [o_precost] => 
+                            [o_cc] => с.Кизильское
+                            [country] => 
+                            [city] => с.Кизильское
+                            [o_vuz] => МГТУ им Носова ( ранее были МаГУ)
+                            [user] => new
+                            [fio] => Орлова Надежда Геннадьевна
+                            [phone] => 
+                            [mphone] => 89191245677
+                            [email] => or.ng@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => "Нормирование документационных процессов в аппарате управления в МУК "Кизильском организационно-методическом центре"
+    [o_course] => 54
+    [o_type] => 32
+    [o_shcooltype] => 
+    [o_volume] => 35-45
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => качество
+    [o_client_srok] => 1401739200
+    [f_part] => 0
+    [f_comment] => Прикрепила методические рекомендации по написанию курсовой
+    [o_precost] => 
+    [o_cc] => с.Кизильское
+    [country] => 
+    [city] => с.Кизильское
+    [o_vuz] => МГТУ им Носова ( ранее были МаГУ)
+    [user] => new
+    [fio] => Орлова Надежда Геннадьевна
+    [phone] => 
+    [mphone] => 89191245677
+    [email] => or.ng@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Орлова Надежда Геннадьевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №153446 на тему: "&quot;Нормирование документационных процессов в аппарате управления в МУК &quot;Кизильском организационно-методическом центре&quot;".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: or.ng</p>
+<p>Пароль: dd4d5</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Защита прав потребителя в договорах розничной купли продажи.
+            [o_course] => 26
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 30-32стр
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1381694400
+            [f_part] => 0
+            [f_comment] => Доработать, чтобы прошла антиплагиат
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => Академия ВЭГУ
+            [user] => new
+            [fio] => Тимшин Александр Петрович
+            [phone] => 
+            [mphone] => 8-906-853-13-26
+            [email] => timshin@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => курсовая- готовая.doc
+                    [md5] => 2b8a16ee5aebe1a3649dfbe193a5b2b0
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php6qQCkr
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => timshin
+            [password] => a5246
+            [fio] => Тимшин Александр Петрович
+            [email] => timshin@mail.ru
+            [idu] => 116380
+            [ido] => 104776
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 26
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1381694400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 8-906-853-13-26
+                            [email] => timshin@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Защита прав потребителя в договорах розничной купли продажи.
+    [o_course] => 26
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 30-32стр
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1381694400
+    [f_part] => 0
+    [f_comment] => Доработать, чтобы прошла антиплагиат
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => Академия ВЭГУ
+    [user] => new
+    [fio] => Тимшин Александр Петрович
+    [phone] => 
+    [mphone] => 8-906-853-13-26
+    [email] => timshin@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Тимшин Александр Петрович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №104776 на тему: "Защита прав потребителя в договорах розничной купли продажи.".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: timshin</p>
+<p>Пароль: a5246</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

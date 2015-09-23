@@ -1,0 +1,14 @@
+.dhtmlwindow{
+position: absolute;border: 1px solid #ccc;visibility: hidden;background-color: white; padding:5px;
+-webkit-box-shadow:6px 6px 3px #666;-moz-box-shadow: 6px 6px 3px #666;box-shadow: 6px 6px 3px #666;
+-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;-khtml-border-radius: 10px;-o-border-radius: 10px;
+}
+.drag-handle{padding: 5px; text-indent: 3px; font: bold 13px Arial;
+background-color: #e7e7e7; color: #000;cursor: move; overflow: hidden; width: auto;
+filter:progid:DXImageTransform.Microsoft.alpha(opacity=100);-moz-opacity: 1; opacity: 1;
+-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px;-khtml-border-radius:8px;-o-border-radius:8px;}
+.drag-handle .drag-controls{position: absolute;right: 15px;top: 10px;cursor: hand;cursor: pointer;}
+* html .drag-handle{width: 100%;}
+.drag-contentarea{background-color: white;color: black;height: 150px;padding: 5px;overflow: auto;}
+.drag-statusarea{border-top: 1px solid #e7e7e7;background-color: #F8F8F8;height: 13px;}
+.drag-resizearea{float: right;width: 13px;height: 13px;cursor: nw-resize;font-size: 0;}

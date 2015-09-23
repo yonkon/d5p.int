@@ -1,0 +1,195 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Повышение эффективности сбытовой деятельности предприятия на примере ОАО "Оптика"
+            [o_course] => 25
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => Работа должна быть выполнена чётко по файлу Пример, в нём 40 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Нужно выполнить только вторую главу дипломной работы (в файле Требования к работе это написано)
+            [o_client_srok] => 1430254800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => УрГЭУ
+            [user] => new
+            [fio] => Черданцева Евгения Игоревна
+            [phone] => 
+            [mphone] => 9222267673
+            [email] => cherdantsevaei@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Требования к работе.docx
+                    [md5] => ac5356928877bc3dbed94e90a6eb8c6d
+                )
+
+            [1] => Array
+                (
+                    [fname] => Пример.doc
+                    [md5] => 969236bd017781fc308e5e7f61a1e2ee
+                )
+
+            [2] => Array
+                (
+                    [fname] => Организационно-экономическая характеристика деятельности ОАО Оптика.doc
+                    [md5] => 15f876b911d375b768c8449fa86c380f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php2RenC4
+            [files[1]] => @/tmp/phpZQ4DeV
+            [files[2]] => @/tmp/phpsWE9QL
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => cherdantsevaei1
+            [password] => 18242
+            [fio] => Черданцева Евгения Игоревна
+            [email] => cherdantsevaei@mail.ru
+            [idu] => 216548
+            [ido] => 207704
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Повышение эффективности сбытовой деятельности предприятия на примере ОАО "Оптика"
+                            [o_course] => 25
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => Работа должна быть выполнена чётко по файлу Пример, в нём 40 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Нужно выполнить только вторую главу дипломной работы (в файле Требования к работе это написано)
+                            [o_client_srok] => 1430254800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => УрГЭУ
+                            [user] => new
+                            [fio] => Черданцева Евгения Игоревна
+                            [phone] => 
+                            [mphone] => 9222267673
+                            [email] => cherdantsevaei@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Повышение эффективности сбытовой деятельности предприятия на примере ОАО "Оптика"
+    [o_course] => 25
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => Работа должна быть выполнена чётко по файлу Пример, в нём 40 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Нужно выполнить только вторую главу дипломной работы (в файле Требования к работе это написано)
+    [o_client_srok] => 1430254800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => УрГЭУ
+    [user] => new
+    [fio] => Черданцева Евгения Игоревна
+    [phone] => 
+    [mphone] => 9222267673
+    [email] => cherdantsevaei@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Черданцева Евгения Игоревна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №207704 на тему: "Повышение эффективности сбытовой деятельности предприятия на примере ОАО &quot;Оптика&quot;".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: cherdantsevaei1</p>
+<p>Пароль: 18242</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

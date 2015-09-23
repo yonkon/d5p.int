@@ -1,0 +1,67 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => tim-irina@mail.ru
+            [a_pass] => timoxa
+            [a_fio] => Тимофеева Ирина Анатольевна
+            [a_mphone] => 79525265943
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => tim-irina@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 7
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 73
+                    [1] => 69
+                    [2] => 91
+                    [3] => 116
+                    [4] => 31
+                    [5] => 177
+                    [6] => 148
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 100317
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

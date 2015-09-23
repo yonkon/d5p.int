@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => экономическая оценка земельных ресурсов
+            [o_course] => 25
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 50стр
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1444078800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => 
+            [user] => new
+            [fio] => Элина
+            [phone] => 
+            [mphone] => 89068111192
+            [email] => elly-777@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Metodicheskie_ukazania_po_kursovoy_rabote.doc
+                    [md5] => a3f3039df0a3fb4b9eeb6f7c70d42740
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpSqve8u
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => elly777
+            [password] => 1e401
+            [fio] => Элина
+            [email] => elly-777@yandex.ru
+            [idu] => 233163
+            [ido] => 227538
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => экономическая оценка земельных ресурсов
+                            [o_course] => 25
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 50стр
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1444078800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => Элина
+                            [phone] => 
+                            [mphone] => 89068111192
+                            [email] => elly-777@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => экономическая оценка земельных ресурсов
+    [o_course] => 25
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 50стр
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1444078800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => 
+    [user] => new
+    [fio] => Элина
+    [phone] => 
+    [mphone] => 89068111192
+    [email] => elly-777@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Элина!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №227538 на тему: "экономическая оценка земельных ресурсов".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: elly777</p>
+<p>Пароль: 1e401</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

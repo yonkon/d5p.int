@@ -1,0 +1,224 @@
+Array
+(
+    [debug] => 1
+    [act] => dicts
+    [password] => klwejrnvwerndsfehlpoqzx
+    [version] => 0.1
+    [data] => {"operation":"get","dicts":["orderFields"]}
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [db] => Array
+                (
+                    [orderFields] => Array
+                        (
+                            [thema] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 1
+                                    [name] => o_thema
+                                )
+
+                            [course] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 1
+                                    [name] => o_course
+                                )
+
+                            [worktype] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 1
+                                    [name] => o_type
+                                )
+
+                            [client_srok] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 1
+                                    [name] => o_client_srok
+                                )
+
+                            [file_part] => Array
+                                (
+                                    [name] => f_part
+                                )
+
+                            [file_arr] => Array
+                                (
+                                    [name] => ofile
+                                )
+
+                            [file_comment] => Array
+                                (
+                                    [name] => f_comment
+                                )
+
+                            [schooltype] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_shcooltype
+                                )
+
+                            [country] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_cc1
+                                )
+
+                            [city] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_cc2
+                                )
+
+                            [vuz] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_vuz
+                                )
+
+                            [volume] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_volume
+                                )
+
+                            [gost] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => gost
+                                )
+
+                            [font] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_font
+                                )
+
+                            [interval] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_interval
+                                )
+
+                            [listsource] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_listsource
+                                )
+
+                            [addinfo] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_addinfo
+                                )
+
+                            [precost] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_precost
+                                )
+
+                            [fio] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 1
+                                    [name] => fio
+                                )
+
+                            [email] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 1
+                                    [name] => email
+                                )
+
+                            [mphone] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => Array
+                                        (
+                                            [0] => mphone1
+                                            [1] => mphone2
+                                            [2] => mphone3
+                                        )
+
+                                )
+
+                            [sphone] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => Array
+                                        (
+                                            [0] => sphone1
+                                            [1] => sphone2
+                                            [2] => sphone3
+                                        )
+
+                                )
+
+                            [icq] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => icq
+                                )
+
+                            [contact] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => contact
+                                )
+
+                            [fromknow] => Array
+                                (
+                                    [enabled] => 1
+                                    [mandatory] => 
+                                    [name] => o_fromknow
+                                )
+
+                            [captcha_code] => Array
+                                (
+                                    [enabled] => 
+                                    [mandatory] => 1
+                                    [name] => captcha_code
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 2
+    [textOut] => 
+)
+
+
+

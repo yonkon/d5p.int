@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 185993
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Технологии (методы) налогового планирования на предприятии
+            [o_course] => 36
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 10-15
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1424206800
+            [f_part] => 0
+            [f_comment] => Предмет:	 	Бюджетное планирование и исполнение бюджетов
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => ургэу синх
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 9893_Byudzhetnoe_planirovanie.doc
+                    [md5] => 0aa3d169da419ca7e2cc7fac706f75e6
+                )
+
+            [1] => Array
+                (
+                    [fname] => 13759_1._Uchebno-metodicheskii_kompleks.pdf
+                    [md5] => 785cb06b4d28a5b0c5347a1cee41190a
+                )
+
+            [2] => Array
+                (
+                    [fname] => 19317_Metodicheskie_ukazaniya_po_vypolneniyu_kontrolnoi_raboty.doc
+                    [md5] => c8275d17a6ffe559054887f5ac762f50
+                )
+
+            [3] => Array
+                (
+                    [fname] => 19322_Polozhenie_po_oformleniyu_kontrolnyh_kursovyh_diplomnyh_rabot.pdf
+                    [md5] => 6d3f8fa6c1695bd74b3a37fc15b8275c
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpG2EZhe
+            [files[1]] => @/tmp/phptM6of0
+            [files[2]] => @/tmp/php2Gr8cM
+            [files[3]] => @/tmp/phplhkUay
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Власова Надежда Андреевна
+            [email] => nadyushka_vlasov@mail.ru
+            [idu] => 185993
+            [ido] => 189880
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Технологии (методы) налогового планирования на предприятии
+                            [o_course] => 36
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 10-15
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1424206800
+                            [f_part] => 0
+                            [f_comment] => Предмет:	 	Бюджетное планирование и исполнение бюджетов
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => ургэу синх
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Технологии (методы) налогового планирования на предприятии
+    [o_course] => 36
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 10-15
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1424206800
+    [f_part] => 0
+    [f_comment] => Предмет:	 	Бюджетное планирование и исполнение бюджетов
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => ургэу синх
+    [refid] => 0
+)
+<p>Здравствуйте, Власова Надежда Андреевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №189880 на тему: "Технологии (методы) налогового планирования на предприятии".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nadyushka_vlasov</p>
+<p>Пароль: 849ea</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

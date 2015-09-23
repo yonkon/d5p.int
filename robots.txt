@@ -1,0 +1,9 @@
+user-agent: *
+disallow: /admin/
+disallow: /include/
+disallow: /js/
+disallow: /module/
+disallow: /tmp/
+disallow: /tmpl/
+host: emayki.com.ua
+sitemap: http://emayki.com.ua/sitemap.xml

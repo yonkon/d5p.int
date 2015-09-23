@@ -1,0 +1,219 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Методы принятия оптимальных управленческих решений в экономике
+            [o_course] => 25
+            [o_type] => 20
+            [o_shcooltype] => 
+            [o_volume] => 5 задач
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1506805200
+            [f_part] => 0
+            [f_comment] => 1 и 4 задачи в Excel
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им Носова
+            [user] => new
+            [fio] => Поляцко Мария Николаевна
+            [phone] => 
+            [mphone] => 79123024513
+            [email] => podzorova93m93@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 1PcBFUFBW48.jpg
+                    [md5] => 97d90b5ed6e773c24a84df1e087767fb
+                )
+
+            [1] => Array
+                (
+                    [fname] => d469tVVmbPE.jpg
+                    [md5] => 68679f035a7c2aac31653d2c2ba50b1f
+                )
+
+            [2] => Array
+                (
+                    [fname] => 90IO4XLC8mE.jpg
+                    [md5] => ef12cd39409070cc6becbcf035a98113
+                )
+
+            [3] => Array
+                (
+                    [fname] => p3SElZGe978.jpg
+                    [md5] => 34179e2262e372b29145da98b8177649
+                )
+
+            [4] => Array
+                (
+                    [fname] => qzS8NmemFGs.jpg
+                    [md5] => 8604c6c5bc77dbba5894ad7f0ba58246
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpj87DEj
+            [files[1]] => @/tmp/php7s4fHX
+            [files[2]] => @/tmp/phpJpQXJB
+            [files[3]] => @/tmp/phppKQJMf
+            [files[4]] => @/tmp/php3BjBPT
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => podzorova93m93
+            [password] => f8cca
+            [fio] => Поляцко Мария Николаевна
+            [email] => podzorova93m93@mail.ru
+            [idu] => 231185
+            [ido] => 225418
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Методы принятия оптимальных управленческих решений в экономике
+                            [o_course] => 25
+                            [o_type] => 20
+                            [o_shcooltype] => 
+                            [o_volume] => 5 задач
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1506805200
+                            [f_part] => 0
+                            [f_comment] => 1 и 4 задачи в Excel
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => МГТУ им Носова
+                            [user] => new
+                            [fio] => Поляцко Мария Николаевна
+                            [phone] => 
+                            [mphone] => 79123024513
+                            [email] => podzorova93m93@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Методы принятия оптимальных управленческих решений в экономике
+    [o_course] => 25
+    [o_type] => 20
+    [o_shcooltype] => 
+    [o_volume] => 5 задач
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1506805200
+    [f_part] => 0
+    [f_comment] => 1 и 4 задачи в Excel
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им Носова
+    [user] => new
+    [fio] => Поляцко Мария Николаевна
+    [phone] => 
+    [mphone] => 79123024513
+    [email] => podzorova93m93@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Поляцко Мария Николаевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №225418 на тему: "Методы принятия оптимальных управленческих решений в экономике".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: podzorova93m93</p>
+<p>Пароль: f8cca</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

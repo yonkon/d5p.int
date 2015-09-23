@@ -1,0 +1,157 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 144928
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Программа учебной практики
+            [o_course] => 25
+            [o_type] => 15
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1402862400
+            [f_part] => 0
+            [f_comment] => Практика в организации ОАО "Удачнинское торгово-закупочное объединение"
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МаГУ, нынешний МГТУ
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Программа практики №2 Экономика(ФГОС3) 2курс(1) ОЗО.doc
+                    [md5] => 84b484e9655ccf1b9eae4b8ea1f6c223
+                )
+
+            [1] => Array
+                (
+                    [fname] => учебная практика №2 Экономика .doc
+                    [md5] => 72e522edeac24f06fed36c683469229a
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpqmmIsM
+            [files[1]] => @/tmp/phpTmBMLv
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Шеркевич Юлия
+            [email] => alekso4_ka@mail.ru
+            [idu] => 144928
+            [ido] => 155068
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Программа учебной практики
+                            [o_course] => 25
+                            [o_type] => 15
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1402862400
+                            [f_part] => 0
+                            [f_comment] => Практика в организации ОАО "Удачнинское торгово-закупочное объединение"
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => МаГУ, нынешний МГТУ
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Программа учебной практики
+    [o_course] => 25
+    [o_type] => 15
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1402862400
+    [f_part] => 0
+    [f_comment] => Практика в организации ОАО "Удачнинское торгово-закупочное объединение"
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => МаГУ, нынешний МГТУ
+    [refid] => 0
+)
+<p>Здравствуйте, Шеркевич Юлия!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №155068 на тему: "Программа учебной практики".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: alekso4_ka</p>
+<p>Пароль: 93f6a</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

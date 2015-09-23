@@ -1,0 +1,71 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => elenaalekss
+            [a_pass] => 527604
+            [a_fio] => Елена Александрова
+            [a_mphone] => 79068540021
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => elenaalekss@ya.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 7
+            [a_contact] => я автор работ. Успешный опыт в течении 5 лет.
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 71
+                    [1] => 137
+                    [2] => 27
+                    [3] => 107
+                    [4] => 44
+                    [5] => 12
+                    [6] => 112
+                    [7] => 146
+                    [8] => 121
+                    [9] => 47
+                    [10] => 7
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 112375
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

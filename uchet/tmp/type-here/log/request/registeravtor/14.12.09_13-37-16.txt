@@ -1,0 +1,69 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => DanilaMihailov
+            [a_pass] => 89655153303
+            [a_fio] => Михайлов Данила Алексеевич
+            [a_mphone] => 79655153303
+            [a_phone] => 
+            [a_web] => vk.com/danilamihailov
+            [a_email] => danilamihailov@gmail.com
+            [a_icq] => 
+            [a_skype] => dan_number4
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => почтовыми голубями
+            [a_special] => Array
+                (
+                    [0] => 27
+                    [1] => 107
+                    [2] => 125
+                    [3] => 197
+                    [4] => 15
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => DanilaMihailov
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,106 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => разборы
+            [o_course] => 275
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1431205200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУим Носова (Быв МаГУ)
+            [user] => new
+            [fio] => Иконникова Анна Павловна
+            [phone] => 
+            [mphone] => 89525101307
+            [email] => iva.niura1991@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => DSC_0400[1].jpg
+                    [md5] => 6dfd0e001dafff517f4f03b9a9a322fe
+                )
+
+            [1] => Array
+                (
+                    [fname] => 0688443_E3179_anohina_s_a_shemy_i_obrazcy_anali (4).djvu
+                    [md5] => b0247b325aed45ea01b42eb3a3907c07
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php9Hliq8
+            [files[1]] => @/tmp/phpQDxK8O
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => iva.niura1991@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

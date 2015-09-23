@@ -1,0 +1,89 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => stepanovaanna
+            [a_pass] => 18011982
+            [a_fio] => Степанова Анна Валерьевна
+            [a_mphone] => 79511635492
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => stav1982@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 22
+            [a_contact] => г.Прокопьевск
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                    [1] => 33
+                    [2] => 58
+                    [3] => 80
+                    [4] => 99
+                    [5] => 35
+                    [6] => 68
+                    [7] => 108
+                    [8] => 170
+                    [9] => 57
+                    [10] => 44
+                    [11] => 141
+                    [12] => 12
+                    [13] => 56
+                    [14] => 63
+                    [15] => 13
+                    [16] => 129
+                    [17] => 16
+                    [18] => 112
+                    [19] => 275
+                    [20] => 18
+                    [21] => 19
+                    [22] => 59
+                    [23] => 21
+                    [24] => 22
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => stepanovaanna
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

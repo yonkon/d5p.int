@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Экономика отрасли
+            [o_course] => 219
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1434488400
+            [f_part] => 0
+            [f_comment] => Варинт 7
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ
+            [user] => new
+            [fio] => Андреев Д Ю
+            [phone] => 
+            [mphone] => 
+            [email] => ukrop_1982@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => doc00909220150514125754.pdf
+                    [md5] => d89c2156ac52c4dc8ad2e0e1253a6756
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpVcycQd
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => ukrop_19821
+            [password] => e0de6
+            [fio] => Андреев Д Ю
+            [email] => ukrop_1982@mail.ru
+            [idu] => 221744
+            [ido] => 214768
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Экономика отрасли
+                            [o_course] => 219
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1434488400
+                            [f_part] => 0
+                            [f_comment] => Варинт 7
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => МГТУ
+                            [user] => new
+                            [fio] => Андреев Д Ю
+                            [phone] => 
+                            [mphone] => 
+                            [email] => ukrop_1982@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Экономика отрасли
+    [o_course] => 219
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1434488400
+    [f_part] => 0
+    [f_comment] => Варинт 7
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => МГТУ
+    [user] => new
+    [fio] => Андреев Д Ю
+    [phone] => 
+    [mphone] => 
+    [email] => ukrop_1982@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Андреев Д Ю!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №214768 на тему: "Экономика отрасли".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: ukrop_19821</p>
+<p>Пароль: e0de6</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Styles>
+
+	<Style name="blue" element="p">
+		<Style name="color" value="#458bd0" />
+	</Style>
+
+	<Style name="gray" element="p">
+		<Style name="background" value="#eeeeee" />
+	</Style>
+
+	<Style name="news_date" element="span">
+		<Style name="background" value="#458bd0" />
+		<Style name="color" value="#ffffff" />
+		<Style name="padding" value="3px" />
+		<Style name="font-size" value="10px" />
+	</Style>
+
+	<Style name="table_th" element="th">
+		<Style name="background" value="#63a4e2" />
+		<Style name="color" value="#ffffff" />
+		<Style name="padding" value="4px" />
+	</Style>
+
+	<Style name="table_td" element="td">
+		<Style name="text-align" value="center" />
+		<Style name="padding" value="4px" />
+	</Style>
+	
+	<Style name="Big" element="big" />
+	
+	<Style name="Small" element="small" />
+	
+	<Style name="Typewriter" element="tt" />
+
+	<Style name="Computer Code" element="code" />
+	<Style name="Keyboard Phrase" element="kbd" />
+	<Style name="Sample Text" element="samp" />
+	<Style name="Variable" element="var" />
+
+	<Style name="Deleted Text" element="del" />
+	<Style name="Inserted Text" element="ins" />
+
+	<Style name="Cited Work" element="cite" />
+	<Style name="Inline Quotation" element="q" />
+
+	<!-- Object Styles -->
+
+</Styles>

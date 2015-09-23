@@ -1,0 +1,195 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Совершенствование технологии оценки персонала на ОАО ГАЗПРОМ
+            [o_course] => 7
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 60-70 стр.
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1433278800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => УрГУПС
+            [user] => new
+            [fio] => Дергачев Виталий Дмитриевич
+            [phone] => 
+            [mphone] => 89502034446
+            [email] => ololoev.oleg@list.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Obrazets_Kursovoy_proekt_1 (1).doc
+                    [md5] => 640c2ba015099fc520222b1eb28e6e1c
+                )
+
+            [1] => Array
+                (
+                    [fname] => Metodicheskie_rekomendatsii_k_kursovomu_proektiro.docx
+                    [md5] => ff202570ec125e22173c2be32f10832a
+                )
+
+            [2] => Array
+                (
+                    [fname] => Obrazets_Kursovoy_proekt_2 (1).docx
+                    [md5] => 39844137927e787873a739b361467770
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpY2uJRF
+            [files[1]] => @/tmp/phpHJ211w
+            [files[2]] => @/tmp/phpKqCrco
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => ololoev.oleg
+            [password] => a1d69
+            [fio] => Дергачев Виталий Дмитриевич
+            [email] => ololoev.oleg@list.ru
+            [idu] => 223288
+            [ido] => 216989
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Совершенствование технологии оценки персонала на ОАО ГАЗПРОМ
+                            [o_course] => 7
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 60-70 стр.
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1433278800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => УрГУПС
+                            [user] => new
+                            [fio] => Дергачев Виталий Дмитриевич
+                            [phone] => 
+                            [mphone] => 89502034446
+                            [email] => ololoev.oleg@list.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Совершенствование технологии оценки персонала на ОАО ГАЗПРОМ
+    [o_course] => 7
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 60-70 стр.
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1433278800
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => УрГУПС
+    [user] => new
+    [fio] => Дергачев Виталий Дмитриевич
+    [phone] => 
+    [mphone] => 89502034446
+    [email] => ololoev.oleg@list.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Дергачев Виталий Дмитриевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №216989 на тему: "Совершенствование технологии оценки персонала на ОАО ГАЗПРОМ".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: ololoev.oleg</p>
+<p>Пароль: a1d69</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

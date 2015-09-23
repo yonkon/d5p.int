@@ -1,0 +1,67 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => miss.ks-ivanova
+            [a_pass] => studeny2014
+            [a_fio] => Иванова Ксения Владимировна
+            [a_mphone] => 89050710398
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => miss.ks.ivanova@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 1
+                    [1] => 16
+                    [2] => 25
+                    [3] => 84
+                    [4] => 60
+                    [5] => 113
+                    [6] => 85
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 145493
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

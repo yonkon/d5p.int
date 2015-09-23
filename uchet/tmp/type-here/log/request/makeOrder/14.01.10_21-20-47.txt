@@ -1,0 +1,157 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 136165
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Предмет: Правоведение
+            [o_course] => 129
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Контрольная нужна срочно в понедельник 13.01.2014 к 11 утра! Хотелось бы получить решенную контрольную в воскресение,или же в понедельник с утра,пожалуйста!
+            [o_client_srok] => 1389470400
+            [f_part] => 0
+            [f_comment] => Вариант № 7
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Изображение 012.jpg
+                    [md5] => 6a7762ba480e289bfe4d976c52ff4765
+                )
+
+            [1] => Array
+                (
+                    [fname] => Изображение 013.jpg
+                    [md5] => 1e178fd4bb8dcb7b1a4530ce4348bfad
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpL0MtNv
+            [files[1]] => @/tmp/phpWWdRMO
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Евграшина Мария Юрьевна
+            [email] => romanova_93_2010@mail.ru
+            [idu] => 136165
+            [ido] => 121748
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 129
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1389470400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Предмет: Правоведение
+    [o_course] => 129
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Контрольная нужна срочно в понедельник 13.01.2014 к 11 утра! Хотелось бы получить решенную контрольную в воскресение,или же в понедельник с утра,пожалуйста!
+    [o_client_srok] => 1389470400
+    [f_part] => 0
+    [f_comment] => Вариант № 7
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им. Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Евграшина Мария Юрьевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №121748 на тему: "Предмет: Правоведение".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: romanova_93_2010</p>
+<p>Пароль: 4622a</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

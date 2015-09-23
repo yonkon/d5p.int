@@ -1,0 +1,174 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 126854
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа по предмету Базы данных
+            [o_course] => 97
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1422306000
+            [f_part] => 0
+            [f_comment] => Работа 4 - вариант 1.
+Работа 3 - задание на самостоятельная работа, вариант 1, на языке SQL.
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => работа_4.pdf
+                    [md5] => d63a3a0181d245b8ac7b7c7709e439a0
+                )
+
+            [1] => Array
+                (
+                    [fname] => работа_3.pdf
+                    [md5] => 529b80fbbc8fe06342983822d8b84174
+                )
+
+            [2] => Array
+                (
+                    [fname] => работа 4.docx
+                    [md5] => b2b0f73476f88a50fd222ecbf303b439
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpKs5Juv
+            [files[1]] => @/tmp/phpFKF3l7
+            [files[2]] => @/tmp/phpKvl8dJ
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Мария
+            [email] => shtrober-m@mail.ru
+            [idu] => 126854
+            [ido] => 186895
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Контрольная работа по предмету Базы данных
+                            [o_course] => 97
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1422306000
+                            [f_part] => 0
+                            [f_comment] => Работа 4 - вариант 1.
+Работа 3 - задание на самостоятельная работа, вариант 1, на языке SQL.
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Контрольная работа по предмету Базы данных
+    [o_course] => 97
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1422306000
+    [f_part] => 0
+    [f_comment] => Работа 4 - вариант 1.
+Работа 3 - задание на самостоятельная работа, вариант 1, на языке SQL.
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Мария!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №186895 на тему: "Контрольная работа по предмету Базы данных".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: shtrober-m</p>
+<p>Пароль: f7603</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

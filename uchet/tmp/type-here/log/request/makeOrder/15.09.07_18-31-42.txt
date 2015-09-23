@@ -1,0 +1,73 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 216417
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => 11.	Анализ производства и реализации продукции.
+            [o_course] => 1
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 18
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => предмет бизнес диагностика требования по стандартам рф оглавление ,2 или 3 главы, список литературы
+            [o_client_srok] => 1442782800
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => екатеринбург
+            [country] => 
+            [city] => екатеринбург
+            [o_vuz] => тюмгу
+            [user] => new
+            [fio] => лапина юлия
+            [phone] => 
+            [mphone] => 
+            [email] => yulya_200790@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [4] => Array
+                (
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

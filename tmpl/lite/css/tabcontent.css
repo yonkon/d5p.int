@@ -1,0 +1,144 @@
+.shadetabs{
+	padding: 0px 0;
+	margin-left: 0;
+	margin-top: 1px;
+	margin-bottom: 0;
+	list-style-type: none;
+	text-align: left; /*set to left, center, or right to align the menu as desired*/
+	hight:30px;
+	display:block;
+}
+
+.shadetabs li{
+	display: inline;
+	margin: 0;
+	width:144px;
+	text-align:center;
+}
+
+.shadetabs li a{
+	text-decoration: none;
+	position: relative;
+	z-index: 1;
+	padding: 3px 0px;
+	padding-top:6px;
+	padding-bottom:4px;
+	margin-right: 3px;
+	color: #697478;
+	width:144px;
+	background: white url(../img/tm_active_tab.gif) top left no-repeat;
+	display:inline-block;
+	outline:none;
+	font-weight:bold;
+}
+
+.shadetabs li a:visited, .shadetabs li a:active{
+	color: #697478;
+	font-weight:bold;
+}
+
+.shadetabs li a:hover{
+	text-decoration: underline;
+	color: #189fd8;
+}
+
+.shadetabs li a.selected:link, .shadetabs li a.selected:visited, .shadetabs li a.selected:active{ /*selected main tab style */
+	position: relative;
+	top: 1px;
+	background-image: url(../img/tm_inactive_tab.gif) top left no-repeat;
+	border-bottom-color: white;
+	color:#189fd8;
+	outline:none;
+	font-weight:bold;
+}
+
+.shadetabs li a.selected:hover{ /*selected main tab style */
+	text-decoration: none;
+}
+
+.tabcontent{
+	display:none;
+}
+
+@media print {
+.tabcontent {
+	display:block !important;
+}
+}
+
+
+/**
+*
+*/
+
+.infoshadetabs{
+	padding: 0px 0;
+	margin-left: 0;
+	margin-top: 1px;
+	margin-bottom: 0;
+	list-style-type: none;
+	text-align: left; /*set to left, center, or right to align the menu as desired*/
+	hight:30px;
+	display:block;
+}
+
+.infoshadetabs li{
+	display: inline;
+	margin: 0;
+	width:144px;
+	text-align:center;
+}
+
+.infoshadetabs li a{
+	text-decoration: none;
+	position: relative;
+	z-index: 1;
+	padding: 3px 0px;
+	padding-top:6px;
+	padding-bottom:4px;
+	margin-right: 3px;
+	color: #697478;
+	width:144px;
+	background: #e7e7e7; /*white url(../img/tm_active_tab.gif) top left no-repeat;*/
+	display:inline-block;
+	outline:none;
+	font-weight:bold;
+}
+
+.infoshadetabs li a:visited, .infoshadetabs li a:active{
+	color: #697478;
+	font-weight:bold;
+}
+
+.infoshadetabs li a:hover{
+	text-decoration: underline;
+	color: #189fd8;
+}
+
+.infoshadetabs li a.selected:link, .infoshadetabs li a.selected:visited, .infoshadetabs li a.selected:active{ /*selected main tab style */
+	position: relative;
+	top: 2px;
+	background: #ffffff; /*url(../img/tm_inactive_tab.gif) top left no-repeat;*/
+	border-bottom-color: white;
+	border-top: solid 3px #cccccc;
+	border-left: solid 2px #cccccc;
+	border-right: solid 2px #cccccc;
+
+	color:#189fd8;
+	outline:none;
+	font-weight:bold;
+}
+
+.infoshadetabs li a.selected:hover{ /*selected main tab style */
+	text-decoration: none;
+}
+
+.tabcontent{
+	display:none;
+}
+
+@media print {
+.tabcontent {
+	display:block !important;
+}
+}

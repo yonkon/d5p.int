@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 181205
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Оленева Полина Николаевна
+            [phone] => 
+            [mphone] => 79826224882
+            [email] => spacebeck@yandex.ru
+            [icq] => 
+            [contact] => 
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 09.12.1996
+            [country] => Россия
+            [city] => Екатеринбург
+            [speciality] => Студентка
+            [orders_before] => 
+            [time_to_call] => 
+            [payment_method] => 
+            [university] => УрФУ
+            [examinations_time] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

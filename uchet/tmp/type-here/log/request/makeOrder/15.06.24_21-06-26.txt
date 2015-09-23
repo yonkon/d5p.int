@@ -1,0 +1,145 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 105789
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Основы аудита
+            [o_course] => 126
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1444424400
+            [f_part] => 0
+            [f_comment] => В заданиях, где требуется вариант, выполнять ВАРИАНТ № 9
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ им. Г.И. Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Контрольная работа.docx
+                    [md5] => c1c41c13b7a3ccec1cec8700e4569e97
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php15aRnX
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Юлия Вячеславовна Добренькая
+            [email] => yuliya-17041994@yandex.ru
+            [idu] => 105789
+            [ido] => 221815
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Основы аудита
+                            [o_course] => 126
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1444424400
+                            [f_part] => 0
+                            [f_comment] => В заданиях, где требуется вариант, выполнять ВАРИАНТ № 9
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => МГТУ им. Г.И. Носова
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Основы аудита
+    [o_course] => 126
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1444424400
+    [f_part] => 0
+    [f_comment] => В заданиях, где требуется вариант, выполнять ВАРИАНТ № 9
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => МГТУ им. Г.И. Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Юлия Вячеславовна Добренькая!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №221815 на тему: "Основы аудита".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: yuliya-17041994</p>
+<p>Пароль: 725b1</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

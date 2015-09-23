@@ -1,0 +1,60 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => mordvincevs
+            [a_pass] => 89030910539
+            [a_fio] => Мордвинцев Семен
+            [a_mphone] => 79030910539
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => mordvincevs@mail.ru
+            [a_icq] => 
+            [a_skype] => mordvincevs
+            [a_fromknow] => 3
+            [a_contact] => Г.Магнитогорск,ул. Казакова 8-36
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 119070
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

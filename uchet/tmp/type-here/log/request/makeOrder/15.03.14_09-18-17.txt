@@ -1,0 +1,207 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 185993
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => вариант 3
+            [o_course] => 23
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1426626000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => ургэу синх
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 9916_0._Metodika_i_grafik_izucheniya_discipliny.doc
+                    [md5] => 247a2ce556ca3d8b58db41b6b2a79215
+                )
+
+            [1] => Array
+                (
+                    [fname] => 9919_2._Metodicheskie_ukazaniya_po_vypolneniyu_kontrolnoi_raboty.doc
+                    [md5] => 7b42bcb329db8f4440ba554f5d9968ae
+                )
+
+            [2] => Array
+                (
+                    [fname] => 9920_Metodicheskie_ukazaniya_po_napisaniyu_ESSE.doc
+                    [md5] => 5329cb6b82bb3e60afc02f62079f54ae
+                )
+
+            [3] => Array
+                (
+                    [fname] => 9922_Uchebnoe_posobie_-_Bakulina.pdf
+                    [md5] => f29d1d26377da0e85156a63800753ae0
+                )
+
+            [4] => Array
+                (
+                    [fname] => 20367_1._Uchebno-metodicheskii_kompleks.doc
+                    [md5] => 067971c91baad578fe95793ad68e0771
+                )
+
+            [5] => Array
+                (
+                    [fname] => 20368_Uchebnoe_posobie-_Zaborovskaya.doc
+                    [md5] => df50f9bb8728d6425740d58caadd6210
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php7gFKTy
+            [files[1]] => @/tmp/phpauOs7e
+            [files[2]] => @/tmp/php77CdlV
+            [files[3]] => @/tmp/php0fu6yB
+            [files[4]] => @/tmp/phpTBzuNh
+            [files[5]] => @/tmp/phpOqn01X
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Власова Надежда Андреевна
+            [email] => nadyushka_vlasov@mail.ru
+            [idu] => 185993
+            [ido] => 197158
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => вариант 3
+                            [o_course] => 23
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1426626000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => ургэу синх
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => вариант 3
+    [o_course] => 23
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1426626000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => ургэу синх
+    [refid] => 0
+)
+<p>Здравствуйте, Власова Надежда Андреевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №197158 на тему: "вариант 3".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nadyushka_vlasov</p>
+<p>Пароль: 849ea</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

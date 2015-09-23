@@ -1,0 +1,77 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 201414
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Анализ документационного обеспечения управления и разработка предложений по его совершенствованию
+            [o_course] => 54
+            [o_type] => 14
+            [o_shcooltype] => 
+            [o_volume] => 15
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1433883600
+            [f_part] => 0
+            [f_comment] => Содержание отчета должно включать следующие разделы:
+1. Характеристика (тема,  цель, объект, предмет исследования, задачи, база проведения исследования, структура работы).
+2. Краткое содержание теоретической части.
+3. Описание практической части исследования.
+4. Рекомендации по исследуемой проблеме.
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => мгту
+            [user] => new
+            [fio] => Калашникова Л.В.
+            [phone] => 
+            [mphone] => 
+            [email] => ya.ludmil.ka@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [4] => Array
+                (
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

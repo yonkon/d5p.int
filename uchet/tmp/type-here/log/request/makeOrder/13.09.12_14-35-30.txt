@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Спроектировать сетевой трансформатор для двухполупериодного выпрямителя со средней точкой на выходное напряжение 2*20В и ток каждой половины вторичной обмотки 500 мА. Параметры сетевого напряжения  220В  10% 50 Гц
+            [o_course] => 159
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 10-15 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Мне не обязательно плагиат. Главное чтобы у меня была курсовая
+            [o_client_srok] => 1380484800
+            [f_part] => 0
+            [f_comment] => В вордовском документе список литературы по теме
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+            [user] => new
+            [fio] => Иванов Алексей Петрович
+            [phone] => 
+            [mphone] => 89048059085
+            [email] => visokiy190@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Темы_Курсовая работа_Электроника_220301_10.doc
+                    [md5] => fd579dd0bd23d96c04b7e76d577404be
+                )
+
+            [1] => Array
+                (
+                    [fname] => Metodicheskie_ukazania_po_kursovoy.rar
+                    [md5] => 1302d323593cca2cf551215fc8270634
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpL7q8Us
+            [files[1]] => @/tmp/phpicpwxV
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => visokiy190
+            [password] => 19093
+            [fio] => Иванов Алексей Петрович
+            [email] => visokiy190@mail.ru
+            [idu] => 111814
+            [ido] => 102099
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 159
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1380484800
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89048059085
+                            [email] => visokiy190@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Спроектировать сетевой трансформатор для двухполупериодного выпрямителя со средней точкой на выходное напряжение 2*20В и ток каждой половины вторичной обмотки 500 мА. Параметры сетевого напряжения  220В  10% 50 Гц
+    [o_course] => 159
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 10-15 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Мне не обязательно плагиат. Главное чтобы у меня была курсовая
+    [o_client_srok] => 1380484800
+    [f_part] => 0
+    [f_comment] => В вордовском документе список литературы по теме
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им. Носова
+    [user] => new
+    [fio] => Иванов Алексей Петрович
+    [phone] => 
+    [mphone] => 89048059085
+    [email] => visokiy190@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Иванов Алексей Петрович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №102099 на тему: "Спроектировать сетевой трансформатор для двухполупериодного выпрямителя со средней точкой на выходное напряжение 2*20В и ток каждой половины вторичной обмотки 500 мА. Параметры сетевого напряжения  220В  10% 50 Гц".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: visokiy190</p>
+<p>Пароль: 19093</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

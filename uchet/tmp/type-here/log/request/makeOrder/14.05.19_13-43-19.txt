@@ -1,0 +1,76 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => статика , кинематика и динамика
+            [o_course] => 115
+            [o_type] => 20
+            [o_shcooltype] => 
+            [o_volume] => 3 задачи
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1400788800
+            [f_part] => 0
+            [f_comment] => 1. в первом файле решить С4,исх данные последний вариант а рисунок предпоследний(так препод сказал)но вы смотрите сами.
+2.во втором файле решить задачу к2.исх данные и рисунок брать так же,точный рисунок к этой заадаче находится в третьем файле.
+3. и в  четвертом файле решить д6,исх данные так же берем посл,а рис предпоследний
+            [o_precost] => 
+            [o_cc] => магнитогорск
+            [country] => 
+            [city] => магнитогорск
+            [o_vuz] => МГТУ им. Носова
+            [user] => new
+            [fio] => Худайгулова Ильвира Маратовна
+            [phone] => 
+            [mphone] => 
+            [email] => Kleopatra-aim@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => Kleopatra-aim@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

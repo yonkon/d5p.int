@@ -1,0 +1,153 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => "Проектирование участка автомобильных дорог з категории на примере филиала ОАО "МРСК Урал"-Свердловэнерго ПО "Талицкие электрические сети"
+            [o_course] => 177
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 70 стр
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1431896400
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => Колледж
+            [user] => new
+            [fio] => Ирина
+            [phone] => 
+            [mphone] => 89221873813
+            [email] => chesova@fotek.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => chesova
+            [password] => 73a93
+            [fio] => Ирина
+            [email] => chesova@fotek.ru
+            [idu] => 212571
+            [ido] => 203967
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => "Проектирование участка автомобильных дорог з категории на примере филиала ОАО "МРСК Урал"-Свердловэнерго ПО "Талицкие электрические сети"
+                            [o_course] => 177
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 70 стр
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1431896400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => Колледж
+                            [user] => new
+                            [fio] => Ирина
+                            [phone] => 
+                            [mphone] => 89221873813
+                            [email] => chesova@fotek.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => "Проектирование участка автомобильных дорог з категории на примере филиала ОАО "МРСК Урал"-Свердловэнерго ПО "Талицкие электрические сети"
+    [o_course] => 177
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 70 стр
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1431896400
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => Колледж
+    [user] => new
+    [fio] => Ирина
+    [phone] => 
+    [mphone] => 89221873813
+    [email] => chesova@fotek.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Ирина!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №203967 на тему: "&quot;Проектирование участка автомобильных дорог з категории на примере филиала ОАО &quot;МРСК Урал&quot;-Свердловэнерго ПО &quot;Талицкие электрические сети&quot;".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: chesova</p>
+<p>Пароль: 73a93</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

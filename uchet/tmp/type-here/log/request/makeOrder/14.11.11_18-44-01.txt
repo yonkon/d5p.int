@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => курс10-11 класса
+            [o_course] => 165
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => в электронном виде
+            [o_client_srok] => 1416171600
+            [f_part] => 0
+            [f_comment] => вариант 01,  всего десять 10
+            [o_precost] => 
+            [o_cc] => екатеринбург
+            [country] => 
+            [city] => екатеринбург
+            [o_vuz] => емк
+            [user] => new
+            [fio] => давлятова гульнара наиловна
+            [phone] => 
+            [mphone] => 89025849954
+            [email] => nailovna2013@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Контрольная-естествознание-2-сесместр.doc
+                    [md5] => 242a645387b94deb784e2f54515b6470
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpcy4G1t
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => nailovna2013
+            [password] => 4b3bc
+            [fio] => давлятова гульнара наиловна
+            [email] => nailovna2013@mail.ru
+            [idu] => 185020
+            [ido] => 170713
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => курс10-11 класса
+                            [o_course] => 165
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => в электронном виде
+                            [o_client_srok] => 1416171600
+                            [f_part] => 0
+                            [f_comment] => вариант 01,  всего десять 10
+                            [o_precost] => 
+                            [o_cc] => екатеринбург
+                            [country] => 
+                            [city] => екатеринбург
+                            [o_vuz] => емк
+                            [user] => new
+                            [fio] => давлятова гульнара наиловна
+                            [phone] => 
+                            [mphone] => 89025849954
+                            [email] => nailovna2013@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => курс10-11 класса
+    [o_course] => 165
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => в электронном виде
+    [o_client_srok] => 1416171600
+    [f_part] => 0
+    [f_comment] => вариант 01,  всего десять 10
+    [o_precost] => 
+    [o_cc] => екатеринбург
+    [country] => 
+    [city] => екатеринбург
+    [o_vuz] => емк
+    [user] => new
+    [fio] => давлятова гульнара наиловна
+    [phone] => 
+    [mphone] => 89025849954
+    [email] => nailovna2013@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, давлятова гульнара наиловна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №170713 на тему: "курс10-11 класса".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: nailovna2013</p>
+<p>Пароль: 4b3bc</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

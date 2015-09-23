@@ -1,0 +1,233 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 174714
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => ТЕПЛОТЕХНИЧЕСКИЙ РАСЧЕТ НАРУЖНЫХ 
+ОГРАЖДАЮЩИХ КОНСТРУКЦИЙ ЗДАНИЯ
+            [o_course] => 89
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1412798400
+            [f_part] => 0
+            [f_comment] => файл Excel и фото -пример,план по тгс-план типового этажа-взять одну половину для чертежа,3 чертежа+сами расчеты
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ им Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => TGS_laba_zadania (1).odt
+                    [md5] => b5a17335c1e3cdc3c24e76b4e2b5faac
+                )
+
+            [1] => Array
+                (
+                    [fname] => Raschet_sistem_OiV.doc
+                    [md5] => 9822fb1f8e326113d90527e04db51db2
+                )
+
+            [2] => Array
+                (
+                    [fname] => план по тгс.jpeg
+                    [md5] => 333839752e86ca21fba327f686ace3fd
+                )
+
+            [3] => Array
+                (
+                    [fname] => теплоснабжение табл 3.1.xlsx
+                    [md5] => c5e69a4f12e283bf265efa49f5de41c8
+                )
+
+            [4] => Array
+                (
+                    [fname] => IMG_20140617_170533.jpg
+                    [md5] => 8a590584c29e5a9b4db128caad8a3828
+                )
+
+            [5] => Array
+                (
+                    [fname] => IMG_20140617_170542.jpg
+                    [md5] => c3ad205ff9d1ae66cbecc9df8be0064a
+                )
+
+            [6] => Array
+                (
+                    [fname] => IMG_20140617_170550.jpg
+                    [md5] => e186834dafdcdd6d1fac5662bdf694bd
+                )
+
+            [7] => Array
+                (
+                    [fname] => IMG_20140617_170603.jpg
+                    [md5] => b0e53d1b4a79cd7669679ea29818caad
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpqRnMhQ
+            [files[1]] => @/tmp/php2KeW03
+            [files[2]] => @/tmp/php1irpKh
+            [files[3]] => @/tmp/phpyT1euv
+            [files[4]] => @/tmp/php4mt5dJ
+            [files[5]] => @/tmp/phpi5MgYW
+            [files[6]] => @/tmp/php3WzIIa
+            [files[7]] => @/tmp/phpKbGsto
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Мамлеев Артур Эмильевич
+            [email] => spanch_90@bk.ru
+            [idu] => 174714
+            [ido] => 160898
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => ТЕПЛОТЕХНИЧЕСКИЙ РАСЧЕТ НАРУЖНЫХ 
+ОГРАЖДАЮЩИХ КОНСТРУКЦИЙ ЗДАНИЯ
+                            [o_course] => 89
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1412798400
+                            [f_part] => 0
+                            [f_comment] => файл Excel и фото -пример,план по тгс-план типового этажа-взять одну половину для чертежа,3 чертежа+сами расчеты
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => МГТУ им Носова
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => ТЕПЛОТЕХНИЧЕСКИЙ РАСЧЕТ НАРУЖНЫХ 
+ОГРАЖДАЮЩИХ КОНСТРУКЦИЙ ЗДАНИЯ
+    [o_course] => 89
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1412798400
+    [f_part] => 0
+    [f_comment] => файл Excel и фото -пример,план по тгс-план типового этажа-взять одну половину для чертежа,3 чертежа+сами расчеты
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => МГТУ им Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Мамлеев Артур Эмильевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №160898 на тему: "ТЕПЛОТЕХНИЧЕСКИЙ РАСЧЕТ НАРУЖНЫХ 
+ОГРАЖДАЮЩИХ КОНСТРУКЦИЙ ЗДАНИЯ".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: spanch_90</p>
+<p>Пароль: c7518</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

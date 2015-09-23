@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => чертежи
+            [o_course] => 91
+            [o_type] => 30
+            [o_shcooltype] => 
+            [o_volume] => 5 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1559336400
+            [f_part] => 0
+            [f_comment] => 30 вариант (в общей сложности 5 листов должно получиться) через автокад
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => РГППУ
+            [user] => new
+            [fio] => Мальцев Павел Вадимович
+            [phone] => 
+            [mphone] => 89122121203
+            [email] => DRWW1@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 04445_ZMU_INZh_GRAF__1_MaI_1.doc
+                    [md5] => 3d0f2c56da0d6861a203115b092286d9
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpyWYdRd
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => DRWW11
+            [password] => bc011
+            [fio] => Мальцев Павел Вадимович
+            [email] => DRWW1@yandex.ru
+            [idu] => 220283
+            [ido] => 212856
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => чертежи
+                            [o_course] => 91
+                            [o_type] => 30
+                            [o_shcooltype] => 
+                            [o_volume] => 5 листов
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1559336400
+                            [f_part] => 0
+                            [f_comment] => 30 вариант (в общей сложности 5 листов должно получиться) через автокад
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => РГППУ
+                            [user] => new
+                            [fio] => Мальцев Павел Вадимович
+                            [phone] => 
+                            [mphone] => 89122121203
+                            [email] => DRWW1@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => чертежи
+    [o_course] => 91
+    [o_type] => 30
+    [o_shcooltype] => 
+    [o_volume] => 5 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1559336400
+    [f_part] => 0
+    [f_comment] => 30 вариант (в общей сложности 5 листов должно получиться) через автокад
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => РГППУ
+    [user] => new
+    [fio] => Мальцев Павел Вадимович
+    [phone] => 
+    [mphone] => 89122121203
+    [email] => DRWW1@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Мальцев Павел Вадимович!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №212856 на тему: "чертежи".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: DRWW11</p>
+<p>Пароль: bc011</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,72 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => marina
+            [a_pass] => 088470
+            [a_fio] => Евдокимова Марина Сергеевна
+            [a_mphone] => 79090921111
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => marina_sea@bk.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 27
+                    [1] => 53
+                    [2] => 82
+                    [3] => 2
+                    [4] => 83
+                    [5] => 112
+                    [6] => 103
+                    [7] => 60
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => marina
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

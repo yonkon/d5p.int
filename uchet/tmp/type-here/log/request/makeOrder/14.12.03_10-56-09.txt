@@ -1,0 +1,173 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Государственная политика в сфере местного самоуправления: анализ приоритетов и оценка результатов
+            [o_course] => 195
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 25-30 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1418158800
+            [f_part] => 1
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => РГППУ
+            [user] => new
+            [fio] => Стафеева Юлия Викторовна
+            [phone] => 
+            [mphone] => 89920210401
+            [email] => yuliastafeeva@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Met_rekom_kurs_rab_GMU_2014 (1).docx
+                    [md5] => a782a1a4a3cb22e4f353fe4611a47056
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpI4PFg0
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => yuliastafeeva
+            [password] => f4680
+            [fio] => Стафеева Юлия Викторовна
+            [email] => yuliastafeeva@mail.ru
+            [idu] => 190361
+            [ido] => 176625
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Государственная политика в сфере местного самоуправления: анализ приоритетов и оценка результатов
+                            [o_course] => 195
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 25-30 страниц
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1418158800
+                            [f_part] => 1
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => РГППУ
+                            [user] => new
+                            [fio] => Стафеева Юлия Викторовна
+                            [phone] => 
+                            [mphone] => 89920210401
+                            [email] => yuliastafeeva@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Государственная политика в сфере местного самоуправления: анализ приоритетов и оценка результатов
+    [o_course] => 195
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 25-30 страниц
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1418158800
+    [f_part] => 1
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => РГППУ
+    [user] => new
+    [fio] => Стафеева Юлия Викторовна
+    [phone] => 
+    [mphone] => 89920210401
+    [email] => yuliastafeeva@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Стафеева Юлия Викторовна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №176625 на тему: "Государственная политика в сфере местного самоуправления: анализ приоритетов и оценка результатов".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: yuliastafeeva</p>
+<p>Пароль: f4680</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

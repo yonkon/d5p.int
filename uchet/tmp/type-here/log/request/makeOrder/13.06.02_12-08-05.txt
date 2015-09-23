@@ -1,0 +1,145 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Н.В.ГОГОЛЬ ПОВЕСТЬ МЕРТВЫЕ ДУШИ.ЯЗЫКОВЫЕ ЕДИНИЦЫ ХАРАКТЕРИЗУЮЩИЕ ЧИЧИКОВА  И ДРУГИХ ГЕРОЕВ
+            [o_course] => 18
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 25-30ЛИСТОВ
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1370203200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => МАГНИТОГОРСК
+            [country] => 
+            [city] => МАГНИТОГОРСК
+            [o_vuz] => МаГУ
+            [user] => new
+            [fio] => КРАВЧЕНКО ОКСАНА АЛЕКСАНДРОВНА
+            [phone] => 
+            [mphone] => 9615777274
+            [email] => kravhenko-1985@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => kravhenko1985
+            [password] => 5b804
+            [fio] => КРАВЧЕНКО ОКСАНА АЛЕКСАНДРОВНА
+            [email] => kravhenko-1985@yandex.ru
+            [idu] => 97946
+            [ido] => 95461
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 18
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1370203200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 9615777274
+                            [email] => kravhenko-1985@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Н.В.ГОГОЛЬ ПОВЕСТЬ МЕРТВЫЕ ДУШИ.ЯЗЫКОВЫЕ ЕДИНИЦЫ ХАРАКТЕРИЗУЮЩИЕ ЧИЧИКОВА  И ДРУГИХ ГЕРОЕВ
+    [o_course] => 18
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 25-30ЛИСТОВ
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1370203200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => МАГНИТОГОРСК
+    [country] => 
+    [city] => МАГНИТОГОРСК
+    [o_vuz] => МаГУ
+    [user] => new
+    [fio] => КРАВЧЕНКО ОКСАНА АЛЕКСАНДРОВНА
+    [phone] => 
+    [mphone] => 9615777274
+    [email] => kravhenko-1985@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, КРАВЧЕНКО ОКСАНА АЛЕКСАНДРОВНА!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №95461 на тему: "Н.В.ГОГОЛЬ ПОВЕСТЬ МЕРТВЫЕ ДУШИ.ЯЗЫКОВЫЕ ЕДИНИЦЫ ХАРАКТЕРИЗУЮЩИЕ ЧИЧИКОВА  И ДРУГИХ ГЕРОЕВ".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: kravhenko1985</p>
+<p>Пароль: 5b804</p><p>С уважением, администрация сайта www.diplom5plus.ru</p>
+)
+
+
+

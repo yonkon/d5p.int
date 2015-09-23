@@ -1,0 +1,74 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => философия любви, Эриха Фромма
+            [o_course] => 22
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 3-4 листа А4
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1418072400
+            [f_part] => 0
+            [f_comment] => нужны только таблицы и схемы по этой теме
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => 
+            [user] => new
+            [fio] => Раздьяконова Татьяна Владимировна
+            [phone] => 
+            [mphone] => 89530040971
+            [email] => tanj92@bk.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => tanj92@bk.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

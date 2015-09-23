@@ -1,0 +1,61 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => Svetlanka174
+            [a_pass] => 56789055675678905567
+            [a_fio] => Борисова Светлана Евгеньевна
+            [a_mphone] => 79518043577
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => fedorov.antoxa@yandex.ru
+            [a_icq] => 
+            [a_skype] => chloeoye
+            [a_fromknow] => 19
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 54
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 201358
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

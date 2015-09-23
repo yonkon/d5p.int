@@ -1,0 +1,94 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Финансовые инструменты повышения конкурентоспособности компании
+            [o_course] => 23
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 80-90 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 70% уникальность
+            [o_client_srok] => 1397505600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => москва
+            [country] => 
+            [city] => москва
+            [o_vuz] => ИНЭП
+            [user] => new
+            [fio] => Питухина Анна
+            [phone] => 
+            [mphone] => 8-964-512-37-55
+            [email] => anna1971@mail.mipt.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Тема дипломной работы.doc
+                    [md5] => 44297864a6f7f2f6737d9a7b715cfe70
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpwh48P4
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => anna1971@mail.mipt.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

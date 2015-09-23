@@ -1,0 +1,248 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Техническое задание Управление жизненным циклом
+            [o_course] => 27
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 25-30 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1424379600
+            [f_part] => 0
+            [f_comment] => 1. Вот пример технического задания:
+2 В этих документах содержится информация о том, что должно представлять из себя тех. задание:
+            [o_precost] => 
+            [o_cc] => Белорецк
+            [country] => 
+            [city] => Белорецк
+            [o_vuz] => МГТУ им. Носова, бывш. МаГУ
+            [user] => new
+            [fio] => Андриянов Антон Сергеевич
+            [phone] => 
+            [mphone] => 89625267520
+            [email] => antonio616687@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Tekhnicheskoe_zadanie (1).doc
+                    [md5] => 214934c871fdca8423680781c70ed921
+                )
+
+            [1] => Array
+                (
+                    [fname] => L2_3-Tekhzadanie_KR.ppt
+                    [md5] => c8a3b781f43c6427399843f149442213
+                )
+
+            [2] => Array
+                (
+                    [fname] => Analiz_uzkikh_mest_sklad_syrya.doc
+                    [md5] => 06563e67b16e1cd44fb9b42a5a54c940
+                )
+
+            [3] => Array
+                (
+                    [fname] => Praktikum_po_proektirovaniyu_IS.doc
+                    [md5] => 5732b5bdd8b93a48ae1517dcddd8427d
+                )
+
+            [4] => Array
+                (
+                    [fname] => VyborMetodologiiProektirovania-Modeli.doc
+                    [md5] => 63eed8f7f32d087af78e2f11ad79ff3c
+                )
+
+            [5] => Array
+                (
+                    [fname] => PrimerPostZadachi.doc
+                    [md5] => 3230b36a69406b3532345beb3a569b31
+                )
+
+            [6] => Array
+                (
+                    [fname] => PrimerRaschetaEkonomEffektivnosti.doc
+                    [md5] => c49e42573c872e3425d71f4fe1b2a35c
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpCpWZu7
+            [files[1]] => @/tmp/phpwMaHOd
+            [files[2]] => @/tmp/phpiF6v8j
+            [files[3]] => @/tmp/phpAqmnsq
+            [files[4]] => @/tmp/phpm9THMw
+            [files[5]] => @/tmp/phpYEv07C
+            [files[6]] => @/tmp/phpSNTntJ
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => antonio616687
+            [password] => e5eb0
+            [fio] => Андриянов Антон Сергеевич
+            [email] => antonio616687@mail.ru
+            [idu] => 202235
+            [ido] => 190181
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Техническое задание Управление жизненным циклом
+                            [o_course] => 27
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 25-30 листов
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1424379600
+                            [f_part] => 0
+                            [f_comment] => 1. Вот пример технического задания:
+2 В этих документах содержится информация о том, что должно представлять из себя тех. задание:
+                            [o_precost] => 
+                            [o_cc] => Белорецк
+                            [country] => 
+                            [city] => Белорецк
+                            [o_vuz] => МГТУ им. Носова, бывш. МаГУ
+                            [user] => new
+                            [fio] => Андриянов Антон Сергеевич
+                            [phone] => 
+                            [mphone] => 89625267520
+                            [email] => antonio616687@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Техническое задание Управление жизненным циклом
+    [o_course] => 27
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 25-30 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1424379600
+    [f_part] => 0
+    [f_comment] => 1. Вот пример технического задания:
+2 В этих документах содержится информация о том, что должно представлять из себя тех. задание:
+    [o_precost] => 
+    [o_cc] => Белорецк
+    [country] => 
+    [city] => Белорецк
+    [o_vuz] => МГТУ им. Носова, бывш. МаГУ
+    [user] => new
+    [fio] => Андриянов Антон Сергеевич
+    [phone] => 
+    [mphone] => 89625267520
+    [email] => antonio616687@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Андриянов Антон Сергеевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №190181 на тему: "Техническое задание Управление жизненным циклом".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: antonio616687</p>
+<p>Пароль: e5eb0</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,151 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Бюджетирование в компании и исследование проблем, связанных с его внедрением.
+            [o_course] => 36
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1398024000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Москва
+            [country] => 
+            [city] => Москва
+            [o_vuz] => НОУ ИНЭП
+            [user] => new
+            [fio] => Романцова Ирина Борисовна
+            [phone] => 
+            [mphone] => 9055691597
+            [email] => ibromashka@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => ibromashka
+            [password] => 8bd06
+            [fio] => Романцова Ирина Борисовна
+            [email] => ibromashka@mail.ru
+            [idu] => 146523
+            [ido] => 134425
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Бюджетирование в компании и исследование проблем, связанных с его внедрением.
+                            [o_course] => 36
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1398024000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Москва
+                            [country] => 
+                            [city] => Москва
+                            [o_vuz] => НОУ ИНЭП
+                            [user] => new
+                            [fio] => Романцова Ирина Борисовна
+                            [phone] => 
+                            [mphone] => 9055691597
+                            [email] => ibromashka@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Бюджетирование в компании и исследование проблем, связанных с его внедрением.
+    [o_course] => 36
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1398024000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Москва
+    [country] => 
+    [city] => Москва
+    [o_vuz] => НОУ ИНЭП
+    [user] => new
+    [fio] => Романцова Ирина Борисовна
+    [phone] => 
+    [mphone] => 9055691597
+    [email] => ibromashka@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Романцова Ирина Борисовна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №134425 на тему: "Бюджетирование в компании и исследование проблем, связанных с его внедрением.".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: ibromashka</p>
+<p>Пароль: 8bd06</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,165 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Реконструкция привода коробки скоростей токарно-винторезного станка 16К20
+            [o_course] => 95
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Желательно звонить на телефон!
+            [o_client_srok] => 1371240000
+            [f_part] => 0
+            [f_comment] => чертежи и  некоторые данные
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МПК
+            [user] => new
+            [fio] => Филатов Евгений Игоревич
+            [phone] => 
+            [mphone] => 79525022778
+            [email] => fil-jek@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 16k20_stanok_tsertezi.stanoks.com.zip
+                    [md5] => eb6a6957e55095402260a8feea6d79c6
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpFnSy32
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => filjek
+            [password] => 83d9a
+            [fio] => Филатов Евгений Игоревич
+            [email] => fil-jek@mail.ru
+            [idu] => 96733
+            [ido] => 94442
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 95
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1371240000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 79525022778
+                            [email] => fil-jek@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Реконструкция привода коробки скоростей токарно-винторезного станка 16К20
+    [o_course] => 95
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Желательно звонить на телефон!
+    [o_client_srok] => 1371240000
+    [f_part] => 0
+    [f_comment] => чертежи и  некоторые данные
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МПК
+    [user] => new
+    [fio] => Филатов Евгений Игоревич
+    [phone] => 
+    [mphone] => 79525022778
+    [email] => fil-jek@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Филатов Евгений Игоревич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №94442 на тему: "Реконструкция привода коробки скоростей токарно-винторезного станка 16К20".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: filjek</p>
+<p>Пароль: 83d9a</p><p>С уважением, администрация сайта www.diplom5plus.ru</p>
+)
+
+
+

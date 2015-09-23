@@ -1,0 +1,92 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => alina-gilmetdinova@yandex.ru
+            [a_pass] => a4410a0199424a
+            [a_fio] => Гилметдинова Алина Рамилевна
+            [a_mphone] => 79193586069
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => alina-gilmetdinova@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 26
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                    [1] => 55
+                    [2] => 81
+                    [3] => 114
+                    [4] => 245
+                    [5] => 29
+                    [6] => 91
+                    [7] => 9
+                    [8] => 27
+                    [9] => 41
+                    [10] => 11
+                    [11] => 242
+                    [12] => 28
+                    [13] => 116
+                    [14] => 197
+                    [15] => 92
+                    [16] => 263
+                    [17] => 249
+                    [18] => 275
+                    [19] => 31
+                    [20] => 212
+                    [21] => 115
+                    [22] => 248
+                    [23] => 79
+                    [24] => 30
+                    [25] => 218
+                    [26] => 95
+                    [27] => 147
+                    [28] => 166
+                    [29] => 24
+                    [30] => 148
+                    [31] => 87
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 232848
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

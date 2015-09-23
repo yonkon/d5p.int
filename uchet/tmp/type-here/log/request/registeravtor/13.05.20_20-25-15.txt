@@ -1,0 +1,70 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => andromacha
+            [a_pass] => m!u4i@83
+            [a_fio] => Скалаух Анна Николаевна
+            [a_mphone] => 79127978199
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => gesperida@yandex.ru
+            [a_icq] => 326059595
+            [a_skype] => 
+            [a_fromknow] => 6
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 140
+                    [1] => 120
+                    [2] => 44
+                    [3] => 41
+                    [4] => 141
+                    [5] => 13
+                    [6] => 18
+                    [7] => 21
+                    [8] => 78
+                    [9] => 72
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 95319
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

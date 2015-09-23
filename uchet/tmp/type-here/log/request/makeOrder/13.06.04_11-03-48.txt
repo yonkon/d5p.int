@@ -1,0 +1,165 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => расчет скребкового конвейера с погруженными скребками
+            [o_course] => 28
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1370894400
+            [f_part] => 0
+            [f_comment] => задание
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => мгту
+            [user] => new
+            [fio] => Афанасьев Дмитрий Сергеевич
+            [phone] => 
+            [mphone] => 89514653211
+            [email] => Algebra91@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => P6040156.JPG
+                    [md5] => aa1219b969c7b48ad77ac03f847a578d
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpM6fUOZ
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => Algebra91
+            [password] => f5a4d
+            [fio] => Афанасьев Дмитрий Сергеевич
+            [email] => Algebra91@mail.ru
+            [idu] => 98334
+            [ido] => 95751
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 28
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1370894400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89514653211
+                            [email] => Algebra91@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => расчет скребкового конвейера с погруженными скребками
+    [o_course] => 28
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1370894400
+    [f_part] => 0
+    [f_comment] => задание
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => мгту
+    [user] => new
+    [fio] => Афанасьев Дмитрий Сергеевич
+    [phone] => 
+    [mphone] => 89514653211
+    [email] => Algebra91@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Афанасьев Дмитрий Сергеевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №95751 на тему: "расчет скребкового конвейера с погруженными скребками".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: Algebra91</p>
+<p>Пароль: f5a4d</p><p>С уважением, администрация сайта www.diplom5plus.ru</p>
+)
+
+
+

@@ -1,0 +1,106 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Предмет: Правоведение
+            [o_course] => 129
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Крайний срок получения контрольной понедельник  13.01.2014 до 11 утра! Хотелось бы получить ее в воскресение вечером,пожалуйста!
+            [o_client_srok] => 1389470400
+            [f_part] => 0
+            [f_comment] => Вариант №7
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+            [user] => new
+            [fio] => Евграшина Мария Юрьевна
+            [phone] => 
+            [mphone] => 89080745901
+            [email] => romanova_93_2010@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Изображение 012.jpg
+                    [md5] => 6a7762ba480e289bfe4d976c52ff4765
+                )
+
+            [1] => Array
+                (
+                    [fname] => Изображение 013.jpg
+                    [md5] => 1e178fd4bb8dcb7b1a4530ce4348bfad
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpJNuVnd
+            [files[1]] => @/tmp/phpEjbLXd
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => romanova_93_2010@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

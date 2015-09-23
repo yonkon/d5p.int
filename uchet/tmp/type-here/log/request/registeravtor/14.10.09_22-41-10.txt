@@ -1,0 +1,67 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => aksanik
+            [a_pass] => zhjckfdvbkfyfdkfl8
+            [a_fio] => Грушникова Оксана Владимировна
+            [a_mphone] => 375291340562
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => aksanik@mail.ru
+            [a_icq] => 
+            [a_skype] => belarisinka
+            [a_fromknow] => 7
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 175
+                    [1] => 174
+                    [2] => 1
+                    [3] => 145
+                    [4] => 112
+                    [5] => 103
+                    [6] => 104
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 178564
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

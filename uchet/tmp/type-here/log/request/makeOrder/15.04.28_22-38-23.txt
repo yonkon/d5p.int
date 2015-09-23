@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Высшее рабочее образования: перспективы и реальность
+            [o_course] => 13
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 30 стр
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Курсовая работу будет проходить проверку на антиплагиате. Уникальность не менее 60%
+            [o_client_srok] => 1431378000
+            [f_part] => 1
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => РГППУ
+            [user] => new
+            [fio] => Батенёва Юлия Олеговна
+            [phone] => 
+            [mphone] => 79226171336
+            [email] => julia0julia@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => курсовая.docx
+                    [md5] => 2a8521ec4e91ec8eb6410c6f77ab4e10
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php8fxuHy
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => julia0julia
+            [password] => 456ce
+            [fio] => Батенёва Юлия Олеговна
+            [email] => julia0julia@yandex.ru
+            [idu] => 217853
+            [ido] => 209588
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Высшее рабочее образования: перспективы и реальность
+                            [o_course] => 13
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 30 стр
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Курсовая работу будет проходить проверку на антиплагиате. Уникальность не менее 60%
+                            [o_client_srok] => 1431378000
+                            [f_part] => 1
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => РГППУ
+                            [user] => new
+                            [fio] => Батенёва Юлия Олеговна
+                            [phone] => 
+                            [mphone] => 79226171336
+                            [email] => julia0julia@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Высшее рабочее образования: перспективы и реальность
+    [o_course] => 13
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 30 стр
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Курсовая работу будет проходить проверку на антиплагиате. Уникальность не менее 60%
+    [o_client_srok] => 1431378000
+    [f_part] => 1
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => РГППУ
+    [user] => new
+    [fio] => Батенёва Юлия Олеговна
+    [phone] => 
+    [mphone] => 79226171336
+    [email] => julia0julia@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Батенёва Юлия Олеговна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №209588 на тему: "Высшее рабочее образования: перспективы и реальность".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: julia0julia</p>
+<p>Пароль: 456ce</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

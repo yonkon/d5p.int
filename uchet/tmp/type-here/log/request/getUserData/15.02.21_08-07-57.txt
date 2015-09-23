@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 202847
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Латанова Ольга Владимировна
+            [phone] => 
+            [mphone] => 79090001160
+            [email] => olga.grenaderskaja@rambler.ru
+            [icq] => 
+            [contact] => 
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 
+            [country] => 
+            [city] => 
+            [speciality] => 
+            [orders_before] => 
+            [time_to_call] => 
+            [payment_method] => 
+            [university] => 
+            [examinations_time] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

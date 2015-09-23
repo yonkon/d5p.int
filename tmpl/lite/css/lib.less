@@ -1,0 +1,193 @@
+/**reset**/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+ol, ul{	list-style: none;	}
+blockquote, q {	quotes: none;}
+table {	border-collapse: collapse;border-spacing: 0;}
+ins {	text-decoration: none;}
+del {	text-decoration: line-through;}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary, div{
+    display: block;
+    .box-sizing;
+}
+input[type="checkbox"],
+input[type="radio"] {
+    .box-sizing; /* 1 */
+    padding: 0; /* 2 */
+}
+textarea {
+    overflow: auto; /* 1 */
+    vertical-align: top; /* 2 */
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+img {	border: none;}
+input {	vertical-align: middle;}
+/** variables **/
+/**mixins**/    
+ .radius(@rad){
+  -webkit-border-radius: @rad;
+-moz-border-radius:    @rad;
+-ms-border-radius:     @rad;
+-o-border-radius:      @rad;
+border-radius:         @rad;
+}
+.shadow(@oX:1px, @oY:1px, @blur:5px, @color:#000){
+  -webkit-box-shadow: @oX @oY @blur @color;
+  -moz-box-shadow:    @oX @oY @blur @color;
+  -ms-box-shadow:     @oX @oY @blur @color;
+  -o-box-shadow:      @oX @oY @blur @color;
+  box-shadow:         @oX @oY @blur @color;
+}
+.transition (@prop: all, @time: 1s, @ease: linear) {
+    -webkit-transition: @prop @time @ease;
+-moz-transition:    @prop @time @ease;
+-ms-transition:     @prop @time @ease;
+-o-transition:      @prop @time @ease;
+transition:         @prop @time @ease;
+}
+.transform (@rotate: 90deg, @scale: 1, @skew: 1deg, @translate: 10px) {
+    -webkit-transform: rotate(@rotate) scale(@scale) skew(@skew) translate(@translate);
+    -moz-transform: rotate(@rotate) scale(@scale) skew(@skew) translate(@translate);
+    -o-transform: rotate(@rotate) scale(@scale) skew(@skew) translate(@translate);
+    -ms-transform: rotate(@rotate) scale(@scale) skew(@skew) translate(@translate);
+    transform: rotate(@rotate) scale(@scale) skew(@skew) translate(@translate);
+}
+.box-sizing( @type : border-box ) {
+         -webkit-box-sizing: @type;
+ -moz-box-sizing:    @type;
+ -ms-box-sizing:     @type;
+ -o-box-sizing:      @type;
+ box-sizing:         @type;
+}
+/**end mixins**/
+.custom(@custom-radius:10,@clr:#fff,@minheight:50){
+ // border:#999 solid 2px;              
+    border: rgba(0,0,0,.29) solid 2px;
+    background-color:@clr; 
+    min-height: @minheight;
+    .radius(@custom-radius);
+            }
+
+.left{float: left !important;}
+    .right{float:right;}
+    .clearall{clear: both;}
+    .center(@t:0, @b:0){
+        margin: @t auto @b auto;
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .t-center{
+      text-align: center;
+    }
+    .block{
+      display: block;
+      overflow: hidden;
+    }
+
+@slider-height:400px;
+
+           // *********************************************
+// 12 COLUMN - RESPONSIVE GRID SYSTEM
+//   DEVELOPED BY DENIS LEBLANC
+//   URL - http://responsive.gs
+//   VERSION - 2.0
+//   LICENSED UNDER GPL & MIT
+  // SET ALL ELEMENTS BOX-SIZING TO BORDER-BOX
+  // If you need support for IE7 and lower use polyfill: https://github.com/Schepp/box-sizing-polyfill 
+* { -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+ // MAIN CONTAINER 
+.container            { 
+ width: 960px;
+  margin: 0 auto; }
+
+
+ // SELF CLEARING FLOATS - CLEARFIX METHOD 
+.row:after, .col:after, .clr:after, .group:after { 
+  content: ""; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden; }
+
+
+ // DEFAULT ROW STYLES 
+.row { margin-bottom: 1.5em; } /* set according to preference*/
+      
+                  
+ // DEFAULT COLUMN STYLES 
+.col { 
+  // height: 50px;
+  // background: #090;
+  display: block;
+  float:left;
+  width: 100%;
+}
+
+// @media ( min-width : 768px ) {
+  .col {
+    margin-left: 2%;
+  }
+// }
+
+
+ // RESET MARGINS 
+.col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
+
+
+ // COLUMN WIDTH ON DISPLAYS +768px 
+// @media ( min-width : 768px ) {
+  .span_1 { width: 6.5%; }
+  .span_2 { width: 15.0%; }
+  .span_3 { width: 23.5%; }
+  .span_4 { width: 32.0%; }
+  .span_5 { width: 40.5%; }
+  .span_6 { width: 49.0%; }
+  .span_7 { width: 57.5%; }
+  .span_8 { width: 66.0%; }
+  .span_9 { width: 74.5%; }
+  .span_10 { width: 83.0%; }
+  .span_11 { width: 91.5%; }
+  .span_12 { width: 100%; }
+// }        
+// пример использования
+// div id="page_wrap" class="container row">
+//     <header class="row">
+//       <hgroup>
+//         <h1 class="col span_4">Site Title</h1>
+//         <h2 class="col span_8">Site Description</h2>
+//       </hgroup>
+//       <nav id="global_nav" class="row">Insert global nav here.</nav>
+//     </header>
+//     <section id="content_wrap" class="row">
+//       <article class="col span_8 clr">Insert page content here.</article>
+//       <sidebar class="col span_4 clr">Insert sidebar stuff here.</sidebar>
+//     </section>
+//     <!-- content_wrap -->
+//     <footer class="row">Insert footer stuff here.</footer>
+//   </div>
+//   <!-- page_wrap -->
+// ******************************************************

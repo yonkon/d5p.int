@@ -1,0 +1,67 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => k.,jdm
+            [a_pass] => vfhectymrf89vfhectymrf89
+            [a_fio] => Зорина Любовь Петровна
+            [a_mphone] => 9126484989
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => lubovzorina2010@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 29
+                    [1] => 223
+                    [2] => 116
+                    [3] => 67
+                    [4] => 79
+                    [5] => 30
+                    [6] => 147
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 205785
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

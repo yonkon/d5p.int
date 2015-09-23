@@ -1,0 +1,119 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 98334
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => расчет фронтального погрузчика на базе тягача промышленного назначения к-702
+            [o_course] => 28
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => аавапва
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1371499200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Афанасьев Дмитрий Сергеевич
+            [email] => Algebra91@mail.ru
+            [idu] => 98334
+            [ido] => 95797
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 28
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1371499200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => расчет фронтального погрузчика на базе тягача промышленного назначения к-702
+    [o_course] => 28
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => аавапва
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1371499200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Афанасьев Дмитрий Сергеевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №95797 на тему: "расчет фронтального погрузчика на базе тягача промышленного назначения к-702".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: Algebra91</p>
+<p>Пароль: f5a4d</p><p>С уважением, администрация сайта www.diplom5plus.ru</p>
+)
+
+
+

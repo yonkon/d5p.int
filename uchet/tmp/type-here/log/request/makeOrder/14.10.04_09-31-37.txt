@@ -1,0 +1,189 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => немецкий язык,вариант №3
+химия вариант 25 из таблицы методички
+            [o_course] => 9
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 2-3листа
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1412539200
+            [f_part] => 0
+            [f_comment] => 25 вариант методичка по химии
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрГАУ
+            [user] => new
+            [fio] => Минина Н.Н.
+            [phone] => 
+            [mphone] => 9028742868
+            [email] => minina69@bk.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => контрольная по немецкому вариант №3Минина.docx
+                    [md5] => 53265f4419010f30ece30ba619051f22
+                )
+
+            [1] => Array
+                (
+                    [fname] => K_r_zaochn_Khimia_Neorg_i_analit_khimia.doc
+                    [md5] => fb44c19fb6d6b67bd8fd51f1d06346c4
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpBuZuoY
+            [files[1]] => @/tmp/phpIUjsUI
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => minina69
+            [password] => 38345
+            [fio] => Минина Н.Н.
+            [email] => minina69@bk.ru
+            [idu] => 177490
+            [ido] => 163041
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => немецкий язык,вариант №3
+химия вариант 25 из таблицы методички
+                            [o_course] => 9
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 2-3листа
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1412539200
+                            [f_part] => 0
+                            [f_comment] => 25 вариант методичка по химии
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрГАУ
+                            [user] => new
+                            [fio] => Минина Н.Н.
+                            [phone] => 
+                            [mphone] => 9028742868
+                            [email] => minina69@bk.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => немецкий язык,вариант №3
+химия вариант 25 из таблицы методички
+    [o_course] => 9
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 2-3листа
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1412539200
+    [f_part] => 0
+    [f_comment] => 25 вариант методичка по химии
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрГАУ
+    [user] => new
+    [fio] => Минина Н.Н.
+    [phone] => 
+    [mphone] => 9028742868
+    [email] => minina69@bk.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Минина Н.Н.!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №163041 на тему: "немецкий язык,вариант №3
+химия вариант 25 из таблицы методички".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: minina69</p>
+<p>Пароль: 38345</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

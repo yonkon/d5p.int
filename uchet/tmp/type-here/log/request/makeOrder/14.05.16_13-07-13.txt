@@ -1,0 +1,106 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа по бухгалтерскому делу.
+            [o_course] => 8
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => По методичке,7 вариант
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1400529600
+            [f_part] => 0
+            [f_comment] => Вариант №7.
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => МГТУ им.Носова
+            [user] => new
+            [fio] => Повх Эльмира Шамилевна
+            [phone] => 
+            [mphone] => 89090962274
+            [email] => girl_mir@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => ЗАДАНИЕ.docx
+                    [md5] => b32d6f1e2e2fef43296e4db8a03a2314
+                )
+
+            [1] => Array
+                (
+                    [fname] => МЕТОДИЧКА.doc
+                    [md5] => ad80ccb7aeb9db6d834021b4e71849ef
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phprVojCb
+            [files[1]] => @/tmp/phpwd2a0X
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => girl_mir@mail.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

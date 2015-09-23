@@ -1,0 +1,221 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Задачи по начертательной геометрии на А4
+            [o_course] => 116
+            [o_type] => 20
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1424120400
+            [f_part] => 0
+            [f_comment] => Задачи решить на А4
+            [o_precost] => 
+            [o_cc] => Екатеринбург
+            [country] => 
+            [city] => Екатеринбург
+            [o_vuz] => УрФУ
+            [user] => new
+            [fio] => Мельник Дмитрий Игоревич
+            [phone] => 
+            [mphone] => 89226573482
+            [email] => Dmitrii.Russia2014@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 2.png
+                    [md5] => 8380caf864b86b838ae12be7884881fb
+                )
+
+            [1] => Array
+                (
+                    [fname] => 4.png
+                    [md5] => bdeb0f1e473bed49844c432ab23fc142
+                )
+
+            [2] => Array
+                (
+                    [fname] => 5.png
+                    [md5] => cf7f8d73c679078b96621c8b76c1aaef
+                )
+
+            [3] => Array
+                (
+                    [fname] => 6.png
+                    [md5] => 173928ae0b03ec21b4964775f140d84c
+                )
+
+            [4] => Array
+                (
+                    [fname] => 7.png
+                    [md5] => c2e15a983790e59c07b95156c62e0a03
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpEzJsfA
+            [files[1]] => @/tmp/php26IGyx
+            [files[2]] => @/tmp/php0yxVRu
+            [files[3]] => @/tmp/phpOr4abs
+            [files[4]] => @/tmp/phpmchrup
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => Dmitrii.Russia2014
+            [password] => 2ea5e
+            [fio] => Мельник Дмитрий Игоревич
+            [email] => Dmitrii.Russia2014@yandex.ru
+            [idu] => 202655
+            [ido] => 190742
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Задачи по начертательной геометрии на А4
+                            [o_course] => 116
+                            [o_type] => 20
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1424120400
+                            [f_part] => 0
+                            [f_comment] => Задачи решить на А4
+                            [o_precost] => 
+                            [o_cc] => Екатеринбург
+                            [country] => 
+                            [city] => Екатеринбург
+                            [o_vuz] => УрФУ
+                            [user] => new
+                            [fio] => Мельник Дмитрий Игоревич
+                            [phone] => 
+                            [mphone] => 89226573482
+                            [email] => Dmitrii.Russia2014@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Задачи по начертательной геометрии на А4
+    [o_course] => 116
+    [o_type] => 20
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1424120400
+    [f_part] => 0
+    [f_comment] => Задачи решить на А4
+    [o_precost] => 
+    [o_cc] => Екатеринбург
+    [country] => 
+    [city] => Екатеринбург
+    [o_vuz] => УрФУ
+    [user] => new
+    [fio] => Мельник Дмитрий Игоревич
+    [phone] => 
+    [mphone] => 89226573482
+    [email] => Dmitrii.Russia2014@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Мельник Дмитрий Игоревич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №190742 на тему: "Задачи по начертательной геометрии на А4".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: Dmitrii.Russia2014</p>
+<p>Пароль: 2ea5e</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

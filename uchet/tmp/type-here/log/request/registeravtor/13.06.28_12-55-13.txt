@@ -1,0 +1,84 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => jeniok
+            [a_pass] => 2424646q
+            [a_fio] => Шамрай Евгения Викторовна
+            [a_mphone] => 380992873743
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => post.ya-freelancer@yandex.ua
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 28
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 74
+                    [1] => 6
+                    [2] => 48
+                    [3] => 76
+                    [4] => 61
+                    [5] => 71
+                    [6] => 137
+                    [7] => 149
+                    [8] => 82
+                    [9] => 2
+                    [10] => 56
+                    [11] => 1
+                    [12] => 186
+                    [13] => 63
+                    [14] => 188
+                    [15] => 184
+                    [16] => 146
+                    [17] => 121
+                    [18] => 7
+                    [19] => 5
+                    [20] => 52
+                    [21] => 49
+                    [22] => 36
+                    [23] => 23
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 102468
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

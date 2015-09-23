@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 154948
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Дорожкина Оксана
+            [phone] => 375
+            [mphone] => 37525
+            [email] => dorochka174@mail.ru
+            [icq] => 
+            [contact] => 
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 
+            [country] => Россия
+            [city] => Магнитогорск
+            [speciality] => 
+            [orders_before] => 
+            [time_to_call] => до 21,00
+            [payment_method] => карта  сбербанка
+            [university] => МГТУ им. Носова
+            [examinations_time] => Array
+                (
+                    [0] => 17.06.2014
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

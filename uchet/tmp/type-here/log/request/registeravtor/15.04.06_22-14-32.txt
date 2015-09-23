@@ -1,0 +1,96 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => alina-gilmetdinova@yandex.ru
+            [a_pass] => a4410a0199424a
+            [a_fio] => Гилметдинова Алина Рамилевна
+            [a_mphone] => 9193586069
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => alina-gilmetdinova@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 0
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 65
+                    [1] => 55
+                    [2] => 81
+                    [3] => 114
+                    [4] => 29
+                    [5] => 91
+                    [6] => 27
+                    [7] => 82
+                    [8] => 11
+                    [9] => 90
+                    [10] => 215
+                    [11] => 28
+                    [12] => 116
+                    [13] => 197
+                    [14] => 92
+                    [15] => 263
+                    [16] => 17
+                    [17] => 249
+                    [18] => 275
+                    [19] => 18
+                    [20] => 31
+                    [21] => 212
+                    [22] => 115
+                    [23] => 248
+                    [24] => 79
+                    [25] => 30
+                    [26] => 89
+                    [27] => 218
+                    [28] => 95
+                    [29] => 147
+                    [30] => 166
+                    [31] => 148
+                    [32] => 34
+                    [33] => 25
+                    [34] => 60
+                    [35] => 87
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 212262
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

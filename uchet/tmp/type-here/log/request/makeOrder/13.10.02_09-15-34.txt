@@ -1,0 +1,171 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Контрольная работа,5 вопросов,2 задачи
+            [o_course] => 55
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => выполнить все требования по методички
+            [o_client_srok] => 1381694400
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Исянгулово
+            [country] => 
+            [city] => Исянгулово
+            [o_vuz] => МГТУ им.Носова
+            [user] => new
+            [fio] => исмагилова гульсясяк ирековна
+            [phone] => 
+            [mphone] => 89279579998
+            [email] => devushkaziza@rambler.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => мои задания по БЖД.rtf
+                    [md5] => ec512072795c0524a22e57a0a4e88d4d
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpdBsKYv
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => devushkaziza
+            [password] => b0108
+            [fio] => исмагилова гульсясяк ирековна
+            [email] => devushkaziza@rambler.ru
+            [idu] => 115554
+            [ido] => 104177
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 55
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1381694400
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89279579998
+                            [email] => devushkaziza@rambler.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Контрольная работа,5 вопросов,2 задачи
+    [o_course] => 55
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => выполнить все требования по методички
+    [o_client_srok] => 1381694400
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Исянгулово
+    [country] => 
+    [city] => Исянгулово
+    [o_vuz] => МГТУ им.Носова
+    [user] => new
+    [fio] => исмагилова гульсясяк ирековна
+    [phone] => 
+    [mphone] => 89279579998
+    [email] => devushkaziza@rambler.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, исмагилова гульсясяк ирековна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №104177 на тему: "Контрольная работа,5 вопросов,2 задачи".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: devushkaziza</p>
+<p>Пароль: b0108</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

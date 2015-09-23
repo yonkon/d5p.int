@@ -1,0 +1,100 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => sessija-profvolg
+            [a_pass] => 14072012fyyf
+            [a_fio] => Шиянова Анна Олеговна
+            [a_mphone] => 9375322504
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => kastrikina7609@yandex.ru
+            [a_icq] => 
+            [a_skype] => anysik7609
+            [a_fromknow] => 0
+            [a_contact] => Г.Волгоград
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 76
+                    [1] => 61
+                    [2] => 195
+                    [3] => 58
+                    [4] => 54
+                    [5] => 137
+                    [6] => 181
+                    [7] => 171
+                    [8] => 80
+                    [9] => 35
+                    [10] => 149
+                    [11] => 37
+                    [12] => 173
+                    [13] => 56
+                    [14] => 1
+                    [15] => 83
+                    [16] => 186
+                    [17] => 63
+                    [18] => 51
+                    [19] => 192
+                    [20] => 13
+                    [21] => 14
+                    [22] => 129
+                    [23] => 109
+                    [24] => 15
+                    [25] => 67
+                    [26] => 16
+                    [27] => 112
+                    [28] => 103
+                    [29] => 104
+                    [30] => 50
+                    [31] => 47
+                    [32] => 25
+                    [33] => 84
+                    [34] => 60
+                    [35] => 113
+                    [36] => 85
+                    [37] => 72
+                    [38] => 117
+                    [39] => 26
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 131225
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

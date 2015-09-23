@@ -1,0 +1,68 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => klimovich.stasya
+            [a_pass] => st99999asya
+            [a_fio] => Меркулова Анастасия Александровна
+            [a_mphone] => 79085875654
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => klimovich.stasya@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 7
+            [a_contact] => г.Магнитогорск, ул.Жукова, д.33, вк.131
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 58
+                    [1] => 54
+                    [2] => 11
+                    [3] => 129
+                    [4] => 40
+                    [5] => 64
+                    [6] => 117
+                    [7] => 26
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 131580
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

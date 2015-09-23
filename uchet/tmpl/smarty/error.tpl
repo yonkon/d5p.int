@@ -1,0 +1,1 @@
+{if count($errorCodes)}<div style="border:dashed 1px red;padding:3px;color:red;">{foreach from=$errorCodes key=k item=v}{if isset($lang.errors[$k])}{if $lang.errors[$k] != 'default'}{eval var=$lang.errors[$k]}<br />{else}{$lang.errors.default}({$k}){/if}{else}Ошибка № {$k}<br />{/if}{/foreach}</div>{/if}

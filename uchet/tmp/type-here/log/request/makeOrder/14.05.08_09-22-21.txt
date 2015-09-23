@@ -1,0 +1,363 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Задачи, сколько?
+            [o_course] => 45
+            [o_type] => 20
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1400011200
+            [f_part] => 0
+            [f_comment] => 9 практических контрольных работ все 1 вариант
+            [o_precost] => 
+            [o_cc] => Магнитогорск.
+            [country] => 
+            [city] => Магнитогорск.
+            [o_vuz] => 
+            [user] => new
+            [fio] => Виктория данилюк
+            [phone] => 
+            [mphone] => 8 9630965517
+            [email] => d.vika.1994@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 20140430_124548.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [1] => Array
+                (
+                    [fname] => 20140430_124605.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [2] => Array
+                (
+                    [fname] => 20140430_124613.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [3] => Array
+                (
+                    [fname] => 20140430_124621.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [4] => Array
+                (
+                    [fname] => 20140430_124625.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [5] => Array
+                (
+                    [fname] => 20140430_124642.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [6] => Array
+                (
+                    [fname] => 20140430_124646.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [7] => Array
+                (
+                    [fname] => 20140430_124704.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [8] => Array
+                (
+                    [fname] => 20140430_124721.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [9] => Array
+                (
+                    [fname] => 20140430_124731.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [10] => Array
+                (
+                    [fname] => 20140430_124740.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [11] => Array
+                (
+                    [fname] => 20140430_124743.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [12] => Array
+                (
+                    [fname] => 20140430_124753.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [13] => Array
+                (
+                    [fname] => 20140430_124758.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [14] => Array
+                (
+                    [fname] => 20140430_124803.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [15] => Array
+                (
+                    [fname] => 20140430_124807.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+            [16] => Array
+                (
+                    [fname] => 20140430_124811.jpg
+                    [md5] => d41d8cd98f00b204e9800998ecf8427e
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phplTUcgp
+            [files[1]] => @/tmp/phpYybqrc
+            [files[2]] => @/tmp/phpvtTDCZ
+            [files[3]] => @/tmp/phpSkLRNM
+            [files[4]] => @/tmp/phpTWU5Yz
+            [files[5]] => @/tmp/phpyPqkan
+            [files[6]] => @/tmp/php1dlzla
+            [files[7]] => @/tmp/php6dLOwX
+            [files[8]] => @/tmp/phpTQE4HK
+            [files[9]] => @/tmp/phpWhYkTx
+            [files[10]] => @/tmp/phpzJxB4k
+            [files[11]] => @/tmp/php0qnSf8
+            [files[12]] => @/tmp/phpPew9qV
+            [files[13]] => @/tmp/php2mPqCI
+            [files[14]] => @/tmp/php1jqINv
+            [files[15]] => @/tmp/phpmyj0Yi
+            [files[16]] => @/tmp/phpV1uia6
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => d.vika.1994
+            [password] => b0ad2
+            [fio] => Виктория данилюк
+            [email] => d.vika.1994@mail.ru
+            [idu] => 157160
+            [ido] => 147735
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Задачи, сколько?
+                            [o_course] => 45
+                            [o_type] => 20
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1400011200
+                            [f_part] => 0
+                            [f_comment] => 9 практических контрольных работ все 1 вариант
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск.
+                            [country] => 
+                            [city] => Магнитогорск.
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => Виктория данилюк
+                            [phone] => 
+                            [mphone] => 8 9630965517
+                            [email] => d.vika.1994@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [6] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [7] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [8] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [9] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [10] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [11] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [12] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [13] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [14] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [15] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [16] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Задачи, сколько?
+    [o_course] => 45
+    [o_type] => 20
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1400011200
+    [f_part] => 0
+    [f_comment] => 9 практических контрольных работ все 1 вариант
+    [o_precost] => 
+    [o_cc] => Магнитогорск.
+    [country] => 
+    [city] => Магнитогорск.
+    [o_vuz] => 
+    [user] => new
+    [fio] => Виктория данилюк
+    [phone] => 
+    [mphone] => 8 9630965517
+    [email] => d.vika.1994@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Виктория данилюк!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №147735 на тему: "Задачи, сколько?".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: d.vika.1994</p>
+<p>Пароль: b0ad2</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

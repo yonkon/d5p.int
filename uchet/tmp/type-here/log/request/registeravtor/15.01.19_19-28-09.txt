@@ -1,0 +1,72 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => ksanderrat
+            [a_pass] => ksander7503
+            [a_fio] => Мальцев Александр Сергеевич
+            [a_mphone] => 79222282913
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => ksanderrat@gmail.com
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 6
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 105
+                    [1] => 48
+                    [2] => 137
+                    [3] => 181
+                    [4] => 149
+                    [5] => 182
+                    [6] => 22
+                    [7] => 49
+                    [8] => 36
+                    [9] => 23
+                    [10] => 84
+                    [11] => 85
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 198519
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

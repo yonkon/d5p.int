@@ -1,0 +1,207 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 139011
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Антикризисное управление
+            [o_course] => 161
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1422738000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Варианты.doc
+                    [md5] => 93f88bcd8b80bf318dd39275fe62467a
+                )
+
+            [1] => Array
+                (
+                    [fname] => учебное пособие AY04.pdf
+                    [md5] => 3c8ff5265780dfde0aa7eb76c3d1acee
+                )
+
+            [2] => Array
+                (
+                    [fname] => zad_sm.xls
+                    [md5] => a34ea143212dbe742cecd4453500168e
+                )
+
+            [3] => Array
+                (
+                    [fname] => зад_конкурсн_масс.doc
+                    [md5] => 7c1532d3ecc9e1d638271d4ec6c6bec0
+                )
+
+            [4] => Array
+                (
+                    [fname] => VPR_515_516.DOC
+                    [md5] => 3a20e2e6fa1a2d4402c20b5ec0c21876
+                )
+
+            [5] => Array
+                (
+                    [fname] => zadach_512.xls
+                    [md5] => 9c64c6f46d439cac743064a99033c954
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpp940ks
+            [files[1]] => @/tmp/php5SS77U
+            [files[2]] => @/tmp/phpFH2SVn
+            [files[3]] => @/tmp/phpFldFJQ
+            [files[4]] => @/tmp/phpxzysxj
+            [files[5]] => @/tmp/phpJr7glM
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Гадыльшина Анна Евгеньевна
+            [email] => anjagadylshina@mail.ru
+            [idu] => 139011
+            [ido] => 187158
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Антикризисное управление
+                            [o_course] => 161
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1422738000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [5] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Антикризисное управление
+    [o_course] => 161
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1422738000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Гадыльшина Анна Евгеньевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №187158 на тему: "Антикризисное управление".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: anjagadylshina1</p>
+<p>Пароль: d3fc2</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

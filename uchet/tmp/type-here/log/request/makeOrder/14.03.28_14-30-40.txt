@@ -1,0 +1,110 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => финансовые инструменты повышения конкурентоспособности компании
+            [o_course] => 23
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 80-90 страниц
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => универсальность 70%
+            [o_client_srok] => 1397505600
+            [f_part] => 0
+            [f_comment] => Убедительная просьба в главе1 пп1.3( Финансовые инструменты как основа для обеспечения конкурентоспособности современных компаний) показать выбор финансовых инструментов и эффективное использование фин. инструментов для повышения клонкурен.
+
+ В работе должны быть использованы формулы. Рассмотрены разные финансовые инструменты: кредиты краткосрочные и долгосрочные, ипотечный кредит, лизинг, выпуск акций, облигаций, векселей , форфейтинг и др.
+
+ Учесть , что фин. инструменты имеют подвиды и как это можно эффективно  использовать для нашего предприятия, допустим ОАО "Рога и копыта"
+            [o_precost] => 
+            [o_cc] => москва
+            [country] => 
+            [city] => москва
+            [o_vuz] => ИНЭП
+            [user] => new
+            [fio] => Питухина Анна
+            [phone] => 
+            [mphone] => 8-964-512-37-55
+            [email] => anna1971@mail.mipt.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Тема дипломной работы.doc
+                    [md5] => 44297864a6f7f2f6737d9a7b715cfe70
+                )
+
+            [1] => Array
+                (
+                    [fname] => методичка.doc
+                    [md5] => 691de3ec60a91e9e1a0e487ef10cdd46
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php4S3uQN
+            [files[1]] => @/tmp/phplHVZEw
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [3] => Array
+                (
+                    [email] => anna1971@mail.mipt.ru
+                )
+
+        )
+
+    [code] => 1
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => 
+)
+
+
+

@@ -1,0 +1,193 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 136165
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Тема курсовой: "Анализ использования прибыли предприятия". (Предмет по которому делается курсовая, называется: Комплексный экономический анализ хозяйственной деятельности)Я просто не нашла его в списке.
+            [o_course] => 74
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 20-25 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1389643200
+            [f_part] => 0
+            [f_comment] => Прикрепляю методичку где написано как оформить курсовую и что в нее должно быть включено.
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Изображение 001.jpg
+                    [md5] => af258a2d7e0a7ca7af73d0f443df6e25
+                )
+
+            [1] => Array
+                (
+                    [fname] => Изображение 002.jpg
+                    [md5] => 265a0e765f71e08c794699c9cbbd9ec7
+                )
+
+            [2] => Array
+                (
+                    [fname] => Изображение 003.jpg
+                    [md5] => e75ef8ba5e48ad870cfe0939591efc34
+                )
+
+            [3] => Array
+                (
+                    [fname] => Изображение 004.jpg
+                    [md5] => bd8cab1b27d5866e94e39da76ebb0e9e
+                )
+
+            [4] => Array
+                (
+                    [fname] => Изображение 005.jpg
+                    [md5] => 63c9a52ae30fb23370377e3ce03c0bc3
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpx0128s
+            [files[1]] => @/tmp/phpzMfGrw
+            [files[2]] => @/tmp/phpzpsDKz
+            [files[3]] => @/tmp/phpPeNW3C
+            [files[4]] => @/tmp/phpvrcznG
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Евграшина Мария Юрьевна
+            [email] => romanova_93_2010@mail.ru
+            [idu] => 136165
+            [ido] => 121812
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 74
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1389643200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Тема курсовой: "Анализ использования прибыли предприятия". (Предмет по которому делается курсовая, называется: Комплексный экономический анализ хозяйственной деятельности)Я просто не нашла его в списке.
+    [o_course] => 74
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 20-25 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1389643200
+    [f_part] => 0
+    [f_comment] => Прикрепляю методичку где написано как оформить курсовую и что в нее должно быть включено.
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им. Носова
+    [refid] => 0
+)
+<p>Здравствуйте, Евграшина Мария Юрьевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №121812 на тему: "Тема курсовой: &quot;Анализ использования прибыли предприятия&quot;. (Предмет по которому делается курсовая, называется: Комплексный экономический анализ хозяйственной деятельности)Я просто не нашла его в списке.".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: romanova_93_2010</p>
+<p>Пароль: 4622a</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

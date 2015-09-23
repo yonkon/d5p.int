@@ -1,0 +1,64 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => mukasheva-1986
+            [a_pass] => 4ac15
+            [a_fio] => Мукашева Светлана Сергеевна
+            [a_mphone] => 79193056492
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => vukasheva-1986@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 26
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => mukasheva-1986
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

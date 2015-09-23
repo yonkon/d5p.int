@@ -1,0 +1,204 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 174714
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Карточка определитель для курсового проекта (одноэтажное промышленное здание)
+            [o_course] => 177
+            [o_type] => 9
+            [o_shcooltype] => 
+            [o_volume] => 
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1430773200
+            [f_part] => 0
+            [f_comment] => Пример карточки определителя.
+Данные:
+количество поперечных пролетов и их размеры-3,
+размер-4,шаг колон-4,длина здания(L)-4,ген.план-2
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => 1.jpg
+                    [md5] => e354479c2dceb75534d449bd8bf7182a
+                )
+
+            [1] => Array
+                (
+                    [fname] => 2.jpg
+                    [md5] => 9a5e587e9c86c3e6e2f0654f633cbf54
+                )
+
+            [2] => Array
+                (
+                    [fname] => 3.jpg
+                    [md5] => 880fb088eae97fa8d677f94c6259bffa
+                )
+
+            [3] => Array
+                (
+                    [fname] => 4.jpg
+                    [md5] => 8fbe8de70213ab35d2b9733decccfbf5
+                )
+
+            [4] => Array
+                (
+                    [fname] => 5.jpg
+                    [md5] => 39529cc8dcc7393bd08ed452f044ebfa
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpdLrBHO
+            [files[1]] => @/tmp/phpRhAQgm
+            [files[2]] => @/tmp/phpxLnCQT
+            [files[3]] => @/tmp/phpHETSqr
+            [files[4]] => @/tmp/phpLovC1Y
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => Мамлеев Артур Эмильевич
+            [email] => spanch_90@bk.ru
+            [idu] => 174714
+            [ido] => 205008
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Карточка определитель для курсового проекта (одноэтажное промышленное здание)
+                            [o_course] => 177
+                            [o_type] => 9
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1430773200
+                            [f_part] => 0
+                            [f_comment] => Пример карточки определителя.
+Данные:
+количество поперечных пролетов и их размеры-3,
+размер-4,шаг колон-4,длина здания(L)-4,ген.план-2
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [4] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Карточка определитель для курсового проекта (одноэтажное промышленное здание)
+    [o_course] => 177
+    [o_type] => 9
+    [o_shcooltype] => 
+    [o_volume] => 
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1430773200
+    [f_part] => 0
+    [f_comment] => Пример карточки определителя.
+Данные:
+количество поперечных пролетов и их размеры-3,
+размер-4,шаг колон-4,длина здания(L)-4,ген.план-2
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Мамлеев Артур Эмильевич!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №205008 на тему: "Карточка определитель для курсового проекта (одноэтажное промышленное здание)".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: spanch_90</p>
+<p>Пароль: 721a1</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

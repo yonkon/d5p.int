@@ -1,0 +1,52 @@
+Array
+(
+    [debug] => 
+    [act] => authorizeRemoteUser
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [type] => create
+            [login] => tmv-plus@yandex.ru
+            [pass] => 183927
+            [long] => no
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [9] => Array
+                (
+                    [login] => tmv-plus@yandex.ru
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

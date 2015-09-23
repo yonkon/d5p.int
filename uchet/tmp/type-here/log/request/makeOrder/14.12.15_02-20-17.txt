@@ -1,0 +1,54 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 192914
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => КОНТРОЛЬНАЯ РАБОТА № 1
+по современному русскому языку для студентов 1 курса
+заочного отделения департамента «Факультет журналистики» (2014-2015 уч. год)
+СМЫСЛОВАЯ СТРУКТУРА ТЕКСТА
+            [o_course] => 275
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 4 средних задания
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1418763600
+            [f_part] => 0
+            [f_comment] => это задания которые нужно выполнить, расписывая все полностью, особое внимание нужно уделить 1му заданию
+            [o_precost] => 
+            [o_cc] => екатеринбург
+            [country] => 
+            [city] => екатеринбург
+            [o_vuz] => УРФУ
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => KR_1_2014-15 (1).docx
+                    [md5] => 719f9b68d58682f2d5ea7ff53c26ae5f
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpsivf2O
+        )
+
+)
+
+
+

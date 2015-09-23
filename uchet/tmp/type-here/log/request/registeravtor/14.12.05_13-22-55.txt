@@ -1,0 +1,65 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => gorbunov_sambo
+            [a_pass] => 0e36e
+            [a_fio] => Горбунов Даниил Алексеевич
+            [a_mphone] => 79826729814
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => gorbunov_sambo95@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+            [8] => Array
+                (
+                    [login] => gorbunov_sambo
+                )
+
+        )
+
+    [code] => 1
+    [textOut] => 
+)
+
+
+

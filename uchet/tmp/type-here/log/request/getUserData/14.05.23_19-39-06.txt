@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => getUserData
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 158161
+    [strong] => *hidden*
+    [data] => Array
+        (
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [fio] => каракина ксения
+            [phone] => 
+            [mphone] => 89088130520
+            [email] => ksucha1101@mail.ru
+            [icq] => 
+            [contact] => 
+            [c_send_alert] => y
+            [skype] => 
+            [other_contact] => 
+            [web] => 
+            [birthday] => 
+            [country] => Россия
+            [city] => магнитогорск
+            [speciality] => учитель
+            [orders_before] => 
+            [time_to_call] => 
+            [payment_method] => 
+            [university] => МаГУ теперь МГТУ им.Носова
+            [examinations_time] => Array
+                (
+                    [0] => 02.06.2014
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

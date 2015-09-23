@@ -1,0 +1,183 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Вариант 2
+            [o_course] => 82
+            [o_type] => 4
+            [o_shcooltype] => 
+            [o_volume] => 15 задач
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1403208000
+            [f_part] => 0
+            [f_comment] => Прикрепленные файлы - задание контрольной работы.
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ им. Носова
+            [user] => new
+            [fio] => Зыкова Наталья Ивановна
+            [phone] => 
+            [mphone] => 89512518285
+            [email] => tasha.mz@bk.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => image.jpg
+                    [md5] => 4a8f1678b5a5deb715d75952182ab119
+                )
+
+            [1] => Array
+                (
+                    [fname] => image.jpg
+                    [md5] => 59fe7f789f8d1eb92cc881aeb9114455
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpRcynAM
+            [files[1]] => @/tmp/phpHNQmYH
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => tasha.mz
+            [password] => eb61c
+            [fio] => Зыкова Наталья Ивановна
+            [email] => tasha.mz@bk.ru
+            [idu] => 164578
+            [ido] => 155725
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Вариант 2
+                            [o_course] => 82
+                            [o_type] => 4
+                            [o_shcooltype] => 
+                            [o_volume] => 15 задач
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1403208000
+                            [f_part] => 0
+                            [f_comment] => Прикрепленные файлы - задание контрольной работы.
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => МГТУ им. Носова
+                            [user] => new
+                            [fio] => Зыкова Наталья Ивановна
+                            [phone] => 
+                            [mphone] => 89512518285
+                            [email] => tasha.mz@bk.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Вариант 2
+    [o_course] => 82
+    [o_type] => 4
+    [o_shcooltype] => 
+    [o_volume] => 15 задач
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1403208000
+    [f_part] => 0
+    [f_comment] => Прикрепленные файлы - задание контрольной работы.
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ им. Носова
+    [user] => new
+    [fio] => Зыкова Наталья Ивановна
+    [phone] => 
+    [mphone] => 89512518285
+    [email] => tasha.mz@bk.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Зыкова Наталья Ивановна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №155725 на тему: "Вариант 2".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: tasha.mz</p>
+<p>Пароль: eb61c</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

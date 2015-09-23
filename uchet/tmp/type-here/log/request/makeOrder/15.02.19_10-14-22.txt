@@ -1,0 +1,153 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Две связанные системы Ресслера с внешним воздействием
+            [o_course] => 166
+            [o_type] => 1
+            [o_shcooltype] => 
+            [o_volume] => 40 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => Необходимо построения карт динамических режимов,также построения фазовых портретов и спектров,мы используем обычно язык программирования Delphi,mathematica,mathcad,Wavelets lab.
+            [o_client_srok] => 1424333115
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Саратов
+            [country] => 
+            [city] => Саратов
+            [o_vuz] => Саратовский Государственный Университет им Чернышевского
+            [user] => new
+            [fio] => Сидорова Анна Валерьевна
+            [phone] => 
+            [mphone] => 89372405409
+            [email] => rymanchutka@yandex.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => rymanchutka
+            [password] => 30a84
+            [fio] => Сидорова Анна Валерьевна
+            [email] => rymanchutka@yandex.ru
+            [idu] => 203692
+            [ido] => 192080
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Две связанные системы Ресслера с внешним воздействием
+                            [o_course] => 166
+                            [o_type] => 1
+                            [o_shcooltype] => 
+                            [o_volume] => 40 листов
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => Необходимо построения карт динамических режимов,также построения фазовых портретов и спектров,мы используем обычно язык программирования Delphi,mathematica,mathcad,Wavelets lab.
+                            [o_client_srok] => 1424333115
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Саратов
+                            [country] => 
+                            [city] => Саратов
+                            [o_vuz] => Саратовский Государственный Университет им Чернышевского
+                            [user] => new
+                            [fio] => Сидорова Анна Валерьевна
+                            [phone] => 
+                            [mphone] => 89372405409
+                            [email] => rymanchutka@yandex.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => Array
+(
+    [o_thema] => Две связанные системы Ресслера с внешним воздействием
+    [o_course] => 166
+    [o_type] => 1
+    [o_shcooltype] => 
+    [o_volume] => 40 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => Необходимо построения карт динамических режимов,также построения фазовых портретов и спектров,мы используем обычно язык программирования Delphi,mathematica,mathcad,Wavelets lab.
+    [o_client_srok] => 1424333115
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Саратов
+    [country] => 
+    [city] => Саратов
+    [o_vuz] => Саратовский Государственный Университет им Чернышевского
+    [user] => new
+    [fio] => Сидорова Анна Валерьевна
+    [phone] => 
+    [mphone] => 89372405409
+    [email] => rymanchutka@yandex.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Сидорова Анна Валерьевна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №192080 на тему: "Две связанные системы Ресслера с внешним воздействием".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: rymanchutka</p>
+<p>Пароль: 30a84</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Екатеринбург, ул.Ленина 24/8. 4 этаж. Офис №426. Метро: Площадь 1905 года</p>
+<p>Тел.:8-982-70-06-555, 8-904-97-97-555.</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.:43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

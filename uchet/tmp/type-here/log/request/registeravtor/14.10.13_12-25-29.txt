@@ -1,0 +1,67 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => anna_sukleta
+            [a_pass] => anna1991
+            [a_fio] => Суклета Анна Алексеевна
+            [a_mphone] => 9126845874
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => anna-sukleta@yandex.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 7
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 252
+                    [1] => 256
+                    [2] => 255
+                    [3] => 89
+                    [4] => 88
+                    [5] => 39
+                    [6] => 193
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 179047
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

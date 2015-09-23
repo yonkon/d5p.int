@@ -1,0 +1,127 @@
+.customScrollerContainer {
+
+}
+.customScrollerContent {
+
+}
+
+/* SCROLLER STYLE */
+/* VERTICAL */
+.divVScrollerBar {
+	width: 18px;
+	margin-left: 1px;
+}
+
+/* ORIZONTAL */
+.divOScrollerBar {
+	height: 18px;
+	margin-top: 1px;
+}
+
+/* AREA UP */
+.divVScrollerBarUp {
+	cursor: pointer;
+	height: 17px;
+}
+/* AREA LEFT */
+.divOScrollerBarLeft {
+	cursor: pointer;
+	width: 17px;
+}
+/* AREA DOWN */
+.divVScrollerBarDown {
+	cursor: pointer;
+	height: 17px;
+}
+/* AREA RIGHT */
+.divOScrollerBarRight {
+	cursor: pointer;
+	width: 17px;
+}
+/* ARROW UP AND DOWN */
+.divVScrollerBarUp span,
+.divVScrollerBarDown span {
+	display: block;
+	/*border: 1px solid #dae4eb;*/	
+	width: 16px;
+	height: 15px;
+	line-height: 0;
+	font-size: 0;
+}
+.divVScrollerBarUp span {
+	background: #baccda url(../images/vtop.gif) no-repeat center center;
+}
+.divVScrollerBarDown span {
+	background: #baccda url(../images/vbottom.gif) no-repeat center center;
+}
+/* ARROW LEFT AND RIGHT */
+.divOScrollerBarLeft span,
+.divOScrollerBarRight span {
+	display: block;
+	border: 1px solid #dae4eb;
+	height: 16px;
+	width: 15px;
+	line-height: 0;
+	font-size: 0;
+}
+.divOScrollerBarLeft span {
+	background: #baccda url(../images/oleft.gif) no-repeat center center;
+}
+.divOScrollerBarRight span {
+	background: #baccda url(../images/oright.gif) no-repeat center center;
+}
+
+/* ARROWS HOVER */
+.divVScrollerBarUp span.hover,
+.divOScrollerBarLeft span.hover,
+.divVScrollerBarDown span.hover,
+.divOScrollerBarRight span.hover {
+	border: 1px solid #a3bbce;
+	background-color: #527fa2;
+}
+
+/* TRACE */
+.divVScrollerBarTrace, .divOScrollerBarTrace {
+	background-color: #f1f5f8;
+	line-height: 0;
+	font-size: 0;
+}
+
+/* CURSORS */
+.divVScrollerBarCursor {
+	cursor: pointer;
+}
+.divOScrollerBarCursor {
+	cursor: pointer;
+}
+.divVScrollerBarCursor span {
+	display: block;
+	border-left: 1px solid #dae4eb;
+	border-right: 1px solid #dae4eb;
+	height: 100%;
+	width: 16px;
+	background: #baccda url(../images/vcursor.gif) no-repeat center center;
+	line-height: 0;
+	font-size: 0;
+}
+.divOScrollerBarCursor span {
+	display: block;
+	border-top: 1px solid #dae4eb;
+	border-bottom: 1px solid #dae4eb;
+	height: 16px;
+	width: 100%;
+	background: #baccda url(../images/ocursor.gif) no-repeat center center;
+	line-height: 0;
+	font-size: 0;
+}
+/* CURSORS HOVER */
+.divVScrollerBarCursor span.hover {
+	border-left: 1px solid #a3bbce;
+	border-right: 1px solid #a3bbce;
+	background-color: #527fa2;
+}
+.divOScrollerBarCursor span.hover {
+	border-top: 1px solid #a3bbce;
+	border-bottom: 1px solid #a3bbce;
+	background-color: #527fa2;
+}

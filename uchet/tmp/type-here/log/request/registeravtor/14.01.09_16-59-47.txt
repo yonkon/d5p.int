@@ -1,0 +1,66 @@
+Array
+(
+    [debug] => 
+    [act] => registeravtor
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [a_login] => veduk
+            [a_pass] => 4234349334
+            [a_fio] => Маминов Сергей Валерьевич
+            [a_mphone] => 79514445675
+            [a_phone] => 
+            [a_web] => 
+            [a_email] => sergejjmaminv@mail.ru
+            [a_icq] => 
+            [a_skype] => 
+            [a_fromknow] => 2
+            [a_contact] => 
+            [a_other_contact] => 
+            [a_special] => Array
+                (
+                    [0] => 105
+                    [1] => 6
+                    [2] => 48
+                    [3] => 8
+                    [4] => 45
+                    [5] => 23
+                )
+
+        )
+
+    [files_data] => Array
+        (
+        )
+
+    [files_send] => Array
+        (
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [idu] => 136241
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [textOut] => 
+)
+
+
+

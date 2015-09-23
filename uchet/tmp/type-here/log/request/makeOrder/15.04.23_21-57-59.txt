@@ -1,0 +1,195 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Особенности речевого развития детей раннего возраста с нарушениями слуха
+            [o_course] => 13
+            [o_type] => 2
+            [o_shcooltype] => 
+            [o_volume] => 30 листов
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1433106000
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => МГТУ
+            [user] => new
+            [fio] => Лесняк Олеся Александровна
+            [phone] => 
+            [mphone] => 890805570222
+            [email] => olesya_lesnyak@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => MU_-_Kursovaya_rabota.doc
+                    [md5] => 4306b789e2c79829045b5c2ec605cb3b
+                )
+
+            [1] => Array
+                (
+                    [fname] => TREBOVANIYa_K_OFORMLENIYu_I_FORMATIROVANIYu_VKR.doc
+                    [md5] => e5be37dd6f12e362338be1be6af0df27
+                )
+
+            [2] => Array
+                (
+                    [fname] => SPISOK_ISPOL_ZOVANNOJ_I_TsITIRUEMOJ_LITERATURY_O.doc
+                    [md5] => 7253c80b63308db26cf19e503bd6f346
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpCxmlqx
+            [files[1]] => @/tmp/phpZ29IF5
+            [files[2]] => @/tmp/phpKOE9UD
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => olesya_lesnyak
+            [password] => ae556
+            [fio] => Лесняк Олеся Александровна
+            [email] => olesya_lesnyak@mail.ru
+            [idu] => 216954
+            [ido] => 208306
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Особенности речевого развития детей раннего возраста с нарушениями слуха
+                            [o_course] => 13
+                            [o_type] => 2
+                            [o_shcooltype] => 
+                            [o_volume] => 30 листов
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1433106000
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => Магнитогорск
+                            [country] => 
+                            [city] => Магнитогорск
+                            [o_vuz] => МГТУ
+                            [user] => new
+                            [fio] => Лесняк Олеся Александровна
+                            [phone] => 
+                            [mphone] => 890805570222
+                            [email] => olesya_lesnyak@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Особенности речевого развития детей раннего возраста с нарушениями слуха
+    [o_course] => 13
+    [o_type] => 2
+    [o_shcooltype] => 
+    [o_volume] => 30 листов
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1433106000
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => МГТУ
+    [user] => new
+    [fio] => Лесняк Олеся Александровна
+    [phone] => 
+    [mphone] => 890805570222
+    [email] => olesya_lesnyak@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Лесняк Олеся Александровна!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №208306 на тему: "Особенности речевого развития детей раннего возраста с нарушениями слуха".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: olesya_lesnyak</p>
+<p>Пароль: ae556</p>_ _ _
+<p>С уважением, коллектив компании "5+"!!!</p>
+<p>г. Магнитогорск, ул.Труда 31,а. 3 этаж. Офис №12.</p>
+<p>Тел.: 8(3519)43-13-55, 8-904-97-97-555.</p>
+<p>www.diplom5plus.ru</p>
+<p>http://vkontakte.ru/diplom_5_s_plusom</p>
+<p>Ваш успех - это наше стремление!!!</p>
+)
+
+
+

@@ -1,0 +1,207 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => реферат по биологи, введение в проф-пед. деят.-контр. логика в юриспруд контольн по вариант. теория гос и права курсовая на тему "законность и правопорядок.
+            [o_course] => 129
+            [o_type] => 10
+            [o_shcooltype] => 
+            [o_volume] => 3 контрольных и 1 курсовая
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => по биологии стр 17 п.6.4 5вариант. Введение в проф-деят идет описание консп.(эссе) логика 5 вариант
+            [o_client_srok] => 1385323200
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => Магнитогорск
+            [country] => 
+            [city] => Магнитогорск
+            [o_vuz] => РГППУ
+            [user] => new
+            [fio] => Иманкулова С.Р
+            [phone] => 
+            [mphone] => 89049771207
+            [email] => saule.imankulova.92@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => Метод.пособие_Логика в юриспрденции.PDF
+                    [md5] => 25412afde613f0c0fbe5cb319443c399
+                )
+
+            [1] => Array
+                (
+                    [fname] => МУКР_Введение в проф.пед.дет-сть.docx
+                    [md5] => cc458eb4c9ae73956108993314fb8792
+                )
+
+            [2] => Array
+                (
+                    [fname] => РП_Биология.doc
+                    [md5] => b7960f3c45b66d47e765e7c9bf3791d8
+                )
+
+            [3] => Array
+                (
+                    [fname] => УМКД_ТГП.doc
+                    [md5] => 85f61fb79e3551a68e2f33134d8b76e5
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/php2zR3M1
+            [files[1]] => @/tmp/phpqnXz2M
+            [files[2]] => @/tmp/phpg518hy
+            [files[3]] => @/tmp/phpIEcNxj
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => saule.imankulova.92
+            [password] => 99707
+            [fio] => Иманкулова С.Р
+            [email] => saule.imankulova.92@mail.ru
+            [idu] => 124793
+            [ido] => 110450
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => 
+                            [o_course] => 129
+                            [o_type] => 10
+                            [o_shcooltype] => 
+                            [o_volume] => 
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1385323200
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => 
+                            [user] => new
+                            [fio] => 
+                            [phone] => 
+                            [mphone] => 89049771207
+                            [email] => saule.imankulova.92@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [3] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => реферат по биологи, введение в проф-пед. деят.-контр. логика в юриспруд контольн по вариант. теория гос и права курсовая на тему "законность и правопорядок.
+    [o_course] => 129
+    [o_type] => 10
+    [o_shcooltype] => 
+    [o_volume] => 3 контрольных и 1 курсовая
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => по биологии стр 17 п.6.4 5вариант. Введение в проф-деят идет описание консп.(эссе) логика 5 вариант
+    [o_client_srok] => 1385323200
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => Магнитогорск
+    [country] => 
+    [city] => Магнитогорск
+    [o_vuz] => РГППУ
+    [user] => new
+    [fio] => Иманкулова С.Р
+    [phone] => 
+    [mphone] => 89049771207
+    [email] => saule.imankulova.92@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Иманкулова С.Р!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №110450 на тему: "реферат по биологи, введение в проф-пед. деят.-контр. логика в юриспруд контольн по вариант. теория гос и права курсовая на тему &quot;законность и правопорядок.".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: saule.imankulova.92</p>
+<p>Пароль: 99707</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск, пр-т К.Маркса,198.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+

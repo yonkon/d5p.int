@@ -1,0 +1,195 @@
+Array
+(
+    [debug] => 
+    [act] => makeOrder
+    [from_site] => diplom5plus.ru
+    [password] => *hidden*
+    [version] => 4
+    [owner_idu] => 71040
+    [idu] => 0
+    [strong] => *hidden*
+    [data] => Array
+        (
+            [o_thema] => Роль религиозной идеологии и традиций в праве стран Востока
+            [o_course] => 26
+            [o_type] => 31
+            [o_shcooltype] => 
+            [o_volume] => 30
+            [gost] => 
+            [o_font] => 
+            [o_interval] => 
+            [o_listsource] => 
+            [o_addinfo] => 
+            [o_client_srok] => 1397505600
+            [f_part] => 0
+            [f_comment] => 
+            [o_precost] => 
+            [o_cc] => 
+            [country] => 
+            [city] => 
+            [o_vuz] => ЧелГУ
+            [user] => new
+            [fio] => Бакушина Оксана
+            [phone] => 
+            [mphone] => 
+            [email] => bakushina1980@mail.ru
+            [icq] => 
+            [contact] => 
+            [o_fromknow] => 
+        )
+
+    [files_data] => Array
+        (
+            [0] => Array
+                (
+                    [fname] => IMG_20131217_233152_1.jpg
+                    [md5] => 40cdc771c395c7a4c4cc6297babecc74
+                )
+
+            [1] => Array
+                (
+                    [fname] => IMG_20131217_233212_1.jpg
+                    [md5] => 3dbb770d45c85231956b9e43121a7283
+                )
+
+            [2] => Array
+                (
+                    [fname] => IMG_20131217_233238_3.jpg
+                    [md5] => 06cd9594b3995560f50295bcc3b814f5
+                )
+
+        )
+
+    [files_send] => Array
+        (
+            [files[0]] => @/tmp/phpjIxV5B
+            [files[1]] => @/tmp/phprsgVkc
+            [files[2]] => @/tmp/phppztsAM
+        )
+
+)
+
+
+
+Array
+(
+    [data] => Array
+        (
+            [login] => bakushina1980
+            [password] => 2db10
+            [fio] => Бакушина Оксана
+            [email] => bakushina1980@mail.ru
+            [idu] => 147577
+            [ido] => 135738
+            [saved] => Array
+                (
+                    [fields] => Array
+                        (
+                            [o_thema] => Роль религиозной идеологии и традиций в праве стран Востока
+                            [o_course] => 26
+                            [o_type] => 31
+                            [o_shcooltype] => 
+                            [o_volume] => 30
+                            [gost] => 
+                            [o_font] => 
+                            [o_interval] => 
+                            [o_listsource] => 
+                            [o_addinfo] => 
+                            [o_client_srok] => 1397505600
+                            [f_part] => 0
+                            [f_comment] => 
+                            [o_precost] => 
+                            [o_cc] => 
+                            [country] => 
+                            [city] => 
+                            [o_vuz] => ЧелГУ
+                            [user] => new
+                            [fio] => Бакушина Оксана
+                            [phone] => 
+                            [mphone] => 
+                            [email] => bakushina1980@mail.ru
+                            [icq] => 
+                            [contact] => 
+                            [o_fromknow] => 
+                            [refid] => 0
+                        )
+
+                )
+
+        )
+
+    [debugOut] => 
+    [errors] => Array
+        (
+        )
+
+    [code] => 0
+    [received] => Array
+        (
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [1] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                    [2] => Array
+                        (
+                            [recievedCode] => 0
+                        )
+
+                )
+
+        )
+
+    [textOut] => Array
+(
+    [o_thema] => Роль религиозной идеологии и традиций в праве стран Востока
+    [o_course] => 26
+    [o_type] => 31
+    [o_shcooltype] => 
+    [o_volume] => 30
+    [gost] => 
+    [o_font] => 
+    [o_interval] => 
+    [o_listsource] => 
+    [o_addinfo] => 
+    [o_client_srok] => 1397505600
+    [f_part] => 0
+    [f_comment] => 
+    [o_precost] => 
+    [o_cc] => 
+    [country] => 
+    [city] => 
+    [o_vuz] => ЧелГУ
+    [user] => new
+    [fio] => Бакушина Оксана
+    [phone] => 
+    [mphone] => 
+    [email] => bakushina1980@mail.ru
+    [icq] => 
+    [contact] => 
+    [o_fromknow] => 
+    [refid] => 0
+)
+<p>Здравствуйте, Бакушина Оксана!</p>
+<p>На сайте diplom5plus.ru Вы оформили заказ №135738 на тему: "Роль религиозной идеологии и традиций в праве стран Востока".</p>
+<p>В ближайшее время мы оценим заказ и отправим Вам наши условия выполнения работы.</p>
+<p>Следить за ходом выполнения заказа, вести переписку с менеджерами Вы сможете из своего личного кабинета. Для входа в личный кабинет используйте следующие данные:</p>
+<p>Логин: bakushina1980</p>
+<p>Пароль: 2db10</p><p>С уважением, коллектив компании "5+"!!!
+г. Магнитогорск,ул.Труда 31,а. 3 этаж. Офис №12.
+Тел.:43-13-55, 8-904-97-97-555.
+www.diplom5plus.ru
+ICQ: 383708130
+http://vkontakte.ru/diplom_5_s_plusom
+Ваш успех - это наше стремление!!!</p>
+)
+
+
+
