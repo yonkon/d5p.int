@@ -41,7 +41,7 @@
 				
 					<td colspan="2" class="padded"> 
 						
-						<a href="/work/" class="avtors">Вход для авторов</a>
+						<a href="http://crm.diplom5plus.ru" class="avtors">Вход для авторов</a>
 					</td>
 				</tr>
 			</table>

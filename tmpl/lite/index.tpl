@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{$smarty.session.lang}">
 	<head>
-		<base href="{$conf.www_patch}/" /><!--[if IE]></base><![endif]-->
+		<base href="http://d5p.int" /><!--[if IE]></base><![endif]-->
 		<!--[if lt IE 9]>
 			<script src="{$conf.www_patch}js/html5shiv.js" media="all"></script>
 			<script src="{$conf.www_patch}js/html5shiv-printshiv.js" media="print"></script>

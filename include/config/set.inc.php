@@ -23,13 +23,13 @@
 	$host = "localhost";
 	$base = 'spluso_dip';
 	$user = 'root';
-	$pass = '103103103';
+	$pass = 'root';
 	$_conf['prefix'] = 'su_';
 
 	$_conf['www_dir'] = ""; // если сайт ставиться в каталоге (напр.: /mydir) - внести имя этого каталога в файле .htaccess
 	$_conf['disk_patch'] = $_SERVER['DOCUMENT_ROOT'].$_conf['www_dir']."/";
-	$_conf['doc_root'] = "D:/denwer/home/d5p.int/www".$_conf['www_dir']."/";
-	$_conf['www_patch'] = "d5p.int/".$_conf['www_dir'];
+	$_conf['doc_root'] = "/home/shikon/proj/d5p.int/".$_conf['www_dir']."";
+	$_conf['www_patch'] = "http://d5p.int/".$_conf['www_dir'];
 	$_conf['url_type'] = 1; // использовать ЧПУ - 1 или реальный - 0
 
 	$_conf['tpl_dir'] = "tmpl/lite/";

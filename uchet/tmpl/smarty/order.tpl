@@ -2,8 +2,16 @@
 
 {include file='error.tpl'}
 
-<form method="post" action="{$url.order}" id="orderform" name="orderform" enctype="multipart/form-data" onsubmit="return CheckOrderForm();">
-
+<form method="post" action="http://diplom.int/api_handler.php" id="orderform" name="orderform" enctype="multipart/form-data" onsubmit="return CheckOrderForm();">
+<input type="hidden" name="action" value="create_order"/>
+<input type="text" name="params[client_id]" placeholder="params[client_id]"  value="1">
+<input type="text" name="params[work_usr]" placeholder="params[work_usr]"  value="Тип роботи">
+<input type="text" name="params[disc_usr]" placeholder="params[disc_usr]"  value="Дисципліна роботи">
+<input type="text" name="params[pgmax]" placeholder="params[pgmax]"  value="pgmax">
+<input type="text" name="params[pgmin]" placeholder="params[pgmin]"  value="pgmin">
+<input type="text" name="params[srcmax]" placeholder="params[srcmax]"  value="srcmax">
+<input type="text" name="params[srcmin]" placeholder="params[srcmin]"  value="srcmin">
+<input type="file" name="file">
 <div class="form-part-wrap">
 	<div class="holder">
 		<h4>{$lang.order_info}</h4>
@@ -11,7 +19,7 @@
 			<div class="f-row">
 				<span id="span_o_thema" style="{$style.text_red} display: none;">{$lang.error_thema}</span>
 				<span  class="f-label">{if $orderFields.thema.mandatory}{$lang.necessarys}{/if}{$lang.thema}:</span>
-				<textarea name="o_thema" id="o_thema" >{$fieldsValues.thema}</textarea>
+				<textarea name="params[subj]" id="o_thema" >{$fieldsValues.params.subj}</textarea>
 			</div>
 		{/if}
 		
@@ -21,7 +29,7 @@
 				<span  class="f-label">{if $orderFields.course.mandatory}{$lang.necessarys}{/if}{$lang.course}:</span>
 
 				<div class="f-input">
-					<select name="o_course" id="o_course" >
+					<select name="params[kurs]" id="o_course" >
 						{include file='list.tpl' listName='course'}
 					</select>
 				</div>
@@ -33,7 +41,7 @@
 			<span id="span_o_type" style="{$style.text_red} display: none;">{$lang.error_worktype}</span>
 			<span  class="f-label">{if $orderFields.worktype.mandatory}{$lang.necessarys}{/if}{$lang.worktype}:</span>
 			<div class="f-input">
-				<select name="o_type" id="o_type" >
+				<select name="params[work_usr]" id="o_type" >
 					{include file='list.tpl' listName='worktype'}
 				</select>
 			</div>
@@ -45,7 +53,7 @@
 			<span id="span_o_client_srok" style=" color: red; font-weight: bold;  display: none;">{$lang.error_client_srok}</span>
 			<span  class="f-label">{if $orderFields.client_srok.mandatory}{$lang.necessarys}{/if}{$lang.client_srok}:</span>
 			<div class="f-input">
-				<input type="text" name="o_client_srok" id="o_client_srok" class="datetextbox" value="{$fieldsValues.client_srok}" >
+				<input type="text" name="params[time_kln]" id="o_client_srok" class="datetextbox" value="{$fieldsValues.client_srok}" >
 			</div>
 		</div>
 		{/if}
@@ -57,7 +65,7 @@
 				{$lang.volume}:
 			</span>
 			<div class="f-input">
-				<input type="text" name="o_volume" id="o_volume" value="{$fieldsValues.volume}">
+				<input type="text" name="params[pages_min]" id="o_volume" value="{$fieldsValues.volume}">
 			</div>
 		</div>
 		{/if}
@@ -68,7 +76,7 @@
 				{$lang.vuz}:
 			</span>
 			<div class="f-input">
-				<input type="text" name="{$orderFields.vuz.name}" id="{$orderFields.vuz.name}" value="{$fieldsValues.vuz}" maxlength="255" />
+				<input type="text" name="params[vuz_usr]" id="{$orderFields.vuz.name}" value="{$fieldsValues.vuz}" maxlength="255" />
 			</div>
 		</div>
 	{/if}
@@ -148,18 +156,18 @@
 			<br>
 			
 			<div class="f-input">
-				<input type="file"  name="{$orderFields.file_arr.name}[]" >
+				<input type="file"  name="params[file][]" >
 				&nbsp;
 				<br>
 
 				<div id="{$variables.addfile}"></div>
-				<a href="#" onclick="addFileField('{$orderFields.file_arr.name}', '{$variables.addfile}'); return false;">{$lang.onemorefile}</a>
+				<a href="#" onclick="addFileField('params[file][]', '{$variables.addfile}'); return false;">{$lang.onemorefile}</a>
 			</div>
 		</div>
 		
 		<div class="f-row">
 			<span  class="f-label">{$lang.file_comment}:</span>
-			<textarea name="f_comment" id="f_comment">{$fieldsValues.file_comment}</textarea>
+			<textarea name="params[treb]" id="f_comment">{$fieldsValues.file_comment}</textarea>
 		</div>
 	</div>
 	{/if}
