@@ -2,15 +2,8 @@
 
 {include file='error.tpl'}
 
-<form method="post" action="http://diplom.int/api_handler.php" id="orderform" name="orderform" enctype="multipart/form-data" onsubmit="return CheckOrderForm();">
+<form method="post" action="http://diplom.int/api_handler.php" id="orderform" name="orderform" enctype="multipart/form-data" >
 <input type="hidden" name="action" value="create_order"/>
-<input type="text" name="params[client_id]" placeholder="params[client_id]"  value="1">
-<input type="text" name="params[work_usr]" placeholder="params[work_usr]"  value="Тип роботи">
-<input type="text" name="params[disc_usr]" placeholder="params[disc_usr]"  value="Дисципліна роботи">
-<input type="text" name="params[pgmax]" placeholder="params[pgmax]"  value="pgmax">
-<input type="text" name="params[pgmin]" placeholder="params[pgmin]"  value="pgmin">
-<input type="text" name="params[srcmax]" placeholder="params[srcmax]"  value="srcmax">
-<input type="text" name="params[srcmin]" placeholder="params[srcmin]"  value="srcmin">
 <input type="file" name="file">
 <div class="form-part-wrap">
 	<div class="holder">
@@ -65,7 +58,7 @@
 				{$lang.volume}:
 			</span>
 			<div class="f-input">
-				<input type="text" name="params[pages_min]" id="o_volume" value="{$fieldsValues.volume}">
+				<input type="text" name="params[pages_max]" id="o_volume" value="{$fieldsValues.volume}">
 			</div>
 		</div>
 		{/if}
@@ -167,7 +160,7 @@
 		
 		<div class="f-row">
 			<span  class="f-label">{$lang.file_comment}:</span>
-			<textarea name="params[treb]" id="f_comment">{$fieldsValues.file_comment}</textarea>
+			<textarea name="params[comment]" id="f_comment">{$fieldsValues.file_comment}</textarea>
 		</div>
 	</div>
 	{/if}
@@ -195,7 +188,7 @@
 
 		<span  class="f-label">{if $orderFields.addinfo.mandatory}{$lang.necessarys}{/if}{$lang.addinfo}:</span>
 
-		<textarea name="o_addinfo" id="o_addinfo">{$fieldsValues.addinfo}</textarea>
+		<textarea name="params[treb]" id="o_addinfo">{$fieldsValues.addinfo}</textarea>
 
 	</div>
 	<div style="width:100%; clear:both;"></div>
@@ -213,7 +206,7 @@
 
 	<div>
 		<input type="hidden" name="act" id="act" value="parseOrderData">
-		<input type="submit" value=" "  class="button">
+		<input id="orderform_submit" type="submit" value=" "  class="button">
 	</div>
 
 </div>
@@ -248,7 +241,8 @@
 			$('#o_fromknow').chosen({no_results_text: "Не найдено: "});
 		}    
 	});	
-	function CheckOrderForm() {
+	$('#orderform_submit').click(function(event) {
+
 		var result = true;
 			if ($('#o_thema').val() == '') {
 				$("#o_thema").css("border","solid 1px #ff0000");
@@ -304,8 +298,9 @@
 				$("#span_o_client_srok").css("display","none");
 				}
 
-					var s = document.orderform.user.value;
-			if(s == 'new') {
+    var postdata = {};
+//		var s = document.orderform.user.value;
+//		if(s == 'new') {
 
 							
 			if ($("#fio").val() == '') {
@@ -339,9 +334,51 @@
 				$("#span_Array_error").css("display","none");
 				$("#span_Array").css("display","none");
 				}
-						}
+//		}
+    if (!result) {
 			return result;
-		}
+    }
+
+    var postdataObj = $('#orderform').serializeArray();
+    for (var o = 0; o<postdataObj.length; o++) {
+      postdata[postdataObj[o].name] = postdataObj[o].value;
+    }
+
+    if(postdata.email) {
+//      var purl = 'http://crm.diplom5plus.ru/api_handler.php';
+      var purl = 'http://diplom.int/api_handler.php';
+//      jQuery.support.cors = true;
+      $.ajax({
+//        dataType: "jsonp",
+        url : purl,
+        data : {
+          action : 'get_client',
+          params : {
+//            fio : postdata.fio,
+            email : postdata.email
+          }
+        },
+        type : 'post',
+        success : function(data){
+          alert('success');
+          data = JSON.parse(data);
+          console.log(data);
+        },
+        error : function(xhr, status, errorThrown ) {
+          alert( "Sorry, there was a problem!" );
+          console.log( "Error: " + errorThrown );
+          console.log( "Status: " + status );
+          console.dir( xhr );
+        }
+      });
+
+      event.preventDefault();
+      event.stopPropagation();
+      event.defaultPrevented = true;
+    }
+
+
+		});
 	function CheckSymbol(e) { 
 		var keynum;
 			var keychar;
