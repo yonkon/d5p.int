@@ -279,6 +279,7 @@ class UCore extends UchetController
 	 */
 	private static function syncDictionary($version)
 	{
+		return true;
 		$req = new UClient(Array('version' => $version));
 		if($req->makeRequest('loadDictionary') && (!$req->code)) {
 			$dicts = Array('course','fromknow','paysys','shcooltype','worktype','workpart','gost','country','country_phone');
