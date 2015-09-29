@@ -40,7 +40,7 @@
 			
 				{include file='errorlabel.tpl' fieldName='fio'}
 				
-				<input type="text" name="{$fields.fio}" id="{$fields.fio}" style="width:300px; {$style.border_normal}" value="{$fieldsValues.fio}" />
+				<input type="text" name="fio" id="{$fields.fio}" style="width:300px; {$style.border_normal}" value="{$fieldsValues.fio}" />
 			</td>
 		</tr>
 		<tr>
