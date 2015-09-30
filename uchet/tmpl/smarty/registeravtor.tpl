@@ -15,14 +15,24 @@
 		<tr>
 			<th colspan="2" align="center">{$lang.detailsToEnter}</th>
 		</tr>
-		<tr>
+		{*<tr>
 			<td style="{$style.text_align1}">{$lang.mandatoryField}{$lang.login}:</td>
 			<td style="{$style.td_right}">
 				
 				{include file='errorlabel.tpl' fieldName='login'}
 				<input type="text" name="{$fields.login}" id="{$fields.login}" style="width:300px; {$style.border_normal}" value="{$fieldsValues.login}" />
 			</td>
-		</tr>
+		</tr>*}
+        <tr>
+            <td style="{$style.text_align1}">{$lang.mandatoryField}{$lang.email}:</td>
+            <td style="{$style.td_right}">
+
+                {include file='errorlabel.tpl' fieldName='email'}
+                {include file='errorlabel.tpl' fieldName='email' param='correct'}
+
+                <input type="text" name="{$fields.email}" id="{$fields.email}" style="width:300px; {$style.border_normal}" value="{$fieldsValues.email}" />
+            </td>
+        </tr>
 		<tr>
 			<td style="{$style.text_align1}">{$lang.mandatoryField}{$lang.pass}:</td>
 			<td style="{$style.td_right}">
@@ -91,16 +101,7 @@
 				<input type="text" name="{$fields.web}" id="{$fields.web}" style="width:300px; {$style.border_normal}" value="{$fieldsValues.web}" />
 			</td>
 		</tr>
-		<tr>
-			<td style="{$style.text_align1}">{$lang.mandatoryField}{$lang.email}:</td>
-			<td style="{$style.td_right}">
-				
-				{include file='errorlabel.tpl' fieldName='email'}
-				{include file='errorlabel.tpl' fieldName='email' param='correct'}
-				
-				<input type="text" name="{$fields.email}" id="{$fields.email}" style="width:300px; {$style.border_normal}" value="{$fieldsValues.email}" />
-			</td>
-		</tr>
+
 		<tr>
 			<td style="{$style.text_align1}">{$lang.icq}:</td>
 			<td style="{$style.td_right}">
@@ -229,8 +230,8 @@ function next_focus_order(obj) {
 function CheckRegisterAvtorForm() {
 	var result = true;
 	/* логин */
-	
-	if ($('#{$fields.login}').val() == '') {
+
+/*	if ($('#{$fields.login}').val() == '') {
 		$('#{$fields.login}').css("border-color","red");
 		$("#span_login").css("display","inline");
 		result = false;
@@ -239,8 +240,8 @@ function CheckRegisterAvtorForm() {
 		{
 		$("{$fields.login}").css("border-color","#959595");
 		$("span_login").css("display","none");
-		}	
-		
+		}*/
+
 	/* пароль */
 
 	if ($('#{$fields.pass}').val() == '') {
