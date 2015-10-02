@@ -159,7 +159,7 @@
 			<td>&nbsp;</td>
 			<td style="{$style.td_right}">
 				<input type="hidden" name="{$fields.act}" id="{$fields.act}" value="parseRegisteravtorData" /><br />
-				<input id="registerautor_submit" type="submit" value="Сохранить" style="width:300px; height:40px;"/>
+				<input id="register_author_submit" type="submit" value="Сохранить" style="width:300px; height:40px;"/>
 			</td>
 		</tr>
 	</table>
@@ -228,7 +228,7 @@ function next_focus_order(obj) {
 }
 
 
-$('#registerauthor_submit').click(function(event){
+$('#register_author_submit').click(function(event){
   if ( CheckRegisterAvtorForm()) {
     var url = 'http://crm.diplom5plus.ru/api_handler.php';
     var postdataObj = $('#avtorform').serializeArray();
@@ -243,10 +243,28 @@ $('#registerauthor_submit').click(function(event){
         params : postdata
       },
       success : function(data) {
-        data = JSON.parse(data);
-      }
-    })
+          data = JSON.parse(data);
+          if (data.status && data.msg == 'OK') {
+              window.location = 'http://diplom5plus.ru/cabinet/page/sregisteravtor/';
+          } else if(typeof data.params != 'undefined' && data.params) {
+              for (pname in data.params) {
+                  $('#span_'+pname).css("display","inline");
+              }
+          } else {
+              alert(data.msg);
+          }
+      },
+        error : function(xhr, status, errorThrown ) {
+            alert( "Ошибка сервера" );
+            console.log( "Error: " + errorThrown );
+            console.log( "Status: " + status );
+            console.dir( xhr );
+        }
+    });
   }
+    event.preventDefault();
+    event.stopPropagation();
+    return false;
 });
 function CheckRegisterAvtorForm() {
 	var result = true;
